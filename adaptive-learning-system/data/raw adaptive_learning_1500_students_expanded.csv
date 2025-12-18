@@ -1,0 +1,1501 @@
+Student_ID,student_name,Course_Domain,Topic_Name,Time_Spent_Minutes,Quiz_Attempts,Quiz_Score,Previous_Score,Improvement_Rate,Engagement_Level,Struggle_Flag,Completion_Status,Learning_Pace,error_type,dropout_risk_label,difficulty_level,expected_duration_min
+STU1000000,Arjun Desai,Programming,Python Basics,16,5,67,82,-15,Medium,0,Completed,Average,Concept Misunderstanding,Low Risk,Expert,40
+STU1000001,Karan Desai,Physics,Thermodynamics,8,1,98,97,1,High,0,Completed,Fast,Data Formatting Error,Low Risk,Beginner,29
+STU1000002,Diya Singh,Programming,Git Version Control,8,6,45,56,-11,Low,1,Dropped,Average,Missed Prerequisite,Critical Risk,Expert,50
+STU1000003,Amit Rao,English,Grammar,8,1,78,50,28,Medium,0,In Progress,Fast,Concept Misunderstanding,Low Risk,Intermediate,24
+STU1000004,Zara Nair,Physics,Thermodynamics,19,1,59,59,0,Medium,0,Completed,Fast,Calculation Error,Low Risk,Advanced,17
+STU1000005,Amit Desai,Mathematics,Polynomials,12,1,96,85,11,High,0,Completed,Fast,Logic Error,Low Risk,Beginner,20
+STU1000006,Diya Bhat,Economics,Financial Markets,8,1,66,64,2,Medium,0,In Progress,Fast,Data Formatting Error,Low Risk,Advanced,18
+STU1000007,Sarah Joshi,Psychology,Perception,32,1,65,58,7,Medium,0,Completed,Average,Timeout Error,Low Risk,Advanced,51
+STU1000008,Vikram Sharma,Mathematics,Calculus I,40,1,74,58,16,Medium,0,Completed,Average,No Error,Low Risk,Intermediate,47
+STU1000009,Amit Reddy,Biology,Photosynthesis,8,4,71,53,18,Medium,0,In Progress,Average,Missed Prerequisite,Low Risk,Advanced,35
+STU1000010,Neha Gupta,Biology,Genetics,13,1,55,54,1,Medium,0,In Progress,Fast,Syntax Error,Low Risk,Advanced,16
+STU1000011,Nikhil Singh,Programming,OOP Concepts,122,2,86,79,7,Medium,0,Completed,Average,Missed Prerequisite,Low Risk,Beginner,56
+STU1000012,Amit Rao,Psychology,Perception,8,1,73,66,7,Medium,0,Completed,Fast,Concept Misunderstanding,Low Risk,Intermediate,30
+STU1000013,Rahul Reddy,History,Cultural Movements,17,1,68,77,-9,Medium,0,In Progress,Fast,Concept Misunderstanding,Low Risk,Advanced,15
+STU1000014,Arjun Gupta,English,Writing Skills,11,1,79,67,12,Medium,0,Completed,Fast,Logic Error,Low Risk,Intermediate,20
+STU1000015,Diya Kumar,Psychology,Learning Theories,8,7,41,53,-12,Low,1,In Progress,Average,Timeout Error,High Risk,Expert,36
+STU1000016,Akshay Nair,Programming,Python Basics,8,3,83,84,-1,Medium,0,Completed,Average,Concept Misunderstanding,Low Risk,Intermediate,32
+STU1000017,Pooja Mishra,Chemistry,Reactions,51,1,62,55,7,Medium,0,Dropped,Average,Timeout Error,High Risk,Advanced,59
+STU1000018,Varun Kumar,Programming,Database Design,69,1,67,61,6,Medium,0,In Progress,Average,Runtime Error,Low Risk,Advanced,60
+STU1000019,Sarah Joshi,Biology,Evolution,13,1,87,92,-5,High,0,Completed,Fast,No Error,Low Risk,Beginner,27
+STU1000020,Sarah Verma,Physics,Waves,76,1,80,65,15,Medium,0,Completed,Average,Calculation Error,Low Risk,Intermediate,39
+STU1000021,Rajesh Gupta,Programming,Debugging,50,1,74,89,-15,Medium,0,Completed,Average,Missed Prerequisite,Low Risk,Intermediate,36
+STU1000022,Karan Chopra,Economics,Inflation,25,1,76,65,11,Medium,0,In Progress,Fast,Syntax Error,Low Risk,Intermediate,22
+STU1000023,Aarav Nair,English,Essay Writing,13,1,71,72,-1,Medium,0,Dropped,Fast,Concept Misunderstanding,High Risk,Intermediate,24
+STU1000024,Vivaan Reddy,Economics,Inflation,18,2,62,52,10,Medium,0,Completed,Fast,Logic Error,Low Risk,Advanced,17
+STU1000025,Rajesh Gupta,Mathematics,Linear Algebra,92,2,88,83,5,Medium,0,Completed,Average,No Error,Low Risk,Beginner,44
+STU1000026,Rohan Patel,Biology,DNA and Proteins,56,1,76,77,-1,Medium,0,In Progress,Average,No Error,Low Risk,Intermediate,31
+STU1000027,Rajesh Reddy,Physics,Modern Physics,57,4,40,41,-1,Medium,1,Completed,Average,Missed Prerequisite,High Risk,Expert,41
+STU1000028,Vivaan Gupta,Biology,Ecology,9,1,79,73,6,Medium,0,Completed,Fast,Calculation Error,Low Risk,Intermediate,15
+STU1000029,Priya Gupta,English,Punctuation,8,1,53,52,1,Medium,0,In Progress,Fast,Missed Prerequisite,Low Risk,Expert,20
+STU1000030,Amit Desai,Data Science,Pandas Tutorial,8,1,72,73,-1,Medium,0,Completed,Fast,Logic Error,Low Risk,Intermediate,25
+STU1000031,Vikram Sharma,Economics,Markets,25,2,78,69,9,Medium,0,Completed,Fast,Runtime Error,Low Risk,Intermediate,28
+STU1000032,Varun Das,English,Critical Thinking,114,1,46,50,-4,Medium,1,Dropped,Average,Concept Misunderstanding,Critical Risk,Expert,42
+STU1000033,Aditya Verma,Physics,Energy and Work,11,1,75,91,-16,Medium,0,Completed,Fast,Data Formatting Error,Low Risk,Intermediate,20
+STU1000034,Neha Joshi,Programming,Python Basics,8,1,72,72,0,Medium,0,Dropped,Fast,Logic Error,High Risk,Intermediate,18
+STU1000035,Sarah Gupta,Data Science,Machine Learning,8,1,92,91,1,High,0,Completed,Fast,Calculation Error,Low Risk,Beginner,19
+STU1000036,Nikhil Chopra,English,Critical Thinking,9,2,96,73,23,High,0,Completed,Fast,Missed Prerequisite,Low Risk,Beginner,28
+STU1000037,Vikram Reddy,English,Critical Thinking,35,1,60,50,10,Medium,0,Dropped,Average,Algorithm Error,High Risk,Advanced,45
+STU1000038,Rajesh Gupta,Economics,Markets,8,1,51,56,-5,Medium,0,Dropped,Fast,Data Formatting Error,High Risk,Expert,17
+STU1000039,Vikram Rao,Mathematics,Geometry Fundamentals,36,1,61,76,-15,Medium,0,Completed,Average,Calculation Error,Low Risk,Advanced,42
+STU1000040,Arjun Mishra,Economics,Markets,96,1,63,56,7,Medium,0,Completed,Average,No Error,Low Risk,Advanced,60
+STU1000041,Neha Singh,Biology,Genetics,90,3,79,58,21,Medium,0,In Progress,Slow,Syntax Error,Low Risk,Intermediate,117
+STU1000042,Nikhil Desai,Data Science,Feature Engineering,59,1,50,57,-7,Medium,0,In Progress,Average,Syntax Error,Low Risk,Expert,57
+STU1000043,Zara Reddy,Chemistry,Solutions,8,4,60,66,-6,Medium,0,Completed,Average,Runtime Error,Low Risk,Advanced,36
+STU1000044,Ishaan Sharma,Economics,Microeconomics,14,1,82,76,6,High,0,In Progress,Fast,No Error,Low Risk,Intermediate,19
+STU1000045,Rahul Chopra,Chemistry,Solutions,76,2,64,63,1,Medium,0,Completed,Average,Runtime Error,Low Risk,Advanced,57
+STU1000046,Rohan Kumar,Data Science,Statistical Analysis,8,4,60,48,12,Medium,0,Completed,Average,Syntax Error,Low Risk,Advanced,36
+STU1000047,Arjun Joshi,Economics,Consumer Behavior,8,1,100,96,4,High,0,In Progress,Fast,Missed Prerequisite,Low Risk,Beginner,24
+STU1000048,Vikram Patel,Psychology,Learning Theories,36,1,60,66,-6,Medium,0,In Progress,Average,Timeout Error,Low Risk,Advanced,43
+STU1000049,Sanjay Kumar,Programming,OOP Concepts,13,2,89,85,4,High,0,In Progress,Fast,Concept Misunderstanding,Low Risk,Beginner,30
+STU1000050,Aditya Joshi,Chemistry,Acids and Bases,37,1,71,58,13,Medium,0,In Progress,Average,Calculation Error,Low Risk,Intermediate,35
+STU1000051,Akshay Reddy,Psychology,Cognitive Development,10,1,73,74,-1,Medium,0,In Progress,Fast,Algorithm Error,Low Risk,Intermediate,24
+STU1000052,Vikram Sharma,History,Medieval Europe,77,1,75,81,-6,Medium,0,Dropped,Average,Logic Error,High Risk,Intermediate,48
+STU1000053,Akshay Chopra,Economics,Macroeconomics,30,1,84,67,17,High,0,Completed,Average,Logic Error,Low Risk,Intermediate,36
+STU1000054,Amit Chopra,History,Cultural Movements,11,1,58,60,-2,Medium,0,In Progress,Fast,Runtime Error,Low Risk,Advanced,29
+STU1000055,Diya Patel,Economics,Government Policy,98,5,50,63,-13,Medium,1,Dropped,Slow,Timeout Error,Critical Risk,Expert,77
+STU1000056,Aryan Chopra,Physics,Quantum Mechanics,8,4,64,60,4,Medium,0,Completed,Average,Data Formatting Error,Low Risk,Advanced,36
+STU1000057,Nikhil Joshi,Physics,Waves,115,3,49,35,14,Medium,1,Dropped,Slow,Runtime Error,Critical Risk,Expert,60
+STU1000058,Zara Bhat,Biology,Reproduction,66,1,78,57,21,Medium,0,Dropped,Average,Algorithm Error,High Risk,Intermediate,34
+STU1000059,Rajesh Kumar,History,Medieval Europe,96,2,61,59,2,Medium,0,In Progress,Average,Missed Prerequisite,Low Risk,Advanced,44
+STU1000060,Pooja Reddy,Programming,OOP Concepts,33,8,56,39,17,Low,1,Dropped,Average,Calculation Error,Critical Risk,Expert,32
+STU1000061,Priya Joshi,Economics,Inflation,73,2,91,93,-2,Medium,0,Completed,Average,No Error,Low Risk,Beginner,56
+STU1000062,Nikhil Singh,Mathematics,Geometry Fundamentals,15,1,82,79,3,High,0,Completed,Fast,No Error,Low Risk,Intermediate,27
+STU1000063,Isha Chopra,Mathematics,Linear Algebra,70,4,65,100,-35,Medium,0,In Progress,Average,Runtime Error,Low Risk,Advanced,49
+STU1000064,Priya Verma,Mathematics,Trigonometry,56,1,89,87,2,High,0,Completed,Average,Concept Misunderstanding,Low Risk,Beginner,55
+STU1000065,Aarav Sharma,Physics,Waves,77,1,63,57,6,Medium,0,Completed,Average,Runtime Error,Low Risk,Advanced,37
+STU1000066,Rajesh Kumar,Physics,Quantum Mechanics,30,1,100,73,27,High,0,Completed,Average,Algorithm Error,Low Risk,Beginner,46
+STU1000067,Amit Sharma,Psychology,Memory and Attention,11,1,67,77,-10,Medium,0,In Progress,Fast,Calculation Error,Low Risk,Advanced,25
+STU1000068,Zara Verma,History,Asian History,8,1,64,69,-5,Medium,0,In Progress,Fast,Concept Misunderstanding,Low Risk,Advanced,30
+STU1000069,Aryan Mishra,Programming,Database Design,34,1,75,60,15,Medium,0,In Progress,Average,Timeout Error,Low Risk,Intermediate,44
+STU1000070,Pooja Bhat,English,Punctuation,27,1,44,51,-7,Medium,1,Completed,Fast,Logic Error,High Risk,Expert,29
+STU1000071,Ishaan Reddy,Mathematics,Geometry Fundamentals,55,1,63,58,5,Medium,0,In Progress,Average,Missed Prerequisite,Low Risk,Advanced,48
+STU1000072,Pooja Rao,Biology,Genetics,8,5,65,72,-7,Medium,0,In Progress,Average,Calculation Error,Low Risk,Expert,31
+STU1000073,Priya Chopra,Physics,Quantum Mechanics,18,1,67,56,11,Medium,0,In Progress,Fast,Runtime Error,Low Risk,Advanced,17
+STU1000074,Rajesh Bhat,English,Literature Analysis,27,2,56,64,-8,Medium,0,In Progress,Fast,Missed Prerequisite,Low Risk,Advanced,24
+STU1000075,Vikram Rao,Physics,Dynamics,108,2,100,100,0,Medium,0,In Progress,Average,Missed Prerequisite,Low Risk,Beginner,50
+STU1000076,Akshay Desai,Economics,Microeconomics,19,1,94,78,16,High,0,Completed,Fast,Algorithm Error,Low Risk,Beginner,29
+STU1000077,Rahul Chopra,Economics,Supply and Demand,8,1,81,80,1,High,0,Dropped,Fast,Timeout Error,High Risk,Intermediate,26
+STU1000078,Sanjay Joshi,Physics,Energy and Work,22,1,26,18,8,Low,1,Dropped,Fast,Syntax Error,Critical Risk,Expert,24
+STU1000079,Arjun Bhat,History,Renaissance,8,1,99,76,23,High,0,In Progress,Fast,Syntax Error,Low Risk,Beginner,27
+STU1000080,Sanjay Joshi,Mathematics,Calculus I,35,1,96,73,23,High,0,Completed,Average,Data Formatting Error,Low Risk,Beginner,49
+STU1000081,Priya Das,English,Essay Writing,24,3,47,57,-10,Medium,1,Completed,Average,Algorithm Error,High Risk,Expert,56
+STU1000082,Rajesh Bhat,History,Industrial Revolution,8,1,76,64,12,Medium,0,In Progress,Fast,Timeout Error,Low Risk,Intermediate,20
+STU1000083,Aryan Desai,Economics,GDP,98,1,98,77,21,Medium,0,In Progress,Average,Logic Error,Low Risk,Beginner,43
+STU1000084,Varun Reddy,Chemistry,Acids and Bases,21,1,72,76,-4,Medium,0,Dropped,Fast,No Error,High Risk,Intermediate,22
+STU1000085,Akshay Kumar,Psychology,Human Motivation,113,4,60,49,11,Medium,0,In Progress,Slow,Timeout Error,Low Risk,Advanced,71
+STU1000086,Varun Nair,Biology,Cells,8,1,66,73,-7,Medium,0,In Progress,Fast,Concept Misunderstanding,Low Risk,Advanced,28
+STU1000087,Neha Gupta,History,Cultural Movements,8,2,88,83,5,High,0,In Progress,Fast,Runtime Error,Low Risk,Beginner,29
+STU1000088,Ishaan Verma,Economics,Macroeconomics,46,2,62,52,10,Medium,0,In Progress,Average,Syntax Error,Low Risk,Advanced,42
+STU1000089,Amit Desai,Economics,Microeconomics,48,2,74,72,2,Medium,0,Dropped,Average,Missed Prerequisite,High Risk,Intermediate,59
+STU1000090,Ananya Patel,Programming,Debugging,16,2,83,72,11,High,0,Completed,Fast,Algorithm Error,Low Risk,Intermediate,20
+STU1000091,Arjun Desai,Physics,Magnetism,68,1,87,87,0,Medium,0,In Progress,Average,Missed Prerequisite,Low Risk,Beginner,52
+STU1000092,Karan Sharma,Psychology,Social Psychology,8,4,81,73,8,Medium,0,Completed,Average,Algorithm Error,Low Risk,Advanced,48
+STU1000093,Aditya Reddy,Mathematics,Functions,13,4,61,56,5,Medium,0,In Progress,Average,Concept Misunderstanding,Low Risk,Advanced,33
+STU1000094,Sarah Chopra,Psychology,Memory and Attention,105,1,62,84,-22,Medium,0,Completed,Average,Runtime Error,Low Risk,Advanced,42
+STU1000095,Aditya Singh,Chemistry,Acids and Bases,12,1,92,91,1,High,0,Completed,Fast,Logic Error,Low Risk,Beginner,16
+STU1000096,Priya Nair,Biology,Ecology,54,2,74,60,14,Medium,0,In Progress,Average,Calculation Error,Low Risk,Intermediate,37
+STU1000097,Diya Singh,Data Science,NumPy Essentials,8,1,89,79,10,High,0,Completed,Fast,Runtime Error,Low Risk,Beginner,20
+STU1000098,Vikram Patel,Programming,Python Basics,15,1,81,67,14,High,0,Completed,Fast,Algorithm Error,Low Risk,Intermediate,23
+STU1000099,Varun Desai,Psychology,Cognitive Development,33,1,78,64,14,Medium,0,In Progress,Average,Logic Error,Low Risk,Intermediate,58
+STU1000100,Zara Das,Physics,Quantum Mechanics,8,3,56,55,1,Medium,0,In Progress,Average,Syntax Error,Low Risk,Advanced,50
+STU1000101,Aryan Patel,Biology,Genetics,8,7,26,14,12,Low,1,Completed,Average,Data Formatting Error,High Risk,Expert,47
+STU1000102,Arjun Joshi,Biology,Photosynthesis,58,5,40,42,-2,Medium,1,Dropped,Average,Missed Prerequisite,Critical Risk,Expert,39
+STU1000103,Neha Sharma,Economics,Markets,52,1,87,77,10,High,0,Completed,Average,No Error,Low Risk,Beginner,51
+STU1000104,Rahul Das,Economics,Supply and Demand,8,1,74,67,7,Medium,0,Completed,Fast,No Error,Low Risk,Intermediate,17
+STU1000105,Rahul Patel,Economics,Markets,8,1,79,62,17,Medium,0,Dropped,Fast,Logic Error,High Risk,Intermediate,21
+STU1000106,Vikram Nair,Programming,Data Structures,47,1,73,74,-1,Medium,0,In Progress,Average,Timeout Error,Low Risk,Intermediate,59
+STU1000107,Vikram Gupta,Programming,Git Version Control,11,3,69,66,3,Medium,0,In Progress,Average,Timeout Error,Low Risk,Advanced,45
+STU1000108,Akshay Patel,Chemistry,Thermochemistry,8,1,75,71,4,Medium,0,In Progress,Fast,Timeout Error,Low Risk,Intermediate,28
+STU1000109,Diya Nair,Biology,Ecology,34,2,100,84,16,High,0,Completed,Average,Concept Misunderstanding,Low Risk,Beginner,54
+STU1000110,Karan Sharma,Chemistry,Solutions,30,4,98,81,17,Medium,0,In Progress,Average,Concept Misunderstanding,Low Risk,Advanced,47
+STU1000111,Arjun Singh,Mathematics,Geometry Fundamentals,11,1,43,41,2,Medium,1,In Progress,Fast,No Error,High Risk,Expert,18
+STU1000112,Priya Desai,Chemistry,Bonding,30,1,80,90,-10,High,0,Completed,Average,Missed Prerequisite,Low Risk,Intermediate,41
+STU1000113,Diya Desai,Data Science,NumPy Essentials,12,3,48,58,-10,Medium,1,Dropped,Average,Runtime Error,Critical Risk,Expert,32
+STU1000114,Zara Verma,History,Cultural Movements,84,3,41,67,-26,Medium,1,In Progress,Slow,Missed Prerequisite,High Risk,Expert,108
+STU1000115,Amit Sharma,Economics,Supply and Demand,94,3,86,73,13,Medium,0,In Progress,Slow,Timeout Error,Low Risk,Intermediate,66
+STU1000116,Varun Singh,Data Science,Model Evaluation,150,1,49,70,-21,Medium,1,Dropped,Average,Algorithm Error,Critical Risk,Expert,46
+STU1000117,Aditya Das,Biology,Microbiology,122,3,62,73,-11,Medium,0,Completed,Slow,Timeout Error,Low Risk,Advanced,109
+STU1000118,Varun Bhat,English,Literature Analysis,18,1,75,67,8,Medium,0,In Progress,Fast,Concept Misunderstanding,Low Risk,Intermediate,25
+STU1000119,Diya Rao,Biology,Cells,51,5,45,57,-12,Medium,1,Completed,Average,Timeout Error,High Risk,Expert,43
+STU1000120,Nikhil Verma,Physics,Thermodynamics,20,1,76,73,3,Medium,0,Completed,Fast,Missed Prerequisite,Low Risk,Intermediate,29
+STU1000121,Neha Desai,Biology,Human Anatomy,9,2,51,71,-20,Medium,0,Dropped,Fast,Runtime Error,High Risk,Expert,20
+STU1000122,Rajesh Sharma,English,Critical Thinking,8,2,98,91,7,High,0,Completed,Fast,Missed Prerequisite,Low Risk,Beginner,23
+STU1000123,Priya Gupta,Physics,Energy and Work,25,3,100,100,0,Medium,0,Dropped,Average,Runtime Error,High Risk,Intermediate,36
+STU1000124,Pooja Kumar,Data Science,Data Visualization,73,1,84,89,-5,Medium,0,In Progress,Average,Syntax Error,Low Risk,Intermediate,46
+STU1000125,Sanjay Singh,Biology,DNA and Proteins,42,1,90,64,26,High,0,Completed,Average,Concept Misunderstanding,Low Risk,Beginner,31
+STU1000126,Amit Das,Physics,Waves,17,1,70,75,-5,Medium,0,In Progress,Fast,Concept Misunderstanding,Low Risk,Intermediate,29
+STU1000127,Ananya Kumar,Programming,Database Design,25,2,99,77,22,High,0,In Progress,Fast,Timeout Error,Low Risk,Beginner,15
+STU1000128,Amit Rao,History,Renaissance,69,5,20,24,-4,Low,1,Dropped,Average,Algorithm Error,Critical Risk,Expert,32
+STU1000129,Sanjay Rao,History,Civil Rights,21,7,13,16,-3,Low,1,Dropped,Average,No Error,Critical Risk,Expert,50
+STU1000130,Aryan Iyer,Physics,Thermodynamics,35,1,80,62,18,High,0,Completed,Average,Timeout Error,Low Risk,Intermediate,52
+STU1000131,Zara Joshi,Physics,Magnetism,8,1,74,82,-8,Medium,0,In Progress,Fast,Calculation Error,Low Risk,Intermediate,29
+STU1000132,Nikhil Mishra,Programming,Functions,38,1,67,54,13,Medium,0,In Progress,Average,Algorithm Error,Low Risk,Advanced,42
+STU1000133,Neha Iyer,Economics,Financial Markets,8,1,73,57,16,Medium,0,Completed,Fast,No Error,Low Risk,Intermediate,25
+STU1000134,Rajesh Sharma,Economics,International Trade,8,1,100,92,8,High,0,In Progress,Fast,Logic Error,Low Risk,Beginner,27
+STU1000135,Sarah Kumar,Programming,Functions,8,2,64,63,1,Medium,0,In Progress,Fast,Syntax Error,Low Risk,Advanced,21
+STU1000136,Priya Singh,Chemistry,Bonding,72,4,52,54,-2,Medium,0,In Progress,Average,No Error,Low Risk,Expert,42
+STU1000137,Zara Nair,English,Vocabulary,57,2,67,57,10,Medium,0,Completed,Average,Runtime Error,Low Risk,Advanced,31
+STU1000138,Akshay Nair,Biology,DNA and Proteins,16,1,52,73,-21,Medium,0,Completed,Fast,Calculation Error,Low Risk,Expert,15
+STU1000139,Ananya Chopra,Economics,Microeconomics,21,2,83,78,5,High,0,Completed,Fast,Missed Prerequisite,Low Risk,Intermediate,23
+STU1000140,Diya Sharma,Psychology,Social Psychology,25,1,73,58,15,Medium,0,In Progress,Fast,Timeout Error,Low Risk,Intermediate,18
+STU1000141,Aryan Rao,English,Grammar,26,1,63,42,21,Medium,0,Completed,Fast,Missed Prerequisite,Low Risk,Advanced,19
+STU1000142,Nikhil Das,Economics,Inflation,8,1,65,49,16,Medium,0,In Progress,Fast,Missed Prerequisite,Low Risk,Advanced,25
+STU1000143,Aditya Desai,Programming,OOP Concepts,8,3,95,95,0,Medium,0,Completed,Average,Algorithm Error,Low Risk,Intermediate,51
+STU1000144,Akshay Mishra,Programming,Functions,54,1,76,59,17,Medium,0,Completed,Average,Concept Misunderstanding,Low Risk,Intermediate,53
+STU1000145,Aditya Gupta,English,Vocabulary,30,2,59,53,6,Medium,0,In Progress,Average,Logic Error,Low Risk,Advanced,44
+STU1000146,Sarah Mishra,Chemistry,Solutions,11,1,88,99,-11,High,0,Completed,Fast,Logic Error,Low Risk,Beginner,30
+STU1000147,Diya Verma,English,Sentence Structure,15,7,27,38,-11,Low,1,In Progress,Average,Data Formatting Error,High Risk,Expert,44
+STU1000148,Rajesh Rao,Data Science,Deep Learning,8,1,65,56,9,Medium,0,Completed,Fast,Syntax Error,Low Risk,Advanced,17
+STU1000149,Arjun Verma,English,Creative Writing,8,1,75,58,17,Medium,0,Completed,Fast,Syntax Error,Low Risk,Intermediate,17
+STU1000150,Sarah Verma,Chemistry,Equilibrium,18,7,50,44,6,Low,1,Dropped,Average,Calculation Error,Critical Risk,Expert,47
+STU1000151,Nikhil Nair,Psychology,Memory and Attention,122,3,54,68,-14,Medium,0,Completed,Slow,Timeout Error,Low Risk,Expert,102
+STU1000152,Priya Verma,History,American History,8,1,76,75,1,Medium,0,In Progress,Fast,No Error,Low Risk,Intermediate,22
+STU1000153,Nikhil Verma,Physics,Quantum Mechanics,29,1,65,68,-3,Medium,0,In Progress,Fast,Calculation Error,Low Risk,Advanced,29
+STU1000154,Nikhil Bhat,Data Science,Exploratory Data Analysis,13,1,50,55,-5,Medium,0,In Progress,Fast,Algorithm Error,Low Risk,Expert,19
+STU1000155,Rohan Kumar,Psychology,Learning Theories,8,1,84,59,25,High,0,Completed,Fast,Algorithm Error,Low Risk,Intermediate,30
+STU1000156,Ishaan Singh,Physics,Waves,8,1,65,62,3,Medium,0,In Progress,Fast,Syntax Error,Low Risk,Advanced,23
+STU1000157,Akshay Joshi,Physics,Energy and Work,14,1,90,76,14,High,0,Completed,Fast,Syntax Error,Low Risk,Beginner,20
+STU1000158,Vikram Sharma,Physics,Optics,10,2,82,88,-6,High,0,Completed,Fast,Concept Misunderstanding,Low Risk,Intermediate,20
+STU1000159,Sanjay Patel,Programming,API Development,22,1,83,72,11,High,0,Completed,Fast,Data Formatting Error,Low Risk,Intermediate,15
+STU1000160,Sarah Bhat,Psychology,Social Psychology,62,6,62,51,11,Low,1,In Progress,Average,Algorithm Error,High Risk,Expert,49
+STU1000161,Vikram Mishra,English,Punctuation,97,1,76,66,10,Medium,0,In Progress,Average,Missed Prerequisite,Low Risk,Intermediate,33
+STU1000162,Sarah Rao,Data Science,Data Cleaning,29,3,71,63,8,Medium,0,Dropped,Average,Concept Misunderstanding,High Risk,Intermediate,35
+STU1000163,Sarah Gupta,Programming,Database Design,8,1,80,67,13,High,0,Completed,Fast,Missed Prerequisite,Low Risk,Intermediate,24
+STU1000164,Amit Rao,Economics,GDP,38,1,88,76,12,High,0,Completed,Average,Calculation Error,Low Risk,Beginner,33
+STU1000165,Zara Nair,Physics,Dynamics,17,3,28,20,8,Low,1,In Progress,Average,Runtime Error,High Risk,Expert,47
+STU1000166,Rajesh Reddy,History,Cultural Movements,21,1,75,83,-8,Medium,0,Dropped,Fast,Data Formatting Error,High Risk,Intermediate,27
+STU1000167,Vivaan Chopra,Psychology,Learning Theories,9,4,71,41,30,Medium,0,Dropped,Average,Syntax Error,High Risk,Advanced,35
+STU1000168,Sarah Patel,History,Global Events,82,1,52,70,-18,Medium,0,Completed,Average,Algorithm Error,Low Risk,Expert,32
+STU1000169,Amit Bhat,Economics,Financial Markets,8,2,84,98,-14,High,0,Completed,Fast,Runtime Error,Low Risk,Intermediate,15
+STU1000170,Zara Gupta,Economics,GDP,78,2,68,54,14,Medium,0,Dropped,Average,Concept Misunderstanding,High Risk,Advanced,51
+STU1000171,Neha Kumar,History,American History,9,2,76,63,13,Medium,0,In Progress,Fast,Runtime Error,Low Risk,Intermediate,23
+STU1000172,Aryan Iyer,Physics,Waves,50,3,83,69,14,Medium,0,Completed,Average,Data Formatting Error,Low Risk,Intermediate,34
+STU1000173,Ananya Sharma,Economics,GDP,8,3,60,45,15,Medium,0,Completed,Average,No Error,Low Risk,Advanced,44
+STU1000174,Aarav Verma,Chemistry,Periodicity,55,1,86,68,18,High,0,Completed,Average,Calculation Error,Low Risk,Beginner,41
+STU1000175,Zara Kumar,Chemistry,Acids and Bases,44,1,81,91,-10,High,0,Completed,Average,No Error,Low Risk,Intermediate,35
+STU1000176,Ananya Bhat,Biology,Human Anatomy,10,1,48,70,-22,Medium,1,Dropped,Fast,Runtime Error,Critical Risk,Expert,21
+STU1000177,Vikram Rao,Data Science,Pandas Tutorial,21,5,60,43,17,Medium,1,Dropped,Average,Logic Error,Critical Risk,Expert,52
+STU1000178,Arjun Rao,Data Science,Pandas Tutorial,24,1,76,75,1,Medium,0,In Progress,Fast,Calculation Error,Low Risk,Intermediate,16
+STU1000179,Nikhil Rao,English,Vocabulary,41,4,39,49,-10,Low,1,In Progress,Average,Data Formatting Error,High Risk,Expert,58
+STU1000180,Sarah Mishra,English,Grammar,30,1,98,84,14,High,0,Completed,Average,Missed Prerequisite,Low Risk,Beginner,51
+STU1000181,Diya Gupta,English,Sentence Structure,95,4,35,38,-3,Low,1,Completed,Slow,Runtime Error,High Risk,Expert,94
+STU1000182,Sarah Chopra,Psychology,Behavioral Studies,146,3,66,76,-10,Medium,0,Dropped,Slow,Concept Misunderstanding,High Risk,Advanced,73
+STU1000183,Rahul Chopra,Psychology,Personality,31,1,72,63,9,Medium,0,In Progress,Average,Logic Error,Low Risk,Intermediate,44
+STU1000184,Aryan Bhat,Biology,Photosynthesis,56,1,59,36,23,Medium,0,Completed,Average,Calculation Error,Low Risk,Advanced,52
+STU1000185,Diya Desai,English,Creative Writing,26,4,29,18,11,Low,1,In Progress,Average,Syntax Error,High Risk,Expert,31
+STU1000186,Priya Iyer,Economics,Government Policy,46,1,71,49,22,Medium,0,Dropped,Average,Runtime Error,High Risk,Intermediate,56
+STU1000187,Arjun Reddy,History,Renaissance,8,1,34,38,-4,Low,1,Dropped,Fast,No Error,Critical Risk,Expert,18
+STU1000188,Rajesh Nair,History,Ancient Rome,86,1,100,100,0,Medium,0,In Progress,Average,Concept Misunderstanding,Low Risk,Beginner,42
+STU1000189,Ishaan Rao,English,Literature Analysis,8,1,70,53,17,Medium,0,Completed,Fast,Calculation Error,Low Risk,Intermediate,24
+STU1000190,Nikhil Chopra,Data Science,Deep Learning,8,8,100,92,8,Low,0,In Progress,Average,Missed Prerequisite,Medium Risk,Expert,44
+STU1000191,Zara Verma,English,Critical Thinking,8,2,77,67,10,Medium,0,Completed,Fast,Concept Misunderstanding,Low Risk,Intermediate,16
+STU1000192,Rohan Reddy,Mathematics,Geometry Fundamentals,8,1,74,64,10,Medium,0,Completed,Fast,Concept Misunderstanding,Low Risk,Intermediate,15
+STU1000193,Sarah Sharma,Data Science,Feature Engineering,29,1,71,86,-15,Medium,0,In Progress,Fast,Algorithm Error,Low Risk,Intermediate,16
+STU1000194,Arjun Chopra,Chemistry,Atomic Structure,26,1,93,64,29,High,0,Completed,Fast,Concept Misunderstanding,Low Risk,Beginner,27
+STU1000195,Sarah Reddy,History,Civil Rights,8,1,53,48,5,Medium,0,In Progress,Fast,Data Formatting Error,Low Risk,Expert,21
+STU1000196,Karan Mishra,English,Essay Writing,36,1,89,93,-4,High,0,Completed,Average,Calculation Error,Low Risk,Beginner,59
+STU1000197,Sarah Das,English,Essay Writing,8,1,85,65,20,High,0,Completed,Fast,Missed Prerequisite,Low Risk,Beginner,22
+STU1000198,Priya Patel,History,Ancient Rome,8,1,67,69,-2,Medium,0,Completed,Fast,Runtime Error,Low Risk,Advanced,26
+STU1000199,Zara Kumar,Mathematics,Trigonometry,37,1,71,63,8,Medium,0,In Progress,Average,Calculation Error,Low Risk,Intermediate,59
+STU1000200,Aryan Gupta,Programming,Python Basics,44,3,58,68,-10,Medium,0,Completed,Average,No Error,Low Risk,Advanced,37
+STU1000201,Vivaan Verma,Physics,Thermodynamics,38,1,83,71,12,High,0,Completed,Average,Runtime Error,Low Risk,Intermediate,36
+STU1000202,Priya Joshi,Psychology,Mental Health,8,1,79,58,21,Medium,0,In Progress,Fast,Data Formatting Error,Low Risk,Intermediate,17
+STU1000203,Karan Kumar,History,Medieval Europe,19,4,44,61,-17,Medium,1,In Progress,Average,No Error,High Risk,Expert,30
+STU1000204,Neha Mishra,Physics,Optics,10,1,51,63,-12,Medium,0,Completed,Fast,Syntax Error,Low Risk,Expert,28
+STU1000205,Priya Bhat,Biology,Evolution,34,1,43,68,-25,Medium,1,In Progress,Average,Timeout Error,High Risk,Expert,30
+STU1000206,Diya Rao,Programming,Data Structures,12,5,44,53,-9,Medium,1,Completed,Average,Runtime Error,High Risk,Expert,30
+STU1000207,Diya Sharma,Programming,Debugging,70,1,76,69,7,Medium,0,In Progress,Average,Syntax Error,Low Risk,Intermediate,40
+STU1000208,Pooja Kumar,Chemistry,Thermochemistry,19,1,79,53,26,Medium,0,Completed,Fast,Timeout Error,Low Risk,Intermediate,21
+STU1000209,Diya Verma,English,Sentence Structure,35,1,77,67,10,Medium,0,Dropped,Average,Runtime Error,High Risk,Intermediate,51
+STU1000210,Rajesh Gupta,Physics,Dynamics,145,1,66,53,13,Medium,0,Completed,Average,Syntax Error,Low Risk,Advanced,51
+STU1000211,Isha Bhat,Physics,Dynamics,8,4,58,43,15,Medium,0,Completed,Average,No Error,Low Risk,Advanced,32
+STU1000212,Ananya Joshi,Chemistry,Thermochemistry,11,1,90,86,4,High,0,Completed,Fast,Concept Misunderstanding,Low Risk,Beginner,22
+STU1000213,Varun Iyer,Psychology,Behavioral Studies,8,1,78,79,-1,Medium,0,In Progress,Fast,Runtime Error,Low Risk,Intermediate,18
+STU1000214,Aditya Desai,English,Vocabulary,32,1,47,36,11,Medium,1,Dropped,Average,No Error,Critical Risk,Expert,55
+STU1000215,Vikram Das,Biology,Cells,25,1,82,66,16,High,0,Completed,Fast,Missed Prerequisite,Low Risk,Intermediate,20
+STU1000216,Neha Reddy,History,Medieval Europe,8,1,65,45,20,Medium,0,In Progress,Fast,Logic Error,Low Risk,Advanced,20
+STU1000217,Arjun Mishra,Biology,Reproduction,11,1,60,69,-9,Medium,0,Completed,Fast,No Error,Low Risk,Advanced,16
+STU1000218,Pooja Desai,English,Literature Analysis,29,1,82,75,7,High,0,Completed,Fast,Syntax Error,Low Risk,Intermediate,28
+STU1000219,Aditya Singh,Chemistry,Thermochemistry,46,1,66,64,2,Medium,0,Completed,Average,No Error,Low Risk,Advanced,46
+STU1000220,Arjun Mishra,Economics,GDP,24,1,92,76,16,High,0,Completed,Fast,Calculation Error,Low Risk,Beginner,18
+STU1000221,Nikhil Mishra,Psychology,Perception,8,1,74,92,-18,Medium,0,In Progress,Fast,Data Formatting Error,Low Risk,Intermediate,25
+STU1000222,Ananya Das,Physics,Dynamics,40,1,85,71,14,High,0,Completed,Average,No Error,Low Risk,Beginner,40
+STU1000223,Aryan Rao,History,Renaissance,56,2,84,60,24,High,0,Completed,Average,No Error,Low Risk,Intermediate,47
+STU1000224,Vikram Desai,Psychology,Memory and Attention,15,1,73,77,-4,Medium,0,Completed,Fast,No Error,Low Risk,Intermediate,21
+STU1000225,Priya Iyer,Biology,Cells,8,1,80,78,2,High,0,Completed,Fast,Logic Error,Low Risk,Intermediate,21
+STU1000226,Diya Iyer,Biology,Evolution,57,1,87,83,4,High,0,Completed,Average,Runtime Error,Low Risk,Beginner,59
+STU1000227,Pooja Gupta,Biology,Photosynthesis,10,1,81,75,6,High,0,Completed,Fast,Logic Error,Low Risk,Intermediate,27
+STU1000228,Arjun Sharma,Psychology,Perception,8,1,58,67,-9,Medium,0,Completed,Fast,Calculation Error,Low Risk,Advanced,28
+STU1000229,Rohan Nair,Economics,Inflation,90,6,54,67,-13,Low,1,Dropped,Slow,Logic Error,Critical Risk,Expert,67
+STU1000230,Akshay Rao,English,Punctuation,69,3,81,67,14,Medium,0,Completed,Average,Timeout Error,Low Risk,Intermediate,37
+STU1000231,Varun Singh,Physics,Optics,8,1,68,61,7,Medium,0,Completed,Fast,Concept Misunderstanding,Low Risk,Advanced,21
+STU1000232,Rahul Gupta,History,American History,8,2,93,76,17,High,0,Completed,Fast,Runtime Error,Low Risk,Beginner,18
+STU1000233,Zara Kumar,Programming,Functions,8,1,96,89,7,High,0,Completed,Fast,Runtime Error,Low Risk,Beginner,26
+STU1000234,Ishaan Singh,Physics,Waves,13,1,79,79,0,Medium,0,Completed,Fast,Data Formatting Error,Low Risk,Intermediate,25
+STU1000235,Sarah Patel,Biology,Reproduction,9,1,76,78,-2,Medium,0,Completed,Fast,Concept Misunderstanding,Low Risk,Intermediate,20
+STU1000236,Aarav Desai,Biology,DNA and Proteins,97,2,67,80,-13,Medium,0,Dropped,Average,Algorithm Error,High Risk,Advanced,30
+STU1000237,Amit Singh,Economics,International Trade,22,1,68,82,-14,Medium,0,In Progress,Fast,Algorithm Error,Low Risk,Advanced,27
+STU1000238,Ishaan Rao,History,Industrial Revolution,19,2,68,61,7,Medium,0,In Progress,Fast,Timeout Error,Low Risk,Advanced,25
+STU1000239,Vikram Reddy,Physics,Dynamics,15,1,59,46,13,Medium,0,Completed,Fast,Algorithm Error,Low Risk,Advanced,15
+STU1000240,Aditya Desai,Biology,Genetics,8,1,74,73,1,Medium,0,Completed,Fast,Syntax Error,Low Risk,Intermediate,27
+STU1000241,Isha Nair,Data Science,Pandas Tutorial,16,2,89,78,11,High,0,Completed,Fast,Data Formatting Error,Low Risk,Beginner,21
+STU1000242,Nikhil Das,History,Industrial Revolution,101,1,58,59,-1,Medium,0,Completed,Average,Algorithm Error,Low Risk,Advanced,44
+STU1000243,Neha Reddy,Economics,Government Policy,150,1,77,73,4,Medium,0,In Progress,Average,Runtime Error,Low Risk,Intermediate,37
+STU1000244,Rohan Gupta,Programming,Loops,32,1,65,55,10,Medium,0,In Progress,Average,Missed Prerequisite,Low Risk,Advanced,32
+STU1000245,Aarav Patel,Biology,Evolution,8,1,65,76,-11,Medium,0,In Progress,Fast,Logic Error,Low Risk,Advanced,23
+STU1000246,Akshay Bhat,Economics,Macroeconomics,8,6,83,69,14,Low,0,Dropped,Average,Timeout Error,High Risk,Expert,50
+STU1000247,Ananya Joshi,Mathematics,Polynomials,41,1,66,70,-4,Medium,0,In Progress,Average,No Error,Low Risk,Advanced,49
+STU1000248,Neha Rao,Data Science,Feature Engineering,8,1,98,100,-2,High,0,Completed,Fast,Logic Error,Low Risk,Beginner,26
+STU1000249,Sanjay Iyer,Mathematics,Functions,8,3,53,53,0,Medium,0,In Progress,Average,Calculation Error,Low Risk,Expert,31
+STU1000250,Rohan Gupta,History,American History,76,5,60,61,-1,Medium,1,Dropped,Average,Syntax Error,Critical Risk,Expert,32
+STU1000251,Rajesh Iyer,Mathematics,Statistics,37,1,72,59,13,Medium,0,Dropped,Average,Concept Misunderstanding,High Risk,Intermediate,58
+STU1000252,Karan Chopra,History,Medieval Europe,16,1,74,92,-18,Medium,0,Completed,Fast,Logic Error,Low Risk,Intermediate,21
+STU1000253,Amit Das,English,Punctuation,8,1,67,66,1,Medium,0,In Progress,Fast,Missed Prerequisite,Low Risk,Advanced,28
+STU1000254,Diya Joshi,Mathematics,Calculus I,66,1,100,86,14,Medium,0,In Progress,Average,Calculation Error,Low Risk,Beginner,39
+STU1000255,Sanjay Nair,Psychology,Perception,60,1,85,95,-10,Medium,0,In Progress,Average,Algorithm Error,Low Risk,Beginner,54
+STU1000256,Aditya Iyer,Physics,Dynamics,10,3,75,78,-3,Medium,0,Completed,Average,Logic Error,Low Risk,Intermediate,49
+STU1000257,Isha Bhat,English,Critical Thinking,66,3,79,76,3,Medium,0,Completed,Average,Calculation Error,Low Risk,Intermediate,45
+STU1000258,Pooja Rao,Psychology,Social Psychology,41,2,95,93,2,High,0,Completed,Average,Runtime Error,Low Risk,Beginner,33
+STU1000259,Rohan Das,English,Punctuation,8,3,61,59,2,Medium,0,Dropped,Average,Syntax Error,High Risk,Advanced,52
+STU1000260,Aarav Sharma,Chemistry,Thermochemistry,14,2,80,68,12,High,0,Dropped,Fast,Logic Error,High Risk,Intermediate,20
+STU1000261,Amit Reddy,Chemistry,Thermochemistry,62,1,77,69,8,Medium,0,Completed,Average,No Error,Low Risk,Intermediate,38
+STU1000262,Diya Das,Psychology,Cognitive Development,34,1,84,97,-13,High,0,In Progress,Average,No Error,Low Risk,Intermediate,60
+STU1000263,Sarah Sharma,Physics,Thermodynamics,52,1,78,85,-7,Medium,0,In Progress,Average,No Error,Low Risk,Intermediate,33
+STU1000264,Aryan Joshi,Programming,Data Structures,115,1,84,77,7,Medium,0,In Progress,Average,Concept Misunderstanding,Low Risk,Intermediate,49
+STU1000265,Sarah Das,Economics,Microeconomics,8,4,46,53,-7,Medium,1,Dropped,Average,Algorithm Error,Critical Risk,Expert,40
+STU1000266,Aarav Chopra,English,Punctuation,12,2,76,60,16,Medium,0,Completed,Fast,Syntax Error,Low Risk,Intermediate,27
+STU1000267,Isha Nair,History,Industrial Revolution,14,1,66,67,-1,Medium,0,In Progress,Fast,Calculation Error,Low Risk,Advanced,19
+STU1000268,Aarav Bhat,Chemistry,Equilibrium,49,1,98,89,9,High,0,Completed,Average,Syntax Error,Low Risk,Beginner,40
+STU1000269,Rahul Chopra,History,Medieval Europe,40,1,53,31,22,Medium,0,Completed,Average,Algorithm Error,Low Risk,Expert,35
+STU1000270,Sanjay Chopra,Chemistry,Thermochemistry,8,2,59,64,-5,Medium,0,Completed,Fast,No Error,Low Risk,Advanced,25
+STU1000271,Zara Nair,Physics,Magnetism,8,2,55,62,-7,Medium,0,In Progress,Fast,Calculation Error,Low Risk,Advanced,30
+STU1000272,Arjun Desai,Physics,Energy and Work,105,1,84,75,9,Medium,0,Dropped,Average,Algorithm Error,High Risk,Intermediate,32
+STU1000273,Zara Nair,Data Science,Exploratory Data Analysis,19,1,52,48,4,Medium,0,In Progress,Fast,Runtime Error,Low Risk,Expert,25
+STU1000274,Priya Singh,Chemistry,Thermochemistry,144,1,71,72,-1,Medium,0,Completed,Average,Timeout Error,Low Risk,Intermediate,30
+STU1000275,Pooja Nair,Psychology,Perception,8,1,56,70,-14,Medium,0,In Progress,Fast,Syntax Error,Low Risk,Advanced,29
+STU1000276,Amit Rao,History,Industrial Revolution,69,1,80,76,4,Medium,0,Completed,Average,Concept Misunderstanding,Low Risk,Intermediate,42
+STU1000277,Isha Rao,Chemistry,Solutions,51,3,76,81,-5,Medium,0,Completed,Average,Calculation Error,Low Risk,Intermediate,46
+STU1000278,Pooja Verma,History,Medieval Europe,8,1,77,76,1,Medium,0,Completed,Fast,Syntax Error,Low Risk,Intermediate,22
+STU1000279,Aditya Gupta,English,Vocabulary,55,1,64,82,-18,Medium,0,Completed,Average,Logic Error,Low Risk,Advanced,46
+STU1000280,Rohan Das,Mathematics,Geometry Fundamentals,8,1,76,61,15,Medium,0,In Progress,Fast,Data Formatting Error,Low Risk,Intermediate,15
+STU1000281,Ishaan Iyer,Psychology,Memory and Attention,10,2,68,42,26,Medium,0,Dropped,Fast,Algorithm Error,High Risk,Advanced,22
+STU1000282,Vikram Iyer,Chemistry,Thermochemistry,8,1,68,35,33,Medium,0,In Progress,Fast,Missed Prerequisite,Low Risk,Advanced,15
+STU1000283,Priya Joshi,Data Science,Feature Engineering,32,1,86,82,4,High,0,Completed,Average,Logic Error,Low Risk,Beginner,49
+STU1000284,Rahul Mishra,History,Industrial Revolution,52,1,60,56,4,Medium,0,In Progress,Average,Missed Prerequisite,Low Risk,Advanced,54
+STU1000285,Aarav Reddy,Psychology,Personality,9,7,54,45,9,Low,1,In Progress,Average,Concept Misunderstanding,High Risk,Expert,58
+STU1000286,Vivaan Sharma,History,Medieval Europe,33,2,71,68,3,Medium,0,In Progress,Average,Runtime Error,Low Risk,Intermediate,33
+STU1000287,Arjun Kumar,English,Vocabulary,13,1,71,59,12,Medium,0,In Progress,Fast,Timeout Error,Low Risk,Intermediate,24
+STU1000288,Isha Rao,Programming,Data Structures,8,1,59,52,7,Medium,0,In Progress,Fast,Missed Prerequisite,Low Risk,Advanced,22
+STU1000289,Rohan Iyer,History,Industrial Revolution,29,2,66,69,-3,Medium,0,Completed,Fast,Logic Error,Low Risk,Advanced,28
+STU1000290,Varun Sharma,English,Creative Writing,8,1,95,96,-1,High,0,Completed,Fast,Syntax Error,Low Risk,Beginner,22
+STU1000291,Nikhil Singh,Programming,OOP Concepts,8,4,56,45,11,Medium,0,In Progress,Average,Timeout Error,Low Risk,Advanced,49
+STU1000292,Rohan Sharma,Programming,Database Design,43,3,81,79,2,Medium,0,Dropped,Average,Runtime Error,High Risk,Intermediate,32
+STU1000293,Sarah Verma,Mathematics,Polynomials,14,3,88,81,7,Medium,0,In Progress,Average,Missed Prerequisite,Low Risk,Intermediate,31
+STU1000294,Ananya Chopra,Mathematics,Linear Algebra,21,1,100,93,7,High,0,Completed,Fast,Missed Prerequisite,Low Risk,Beginner,19
+STU1000295,Isha Joshi,Psychology,Abnormal Psychology,8,1,65,56,9,Medium,0,Completed,Fast,Concept Misunderstanding,Low Risk,Advanced,26
+STU1000296,Diya Iyer,Mathematics,Linear Algebra,71,1,82,68,14,Medium,0,In Progress,Average,Runtime Error,Low Risk,Intermediate,45
+STU1000297,Aryan Patel,Data Science,NumPy Essentials,37,1,100,96,4,High,0,Completed,Average,Logic Error,Low Risk,Beginner,39
+STU1000298,Ananya Singh,History,Medieval Europe,9,8,55,53,2,Low,1,Dropped,Average,Concept Misunderstanding,Critical Risk,Expert,36
+STU1000299,Rohan Patel,Psychology,Social Psychology,8,2,71,47,24,Medium,0,Completed,Fast,No Error,Low Risk,Intermediate,19
+STU1000300,Priya Desai,Chemistry,Solutions,70,2,67,82,-15,Medium,0,In Progress,Average,Missed Prerequisite,Low Risk,Advanced,42
+STU1000301,Aditya Joshi,English,Writing Skills,14,1,78,80,-2,Medium,0,In Progress,Fast,Concept Misunderstanding,Low Risk,Intermediate,21
+STU1000302,Arjun Verma,Programming,API Development,20,2,91,82,9,High,0,In Progress,Fast,Algorithm Error,Low Risk,Beginner,16
+STU1000303,Priya Desai,Data Science,Feature Engineering,80,1,84,60,24,Medium,0,Dropped,Average,Runtime Error,High Risk,Intermediate,37
+STU1000304,Aarav Kumar,Chemistry,Solutions,85,1,97,100,-3,Medium,0,Completed,Average,Calculation Error,Low Risk,Beginner,59
+STU1000305,Aryan Nair,English,Punctuation,46,1,82,76,6,High,0,Dropped,Average,Logic Error,High Risk,Intermediate,53
+STU1000306,Zara Iyer,Physics,Optics,8,1,74,85,-11,Medium,0,Completed,Fast,Calculation Error,Low Risk,Intermediate,29
+STU1000307,Nikhil Patel,English,Reading Comprehension,9,3,78,41,37,Medium,0,Dropped,Average,Data Formatting Error,High Risk,Intermediate,53
+STU1000308,Rahul Iyer,Economics,Macroeconomics,15,1,69,52,17,Medium,0,Dropped,Fast,Timeout Error,High Risk,Advanced,25
+STU1000309,Varun Kumar,Chemistry,Atomic Structure,122,1,55,65,-10,Medium,0,In Progress,Average,No Error,Low Risk,Advanced,34
+STU1000310,Amit Verma,Economics,Markets,51,1,74,76,-2,Medium,0,Completed,Average,No Error,Low Risk,Intermediate,38
+STU1000311,Sarah Desai,Chemistry,Equilibrium,9,1,76,55,21,Medium,0,Completed,Fast,Missed Prerequisite,Low Risk,Intermediate,25
+STU1000312,Akshay Das,Psychology,Abnormal Psychology,14,3,36,35,1,Low,1,Completed,Average,No Error,High Risk,Expert,50
+STU1000313,Ananya Gupta,History,Cultural Movements,33,2,69,61,8,Medium,0,In Progress,Average,Concept Misunderstanding,Low Risk,Advanced,55
+STU1000314,Karan Patel,Biology,Human Anatomy,8,2,70,91,-21,Medium,0,Completed,Fast,Algorithm Error,Low Risk,Intermediate,16
+STU1000315,Varun Kumar,English,Punctuation,65,2,90,84,6,Medium,0,Dropped,Average,Algorithm Error,High Risk,Beginner,46
+STU1000316,Priya Joshi,Physics,Thermodynamics,8,1,73,69,4,Medium,0,Completed,Fast,Missed Prerequisite,Low Risk,Intermediate,28
+STU1000317,Karan Das,Physics,Magnetism,26,4,69,65,4,Medium,0,In Progress,Average,Logic Error,Low Risk,Advanced,50
+STU1000318,Rahul Bhat,History,Asian History,13,1,88,83,5,High,0,Completed,Fast,Missed Prerequisite,Low Risk,Beginner,24
+STU1000319,Vivaan Verma,Data Science,Feature Engineering,21,1,100,90,10,High,0,Dropped,Fast,Calculation Error,High Risk,Beginner,15
+STU1000320,Ishaan Nair,Data Science,Model Evaluation,8,1,91,72,19,High,0,Dropped,Fast,Algorithm Error,High Risk,Beginner,22
+STU1000321,Karan Chopra,Biology,Genetics,8,2,65,84,-19,Medium,0,Dropped,Fast,Runtime Error,High Risk,Advanced,25
+STU1000322,Ananya Sharma,History,Medieval Europe,70,1,88,84,4,Medium,0,Completed,Average,Missed Prerequisite,Low Risk,Beginner,40
+STU1000323,Arjun Rao,History,Ancient Rome,101,2,100,91,9,Medium,0,Completed,Average,Missed Prerequisite,Low Risk,Beginner,37
+STU1000324,Rajesh Kumar,English,Literature Analysis,71,1,91,94,-3,Medium,0,In Progress,Average,Logic Error,Low Risk,Beginner,36
+STU1000325,Zara Nair,Chemistry,Organic Chemistry,8,1,99,79,20,High,0,Completed,Fast,Syntax Error,Low Risk,Beginner,16
+STU1000326,Aarav Patel,English,Writing Skills,8,1,74,74,0,Medium,0,Dropped,Fast,Data Formatting Error,High Risk,Intermediate,22
+STU1000327,Rajesh Joshi,Economics,Financial Markets,71,2,99,95,4,Medium,0,Dropped,Average,Calculation Error,High Risk,Beginner,55
+STU1000328,Aryan Reddy,History,Cultural Movements,73,1,92,71,21,Medium,0,In Progress,Average,No Error,Low Risk,Beginner,51
+STU1000329,Diya Singh,Programming,Loops,57,2,70,83,-13,Medium,0,Completed,Average,Timeout Error,Low Risk,Intermediate,52
+STU1000330,Nikhil Gupta,Chemistry,Acids and Bases,59,1,72,69,3,Medium,0,Completed,Average,Runtime Error,Low Risk,Intermediate,53
+STU1000331,Sarah Singh,English,Writing Skills,13,1,98,81,17,High,0,Completed,Fast,No Error,Low Risk,Beginner,22
+STU1000332,Akshay Mishra,Programming,API Development,17,1,65,46,19,Medium,0,In Progress,Fast,Data Formatting Error,Low Risk,Advanced,27
+STU1000333,Karan Patel,Chemistry,Bonding,9,1,99,100,-1,High,0,Completed,Fast,Data Formatting Error,Low Risk,Beginner,25
+STU1000334,Vivaan Bhat,Mathematics,Statistics,33,1,89,77,12,High,0,Completed,Average,Logic Error,Low Risk,Beginner,35
+STU1000335,Karan Reddy,English,Literature Analysis,25,1,54,39,15,Medium,0,In Progress,Fast,Concept Misunderstanding,Low Risk,Expert,29
+STU1000336,Aryan Kumar,English,Critical Thinking,30,1,95,92,3,High,0,Completed,Average,No Error,Low Risk,Beginner,50
+STU1000337,Rohan Joshi,Data Science,Machine Learning,58,2,86,80,6,High,0,Completed,Average,Missed Prerequisite,Low Risk,Beginner,30
+STU1000338,Nikhil Mishra,Psychology,Personality,9,4,39,40,-1,Low,1,In Progress,Average,Logic Error,High Risk,Expert,32
+STU1000339,Sanjay Bhat,Physics,Optics,23,1,60,43,17,Medium,0,Dropped,Fast,No Error,High Risk,Advanced,30
+STU1000340,Neha Verma,Data Science,Pandas Tutorial,56,1,88,64,24,High,0,Completed,Average,Concept Misunderstanding,Low Risk,Beginner,32
+STU1000341,Aarav Desai,Chemistry,Periodicity,44,1,60,54,6,Medium,0,In Progress,Average,Runtime Error,Low Risk,Advanced,60
+STU1000342,Diya Reddy,Mathematics,Equations,8,2,76,54,22,Medium,0,Dropped,Fast,Runtime Error,High Risk,Intermediate,21
+STU1000343,Priya Patel,Economics,Macroeconomics,43,1,51,61,-10,Medium,0,In Progress,Average,Concept Misunderstanding,Low Risk,Expert,31
+STU1000344,Sarah Iyer,Biology,Microbiology,115,1,78,83,-5,Medium,0,In Progress,Average,Timeout Error,Low Risk,Intermediate,50
+STU1000345,Sanjay Das,English,Essay Writing,8,1,76,73,3,Medium,0,In Progress,Fast,Data Formatting Error,Low Risk,Intermediate,19
+STU1000346,Sanjay Joshi,Chemistry,Acids and Bases,59,3,52,49,3,Medium,0,Dropped,Average,Missed Prerequisite,High Risk,Expert,60
+STU1000347,Rahul Gupta,History,Medieval Europe,33,1,56,44,12,Medium,0,In Progress,Average,Concept Misunderstanding,Low Risk,Advanced,36
+STU1000348,Sanjay Bhat,Psychology,Learning Theories,53,1,70,81,-11,Medium,0,Completed,Average,Algorithm Error,Low Risk,Intermediate,34
+STU1000349,Ananya Iyer,Chemistry,Bonding,38,1,62,84,-22,Medium,0,Dropped,Average,Syntax Error,High Risk,Advanced,32
+STU1000350,Priya Gupta,English,Essay Writing,30,1,84,80,4,High,0,Completed,Average,Data Formatting Error,Low Risk,Intermediate,35
+STU1000351,Aditya Reddy,Mathematics,Functions,8,1,75,65,10,Medium,0,Completed,Fast,Logic Error,Low Risk,Intermediate,21
+STU1000352,Neha Das,Chemistry,Acids and Bases,32,1,66,46,20,Medium,0,Completed,Average,Syntax Error,Low Risk,Advanced,37
+STU1000353,Priya Bhat,Biology,Ecology,31,1,62,78,-16,Medium,0,Completed,Average,Data Formatting Error,Low Risk,Advanced,46
+STU1000354,Neha Sharma,Psychology,Perception,19,2,83,91,-8,High,0,Completed,Fast,Logic Error,Low Risk,Intermediate,17
+STU1000355,Karan Desai,Data Science,Exploratory Data Analysis,11,1,66,50,16,Medium,0,Dropped,Fast,Data Formatting Error,High Risk,Advanced,28
+STU1000356,Varun Gupta,Mathematics,Statistics,8,1,75,59,16,Medium,0,Completed,Fast,Missed Prerequisite,Low Risk,Intermediate,29
+STU1000357,Aarav Bhat,Mathematics,Functions,8,2,78,54,24,Medium,0,In Progress,Fast,Missed Prerequisite,Low Risk,Intermediate,24
+STU1000358,Vikram Nair,Data Science,Exploratory Data Analysis,74,1,45,54,-9,Medium,1,Completed,Average,Logic Error,High Risk,Expert,35
+STU1000359,Ananya Singh,Biology,DNA and Proteins,14,1,100,96,4,High,0,Completed,Fast,No Error,Low Risk,Beginner,21
+STU1000360,Akshay Desai,Data Science,Model Evaluation,21,1,83,75,8,High,0,In Progress,Fast,Algorithm Error,Low Risk,Intermediate,22
+STU1000361,Rahul Joshi,Biology,Human Anatomy,8,2,77,54,23,Medium,0,Completed,Fast,Concept Misunderstanding,Low Risk,Intermediate,28
+STU1000362,Sanjay Reddy,Chemistry,Stoichiometry,8,1,63,74,-11,Medium,0,In Progress,Fast,Calculation Error,Low Risk,Advanced,20
+STU1000363,Vikram Das,History,Industrial Revolution,38,2,58,51,7,Medium,0,Completed,Average,Concept Misunderstanding,Low Risk,Advanced,49
+STU1000364,Ananya Chopra,Biology,Genetics,150,4,79,72,7,Medium,0,In Progress,Slow,Algorithm Error,Low Risk,Advanced,75
+STU1000365,Karan Mishra,Programming,Data Structures,25,1,77,65,12,Medium,0,Completed,Fast,Logic Error,Low Risk,Intermediate,24
+STU1000366,Ishaan Kumar,Physics,Magnetism,8,3,77,78,-1,Medium,0,Dropped,Average,Data Formatting Error,High Risk,Intermediate,39
+STU1000367,Amit Singh,Economics,International Trade,8,1,63,44,19,Medium,0,In Progress,Fast,Syntax Error,Low Risk,Advanced,29
+STU1000368,Vivaan Reddy,English,Grammar,8,4,18,29,-11,Low,1,Dropped,Average,Logic Error,Critical Risk,Expert,60
+STU1000369,Arjun Patel,Programming,API Development,17,1,80,96,-16,High,0,Completed,Fast,No Error,Low Risk,Intermediate,21
+STU1000370,Rahul Kumar,Chemistry,Thermochemistry,88,1,76,67,9,Medium,0,In Progress,Average,Runtime Error,Low Risk,Intermediate,38
+STU1000371,Sarah Verma,Biology,Genetics,16,3,69,69,0,Medium,0,Completed,Average,Runtime Error,Low Risk,Advanced,57
+STU1000372,Ishaan Patel,History,Ancient Rome,54,1,72,59,13,Medium,0,Completed,Average,Missed Prerequisite,Low Risk,Intermediate,55
+STU1000373,Rajesh Desai,Economics,International Trade,8,2,75,66,9,Medium,0,Dropped,Fast,Syntax Error,High Risk,Intermediate,30
+STU1000374,Akshay Joshi,Physics,Dynamics,35,3,64,70,-6,Medium,0,Completed,Average,Logic Error,Low Risk,Advanced,32
+STU1000375,Amit Rao,History,Industrial Revolution,32,2,75,53,22,Medium,0,Completed,Average,Missed Prerequisite,Low Risk,Intermediate,60
+STU1000376,Vivaan Bhat,Programming,Data Structures,17,1,65,59,6,Medium,0,In Progress,Fast,Concept Misunderstanding,Low Risk,Advanced,26
+STU1000377,Nikhil Singh,Mathematics,Statistics,8,1,75,72,3,Medium,0,Dropped,Fast,Calculation Error,High Risk,Intermediate,27
+STU1000378,Aarav Verma,Programming,Web Development,118,1,75,47,28,Medium,0,In Progress,Average,Algorithm Error,Low Risk,Intermediate,42
+STU1000379,Karan Joshi,Economics,Macroeconomics,20,1,56,60,-4,Medium,0,In Progress,Fast,No Error,Low Risk,Advanced,20
+STU1000380,Aditya Iyer,Biology,Human Anatomy,33,1,71,85,-14,Medium,0,In Progress,Average,No Error,Low Risk,Intermediate,45
+STU1000381,Karan Patel,Data Science,Data Visualization,8,8,57,49,8,Low,1,In Progress,Average,Algorithm Error,High Risk,Expert,44
+STU1000382,Diya Chopra,History,Global Events,144,1,65,58,7,Medium,0,In Progress,Average,Concept Misunderstanding,Low Risk,Advanced,43
+STU1000383,Diya Patel,Chemistry,Bonding,41,1,77,69,8,Medium,0,Completed,Average,Calculation Error,Low Risk,Intermediate,46
+STU1000384,Vikram Rao,Physics,Optics,58,1,89,66,23,High,0,Completed,Average,Runtime Error,Low Risk,Beginner,49
+STU1000385,Amit Patel,Physics,Electricity,26,1,54,56,-2,Medium,0,In Progress,Fast,Timeout Error,Low Risk,Expert,28
+STU1000386,Varun Singh,Biology,Human Anatomy,16,1,83,82,1,High,0,In Progress,Fast,Runtime Error,Low Risk,Intermediate,19
+STU1000387,Isha Singh,Biology,Cells,51,1,66,31,35,Medium,0,In Progress,Average,Logic Error,Low Risk,Advanced,56
+STU1000388,Rahul Kumar,Physics,Dynamics,8,1,66,67,-1,Medium,0,Dropped,Fast,Algorithm Error,High Risk,Advanced,30
+STU1000389,Ishaan Nair,History,Medieval Europe,26,1,74,77,-3,Medium,0,Completed,Fast,Concept Misunderstanding,Low Risk,Intermediate,15
+STU1000390,Sanjay Desai,Psychology,Behavioral Studies,8,1,92,82,10,High,0,Completed,Fast,Logic Error,Low Risk,Beginner,27
+STU1000391,Rahul Verma,Biology,Ecology,8,1,68,54,14,Medium,0,Dropped,Fast,Missed Prerequisite,High Risk,Advanced,28
+STU1000392,Amit Nair,Psychology,Social Psychology,46,1,54,39,15,Medium,0,In Progress,Average,Data Formatting Error,Low Risk,Expert,57
+STU1000393,Rajesh Gupta,Economics,Inflation,21,2,64,73,-9,Medium,0,Completed,Fast,Syntax Error,Low Risk,Advanced,17
+STU1000394,Sanjay Chopra,Physics,Electricity,40,1,85,72,13,High,0,Completed,Average,Syntax Error,Low Risk,Beginner,54
+STU1000395,Varun Kumar,Psychology,Behavioral Studies,8,4,98,83,15,Medium,0,In Progress,Average,Missed Prerequisite,Low Risk,Advanced,59
+STU1000396,Karan Bhat,Data Science,Machine Learning,37,4,81,88,-7,Medium,0,Completed,Average,Logic Error,Low Risk,Advanced,59
+STU1000397,Akshay Iyer,Data Science,Exploratory Data Analysis,8,1,81,66,15,High,0,Completed,Fast,Syntax Error,Low Risk,Intermediate,24
+STU1000398,Aryan Chopra,Mathematics,Calculus I,25,2,69,68,1,Medium,0,In Progress,Fast,Runtime Error,Low Risk,Advanced,19
+STU1000399,Ishaan Gupta,Physics,Modern Physics,8,1,54,47,7,Medium,0,In Progress,Fast,No Error,Low Risk,Expert,20
+STU1000400,Arjun Desai,Data Science,NumPy Essentials,15,2,59,62,-3,Medium,0,In Progress,Fast,No Error,Low Risk,Advanced,23
+STU1000401,Amit Mishra,English,Creative Writing,8,1,92,91,1,High,0,Completed,Fast,Missed Prerequisite,Low Risk,Beginner,27
+STU1000402,Akshay Gupta,Programming,API Development,10,1,89,73,16,High,0,Completed,Fast,Algorithm Error,Low Risk,Beginner,29
+STU1000403,Sanjay Iyer,Biology,Human Anatomy,34,1,70,63,7,Medium,0,Completed,Average,No Error,Low Risk,Intermediate,39
+STU1000404,Diya Mishra,History,Cultural Movements,33,2,81,94,-13,High,0,Completed,Average,Concept Misunderstanding,Low Risk,Intermediate,44
+STU1000405,Sanjay Mishra,Psychology,Behavioral Studies,8,6,42,58,-16,Low,1,In Progress,Average,Algorithm Error,High Risk,Expert,39
+STU1000406,Diya Chopra,Economics,Markets,136,1,97,94,3,Medium,0,In Progress,Average,Algorithm Error,Low Risk,Beginner,42
+STU1000407,Karan Chopra,Mathematics,Algebra Basics,58,1,69,55,14,Medium,0,Dropped,Average,Calculation Error,High Risk,Advanced,47
+STU1000408,Varun Mishra,English,Sentence Structure,92,1,59,32,27,Medium,0,Completed,Average,Missed Prerequisite,Low Risk,Advanced,49
+STU1000409,Vikram Nair,History,American History,20,1,71,64,7,Medium,0,In Progress,Fast,Concept Misunderstanding,Low Risk,Intermediate,30
+STU1000410,Rajesh Verma,Programming,OOP Concepts,76,1,87,73,14,Medium,0,Completed,Average,Logic Error,Low Risk,Beginner,32
+STU1000411,Zara Rao,Programming,Data Structures,69,3,61,61,0,Medium,0,In Progress,Average,Runtime Error,Low Risk,Advanced,40
+STU1000412,Diya Iyer,Psychology,Human Motivation,49,1,82,81,1,High,0,Completed,Average,Runtime Error,Low Risk,Intermediate,34
+STU1000413,Neha Desai,English,Critical Thinking,52,1,77,56,21,Medium,0,Completed,Average,Syntax Error,Low Risk,Intermediate,52
+STU1000414,Aarav Patel,History,Cultural Movements,146,4,62,51,11,Medium,0,Completed,Slow,Timeout Error,Low Risk,Advanced,90
+STU1000415,Isha Sharma,Programming,Web Development,59,1,93,85,8,High,0,In Progress,Average,Logic Error,Low Risk,Beginner,36
+STU1000416,Amit Reddy,Economics,Inflation,46,1,78,96,-18,Medium,0,In Progress,Average,Syntax Error,Low Risk,Intermediate,34
+STU1000417,Isha Sharma,Physics,Magnetism,12,1,86,81,5,High,0,Completed,Fast,Timeout Error,Low Risk,Beginner,21
+STU1000418,Isha Nair,History,Asian History,35,2,72,54,18,Medium,0,In Progress,Average,Syntax Error,Low Risk,Intermediate,30
+STU1000419,Rahul Mishra,Programming,OOP Concepts,8,1,71,57,14,Medium,0,In Progress,Fast,Timeout Error,Low Risk,Intermediate,15
+STU1000420,Aarav Rao,Chemistry,Organic Chemistry,56,1,100,95,5,High,0,Dropped,Average,No Error,High Risk,Beginner,57
+STU1000421,Sanjay Reddy,History,Medieval Europe,33,1,92,77,15,High,0,Completed,Average,Runtime Error,Low Risk,Beginner,46
+STU1000422,Ishaan Patel,Programming,Web Development,28,1,63,67,-4,Medium,0,In Progress,Fast,Timeout Error,Low Risk,Advanced,26
+STU1000423,Neha Bhat,Biology,Evolution,111,1,61,52,9,Medium,0,Completed,Average,Missed Prerequisite,Low Risk,Advanced,45
+STU1000424,Rohan Reddy,Psychology,Human Motivation,12,3,96,84,12,Medium,0,Completed,Average,Data Formatting Error,Low Risk,Intermediate,42
+STU1000425,Priya Bhat,Programming,Database Design,76,1,53,36,17,Medium,0,In Progress,Average,Timeout Error,Low Risk,Expert,59
+STU1000426,Rajesh Nair,English,Grammar,41,1,52,72,-20,Medium,0,Dropped,Average,Logic Error,High Risk,Expert,43
+STU1000427,Nikhil Rao,Psychology,Perception,55,1,66,93,-27,Medium,0,In Progress,Average,Concept Misunderstanding,Low Risk,Advanced,60
+STU1000428,Isha Singh,Psychology,Human Motivation,35,1,98,100,-2,High,0,Completed,Average,No Error,Low Risk,Beginner,42
+STU1000429,Rajesh Desai,History,Renaissance,28,1,90,87,3,High,0,Completed,Fast,Runtime Error,Low Risk,Beginner,26
+STU1000430,Rajesh Verma,Biology,Human Anatomy,11,3,50,54,-4,Medium,0,In Progress,Average,No Error,Low Risk,Expert,42
+STU1000431,Varun Singh,Chemistry,Thermochemistry,8,1,85,86,-1,High,0,Completed,Fast,Missed Prerequisite,Low Risk,Beginner,30
+STU1000432,Varun Mishra,English,Creative Writing,54,1,57,51,6,Medium,0,Dropped,Average,Syntax Error,High Risk,Advanced,39
+STU1000433,Sarah Gupta,Psychology,Memory and Attention,13,1,73,68,5,Medium,0,Completed,Fast,Logic Error,Low Risk,Intermediate,17
+STU1000434,Sarah Kumar,Economics,Supply and Demand,31,2,59,78,-19,Medium,0,Completed,Average,Runtime Error,Low Risk,Advanced,43
+STU1000435,Vikram Das,Chemistry,Bonding,35,2,71,56,15,Medium,0,In Progress,Average,Runtime Error,Low Risk,Intermediate,58
+STU1000436,Vivaan Desai,Chemistry,Organic Chemistry,64,1,100,100,0,Medium,0,In Progress,Average,No Error,Low Risk,Beginner,31
+STU1000437,Aditya Patel,Data Science,Machine Learning,8,1,77,51,26,Medium,0,Completed,Fast,No Error,Low Risk,Intermediate,18
+STU1000438,Ananya Bhat,English,Writing Skills,12,5,45,30,15,Medium,1,Dropped,Average,No Error,Critical Risk,Expert,42
+STU1000439,Pooja Chopra,Mathematics,Geometry Fundamentals,72,3,74,64,10,Medium,0,Completed,Average,Syntax Error,Low Risk,Intermediate,59
+STU1000440,Ishaan Nair,Physics,Magnetism,21,1,74,92,-18,Medium,0,In Progress,Fast,No Error,Low Risk,Intermediate,20
+STU1000441,Varun Sharma,Biology,Evolution,20,2,65,67,-2,Medium,0,In Progress,Fast,Algorithm Error,Low Risk,Advanced,21
+STU1000442,Karan Desai,Biology,Microbiology,32,1,86,90,-4,High,0,Completed,Average,Timeout Error,Low Risk,Beginner,54
+STU1000443,Vivaan Das,Mathematics,Calculus I,109,1,73,67,6,Medium,0,In Progress,Average,Timeout Error,Low Risk,Intermediate,43
+STU1000444,Amit Patel,Psychology,Behavioral Studies,10,1,71,72,-1,Medium,0,Completed,Fast,Concept Misunderstanding,Low Risk,Intermediate,23
+STU1000445,Ananya Reddy,Chemistry,Periodicity,11,2,97,86,11,High,0,Completed,Fast,Algorithm Error,Low Risk,Beginner,26
+STU1000446,Ananya Nair,History,Global Events,8,1,38,53,-15,Low,1,Dropped,Fast,Missed Prerequisite,Critical Risk,Expert,30
+STU1000447,Rohan Patel,Chemistry,Acids and Bases,14,4,56,59,-3,Medium,0,Completed,Average,Syntax Error,Low Risk,Advanced,50
+STU1000448,Akshay Desai,Programming,OOP Concepts,96,1,51,49,2,Medium,0,In Progress,Average,Calculation Error,Low Risk,Expert,52
+STU1000449,Neha Singh,Chemistry,Thermochemistry,45,7,70,51,19,Low,0,In Progress,Average,Syntax Error,Medium Risk,Expert,41
+STU1000450,Nikhil Chopra,Chemistry,Bonding,8,1,81,72,9,High,0,Completed,Fast,Logic Error,Low Risk,Intermediate,16
+STU1000451,Isha Desai,Psychology,Behavioral Studies,32,1,63,50,13,Medium,0,In Progress,Average,Missed Prerequisite,Low Risk,Advanced,50
+STU1000452,Rohan Reddy,Chemistry,Acids and Bases,66,1,59,56,3,Medium,0,Completed,Average,Missed Prerequisite,Low Risk,Advanced,42
+STU1000453,Ananya Singh,Chemistry,Equilibrium,68,2,77,65,12,Medium,0,In Progress,Average,No Error,Low Risk,Intermediate,59
+STU1000454,Sarah Patel,Mathematics,Equations,27,1,58,19,39,Medium,0,Completed,Fast,Algorithm Error,Low Risk,Advanced,28
+STU1000455,Sanjay Desai,Data Science,Machine Learning,8,5,63,70,-7,Medium,1,Dropped,Average,Algorithm Error,Critical Risk,Expert,53
+STU1000456,Priya Singh,Physics,Quantum Mechanics,21,1,84,96,-12,High,0,Completed,Fast,Data Formatting Error,Low Risk,Intermediate,22
+STU1000457,Zara Chopra,Biology,Genetics,8,1,72,85,-13,Medium,0,In Progress,Fast,Concept Misunderstanding,Low Risk,Intermediate,22
+STU1000458,Aryan Reddy,Mathematics,Fractions,8,2,65,52,13,Medium,0,In Progress,Fast,Syntax Error,Low Risk,Advanced,30
+STU1000459,Rohan Joshi,Programming,OOP Concepts,8,1,76,84,-8,Medium,0,Completed,Fast,No Error,Low Risk,Intermediate,16
+STU1000460,Sanjay Verma,Psychology,Personality,8,3,59,37,22,Medium,0,Completed,Average,Missed Prerequisite,Low Risk,Advanced,59
+STU1000461,Sarah Desai,English,Essay Writing,146,2,88,79,9,Medium,0,In Progress,Average,No Error,Low Risk,Beginner,56
+STU1000462,Karan Verma,Mathematics,Trigonometry,27,1,79,63,16,Medium,0,In Progress,Fast,Data Formatting Error,Low Risk,Intermediate,26
+STU1000463,Sanjay Nair,Psychology,Abnormal Psychology,60,1,76,53,23,Medium,0,Completed,Average,Algorithm Error,Low Risk,Intermediate,50
+STU1000464,Nikhil Singh,Biology,Genetics,11,2,100,100,0,High,0,Completed,Fast,Algorithm Error,Low Risk,Beginner,15
+STU1000465,Priya Chopra,Programming,Loops,55,1,76,76,0,Medium,0,In Progress,Average,No Error,Low Risk,Intermediate,52
+STU1000466,Ananya Singh,English,Creative Writing,8,2,65,74,-9,Medium,0,In Progress,Fast,Timeout Error,Low Risk,Advanced,19
+STU1000467,Ishaan Chopra,Chemistry,Organic Chemistry,68,4,48,48,0,Medium,1,Dropped,Average,Syntax Error,Critical Risk,Expert,38
+STU1000468,Pooja Bhat,Data Science,Exploratory Data Analysis,8,4,35,45,-10,Low,1,In Progress,Average,Data Formatting Error,High Risk,Expert,49
+STU1000469,Diya Verma,Programming,Git Version Control,20,1,75,81,-6,Medium,0,Completed,Fast,Syntax Error,Low Risk,Intermediate,29
+STU1000470,Ananya Bhat,Biology,Respiration,119,1,59,61,-2,Medium,0,Completed,Average,Missed Prerequisite,Low Risk,Advanced,60
+STU1000471,Vikram Sharma,Data Science,Pandas Tutorial,74,1,92,100,-8,Medium,0,In Progress,Average,Algorithm Error,Low Risk,Beginner,51
+STU1000472,Isha Gupta,Chemistry,Acids and Bases,44,3,68,60,8,Medium,0,In Progress,Average,Calculation Error,Low Risk,Advanced,34
+STU1000473,Diya Iyer,Data Science,Exploratory Data Analysis,8,3,68,80,-12,Medium,0,In Progress,Average,Data Formatting Error,Low Risk,Advanced,38
+STU1000474,Vikram Reddy,History,American History,43,1,94,84,10,High,0,Completed,Average,Logic Error,Low Risk,Beginner,37
+STU1000475,Neha Patel,Psychology,Abnormal Psychology,21,1,94,85,9,High,0,Completed,Fast,Concept Misunderstanding,Low Risk,Beginner,20
+STU1000476,Nikhil Verma,Psychology,Memory and Attention,14,1,87,84,3,High,0,Completed,Fast,Missed Prerequisite,Low Risk,Beginner,15
+STU1000477,Akshay Bhat,Biology,Evolution,8,1,69,54,15,Medium,0,In Progress,Fast,No Error,Low Risk,Advanced,18
+STU1000478,Rohan Singh,History,American History,20,2,93,100,-7,High,0,Completed,Fast,Logic Error,Low Risk,Beginner,17
+STU1000479,Ishaan Patel,Chemistry,Thermochemistry,15,3,72,68,4,Medium,0,In Progress,Average,No Error,Low Risk,Intermediate,50
+STU1000480,Nikhil Reddy,Economics,Microeconomics,35,1,57,68,-11,Medium,0,In Progress,Average,Algorithm Error,Low Risk,Advanced,52
+STU1000481,Isha Sharma,History,Ancient Rome,40,1,79,68,11,Medium,0,In Progress,Average,Calculation Error,Low Risk,Intermediate,59
+STU1000482,Ananya Kumar,Chemistry,Reactions,9,3,80,58,22,Medium,0,Completed,Average,No Error,Low Risk,Intermediate,42
+STU1000483,Isha Iyer,Programming,Debugging,41,1,59,47,12,Medium,0,Completed,Average,Missed Prerequisite,Low Risk,Advanced,42
+STU1000484,Sarah Sharma,English,Punctuation,8,1,82,75,7,High,0,Completed,Fast,Syntax Error,Low Risk,Intermediate,17
+STU1000485,Ananya Verma,Mathematics,Equations,71,2,84,87,-3,Medium,0,Dropped,Average,Runtime Error,High Risk,Intermediate,46
+STU1000486,Varun Verma,Psychology,Social Psychology,10,4,68,87,-19,Medium,0,In Progress,Average,Concept Misunderstanding,Low Risk,Advanced,59
+STU1000487,Rahul Rao,History,Cultural Movements,8,1,91,81,10,High,0,Completed,Fast,Timeout Error,Low Risk,Beginner,21
+STU1000488,Sanjay Joshi,Mathematics,Equations,27,1,66,61,5,Medium,0,In Progress,Fast,No Error,Low Risk,Advanced,28
+STU1000489,Vikram Reddy,Biology,Genetics,47,4,69,60,9,Medium,0,Completed,Average,Calculation Error,Low Risk,Advanced,35
+STU1000490,Aryan Sharma,Data Science,Data Cleaning,12,4,69,73,-4,Medium,0,In Progress,Average,No Error,Low Risk,Advanced,56
+STU1000491,Zara Patel,History,American History,8,5,36,54,-18,Low,1,In Progress,Average,Timeout Error,High Risk,Expert,43
+STU1000492,Priya Gupta,Psychology,Mental Health,61,1,80,90,-10,Medium,0,In Progress,Average,Data Formatting Error,Low Risk,Intermediate,38
+STU1000493,Vivaan Das,Chemistry,Atomic Structure,8,1,74,67,7,Medium,0,In Progress,Fast,Timeout Error,Low Risk,Intermediate,24
+STU1000494,Rahul Rao,Biology,Microbiology,12,1,59,43,16,Medium,0,In Progress,Fast,Algorithm Error,Low Risk,Advanced,27
+STU1000495,Vivaan Iyer,Biology,Genetics,47,1,89,98,-9,High,0,Completed,Average,Calculation Error,Low Risk,Beginner,48
+STU1000496,Karan Sharma,Economics,Financial Markets,77,1,73,67,6,Medium,0,In Progress,Average,Algorithm Error,Low Risk,Intermediate,39
+STU1000497,Aditya Desai,Psychology,Mental Health,55,1,76,79,-3,Medium,0,In Progress,Average,No Error,Low Risk,Intermediate,53
+STU1000498,Akshay Rao,Psychology,Mental Health,8,3,48,55,-7,Medium,1,Completed,Average,Runtime Error,High Risk,Expert,43
+STU1000499,Akshay Bhat,Chemistry,Atomic Structure,8,4,74,77,-3,Medium,0,In Progress,Average,Concept Misunderstanding,Low Risk,Advanced,54
+STU1000500,Ishaan Sharma,Programming,Functions,73,1,34,47,-13,Low,1,In Progress,Average,Missed Prerequisite,High Risk,Expert,58
+STU1000501,Isha Desai,Biology,Evolution,13,1,82,87,-5,High,0,Completed,Fast,Missed Prerequisite,Low Risk,Intermediate,17
+STU1000502,Nikhil Desai,Economics,Microeconomics,78,1,99,100,-1,Medium,0,Completed,Average,Calculation Error,Low Risk,Beginner,33
+STU1000503,Amit Kumar,English,Creative Writing,31,2,76,51,25,Medium,0,In Progress,Average,No Error,Low Risk,Intermediate,50
+STU1000504,Ananya Joshi,Biology,Photosynthesis,8,1,100,90,10,High,0,Completed,Fast,Runtime Error,Low Risk,Beginner,26
+STU1000505,Vikram Singh,Physics,Electricity,105,1,75,83,-8,Medium,0,Dropped,Average,Algorithm Error,High Risk,Intermediate,56
+STU1000506,Arjun Verma,History,Renaissance,35,1,63,44,19,Medium,0,In Progress,Average,Timeout Error,Low Risk,Advanced,34
+STU1000507,Amit Iyer,Data Science,Machine Learning,22,1,68,56,12,Medium,0,In Progress,Fast,Concept Misunderstanding,Low Risk,Advanced,23
+STU1000508,Sanjay Sharma,Programming,Git Version Control,124,1,53,57,-4,Medium,0,Completed,Average,Logic Error,Low Risk,Expert,53
+STU1000509,Vivaan Nair,Economics,Supply and Demand,33,1,76,53,23,Medium,0,Completed,Average,No Error,Low Risk,Intermediate,36
+STU1000510,Amit Das,Psychology,Mental Health,8,1,70,57,13,Medium,0,Completed,Fast,Runtime Error,Low Risk,Intermediate,27
+STU1000511,Ananya Joshi,Data Science,Machine Learning,56,1,46,52,-6,Medium,1,Dropped,Average,Runtime Error,Critical Risk,Expert,52
+STU1000512,Zara Gupta,Psychology,Mental Health,93,1,78,62,16,Medium,0,Completed,Average,Timeout Error,Low Risk,Intermediate,39
+STU1000513,Aarav Bhat,Mathematics,Fractions,8,1,91,83,8,High,0,Completed,Fast,Runtime Error,Low Risk,Beginner,15
+STU1000514,Akshay Bhat,Physics,Optics,23,2,64,42,22,Medium,0,Completed,Fast,Algorithm Error,Low Risk,Advanced,20
+STU1000515,Diya Das,History,Renaissance,19,1,79,76,3,Medium,0,Completed,Fast,No Error,Low Risk,Intermediate,30
+STU1000516,Nikhil Rao,Chemistry,Periodicity,32,1,67,65,2,Medium,0,Dropped,Average,Logic Error,High Risk,Advanced,30
+STU1000517,Vivaan Rao,Physics,Electricity,10,1,99,99,0,High,0,Completed,Fast,Missed Prerequisite,Low Risk,Beginner,18
+STU1000518,Zara Sharma,Psychology,Abnormal Psychology,8,1,42,38,4,Medium,1,In Progress,Fast,No Error,High Risk,Expert,17
+STU1000519,Sanjay Rao,Chemistry,Atomic Structure,8,1,73,70,3,Medium,0,Completed,Fast,Concept Misunderstanding,Low Risk,Intermediate,28
+STU1000520,Nikhil Reddy,English,Literature Analysis,8,1,77,73,4,Medium,0,Completed,Fast,Timeout Error,Low Risk,Intermediate,28
+STU1000521,Ananya Desai,Psychology,Mental Health,39,1,73,70,3,Medium,0,Dropped,Average,Timeout Error,High Risk,Intermediate,50
+STU1000522,Akshay Reddy,Mathematics,Equations,35,4,74,74,0,Medium,0,Dropped,Average,Data Formatting Error,High Risk,Advanced,39
+STU1000523,Aditya Desai,Economics,Microeconomics,45,1,57,55,2,Medium,0,Completed,Average,Syntax Error,Low Risk,Advanced,53
+STU1000524,Amit Nair,Economics,Microeconomics,8,1,73,47,26,Medium,0,In Progress,Fast,Syntax Error,Low Risk,Intermediate,28
+STU1000525,Pooja Nair,Data Science,NumPy Essentials,30,1,77,58,19,Medium,0,In Progress,Average,Calculation Error,Low Risk,Intermediate,35
+STU1000526,Rajesh Reddy,Economics,Macroeconomics,14,2,89,85,4,High,0,Completed,Fast,Concept Misunderstanding,Low Risk,Beginner,20
+STU1000527,Pooja Das,Programming,Loops,41,1,57,65,-8,Medium,0,Completed,Average,Calculation Error,Low Risk,Advanced,41
+STU1000528,Vikram Mishra,Biology,Cells,12,2,95,84,11,High,0,Completed,Fast,Runtime Error,Low Risk,Beginner,20
+STU1000529,Neha Reddy,English,Creative Writing,60,3,62,68,-6,Medium,0,In Progress,Average,Runtime Error,Low Risk,Advanced,52
+STU1000530,Rahul Reddy,English,Writing Skills,13,1,94,69,25,High,0,Completed,Fast,Data Formatting Error,Low Risk,Beginner,19
+STU1000531,Rajesh Verma,Mathematics,Trigonometry,42,2,58,50,8,Medium,0,Dropped,Average,Syntax Error,High Risk,Advanced,36
+STU1000532,Rohan Das,Biology,Evolution,19,1,70,76,-6,Medium,0,In Progress,Fast,Logic Error,Low Risk,Intermediate,30
+STU1000533,Aryan Reddy,Chemistry,Periodicity,8,1,94,99,-5,High,0,Completed,Fast,Calculation Error,Low Risk,Beginner,20
+STU1000534,Pooja Reddy,Data Science,Feature Engineering,14,1,49,44,5,Medium,1,Dropped,Fast,Missed Prerequisite,Critical Risk,Expert,18
+STU1000535,Karan Gupta,Mathematics,Geometry Fundamentals,39,1,56,45,11,Medium,0,In Progress,Average,Logic Error,Low Risk,Advanced,44
+STU1000536,Ananya Singh,Physics,Energy and Work,150,1,62,64,-2,Medium,0,Completed,Average,Algorithm Error,Low Risk,Advanced,48
+STU1000537,Sanjay Kumar,Psychology,Human Motivation,23,1,83,75,8,High,0,Completed,Fast,Timeout Error,Low Risk,Intermediate,21
+STU1000538,Arjun Mishra,Chemistry,Acids and Bases,16,1,73,65,8,Medium,0,In Progress,Fast,Logic Error,Low Risk,Intermediate,20
+STU1000539,Rohan Sharma,Mathematics,Linear Algebra,8,1,71,87,-16,Medium,0,In Progress,Fast,Data Formatting Error,Low Risk,Intermediate,21
+STU1000540,Ananya Chopra,Psychology,Abnormal Psychology,11,4,68,60,8,Medium,0,In Progress,Average,Timeout Error,Low Risk,Advanced,31
+STU1000541,Pooja Das,History,Global Events,32,3,63,65,-2,Medium,0,Completed,Average,No Error,Low Risk,Advanced,53
+STU1000542,Neha Rao,Economics,Government Policy,17,1,57,55,2,Medium,0,In Progress,Fast,Concept Misunderstanding,Low Risk,Advanced,20
+STU1000543,Rohan Verma,Data Science,NumPy Essentials,28,1,84,81,3,High,0,Completed,Fast,Calculation Error,Low Risk,Intermediate,21
+STU1000544,Ishaan Reddy,Psychology,Learning Theories,20,1,63,52,11,Medium,0,In Progress,Fast,Calculation Error,Low Risk,Advanced,23
+STU1000545,Arjun Sharma,English,Literature Analysis,8,1,45,58,-13,Medium,1,In Progress,Fast,Syntax Error,High Risk,Expert,28
+STU1000546,Vikram Rao,Programming,Git Version Control,30,1,100,82,18,High,0,Dropped,Average,Data Formatting Error,High Risk,Beginner,44
+STU1000547,Vikram Nair,Programming,Git Version Control,23,1,91,100,-9,High,0,Completed,Fast,Concept Misunderstanding,Low Risk,Beginner,18
+STU1000548,Vikram Nair,Economics,Consumer Behavior,33,1,68,63,5,Medium,0,In Progress,Average,Runtime Error,Low Risk,Advanced,57
+STU1000549,Nikhil Sharma,History,Ancient Rome,22,1,78,74,4,Medium,0,Completed,Fast,Data Formatting Error,Low Risk,Intermediate,20
+STU1000550,Diya Singh,Biology,Photosynthesis,26,3,70,62,8,Medium,0,Completed,Average,Algorithm Error,Low Risk,Intermediate,32
+STU1000551,Aryan Joshi,Biology,Genetics,8,2,84,72,12,High,0,Completed,Fast,Logic Error,Low Risk,Intermediate,24
+STU1000552,Rohan Joshi,Programming,Debugging,100,1,80,71,9,Medium,0,Completed,Average,Syntax Error,Low Risk,Intermediate,32
+STU1000553,Aryan Bhat,Biology,Evolution,23,3,33,53,-20,Low,1,Dropped,Average,No Error,Critical Risk,Expert,42
+STU1000554,Arjun Desai,Economics,International Trade,11,1,66,79,-13,Medium,0,Completed,Fast,No Error,Low Risk,Advanced,18
+STU1000555,Sarah Joshi,Data Science,Feature Engineering,25,1,90,84,6,High,0,Dropped,Fast,Logic Error,High Risk,Beginner,23
+STU1000556,Rohan Gupta,History,Modern World Wars,138,1,82,80,2,Medium,0,Completed,Average,Logic Error,Low Risk,Intermediate,32
+STU1000557,Rahul Nair,Programming,API Development,29,5,51,54,-3,Medium,1,Dropped,Average,Algorithm Error,Critical Risk,Expert,40
+STU1000558,Vivaan Chopra,Physics,Kinematics,67,1,83,45,38,Medium,0,Completed,Average,Algorithm Error,Low Risk,Intermediate,30
+STU1000559,Aarav Rao,Mathematics,Trigonometry,34,4,54,54,0,Medium,0,Dropped,Average,Logic Error,High Risk,Expert,48
+STU1000560,Pooja Nair,Economics,Financial Markets,40,2,63,64,-1,Medium,0,Dropped,Average,Data Formatting Error,High Risk,Advanced,37
+STU1000561,Varun Verma,Economics,GDP,12,1,65,72,-7,Medium,0,In Progress,Fast,Syntax Error,Low Risk,Advanced,30
+STU1000562,Rahul Singh,Physics,Waves,8,5,74,77,-3,Medium,0,In Progress,Average,Data Formatting Error,Low Risk,Expert,45
+STU1000563,Arjun Iyer,Mathematics,Trigonometry,12,1,85,82,3,High,0,Completed,Fast,Logic Error,Low Risk,Beginner,18
+STU1000564,Vikram Joshi,Biology,DNA and Proteins,47,1,87,86,1,High,0,In Progress,Average,Runtime Error,Low Risk,Beginner,30
+STU1000565,Aryan Mishra,History,Asian History,37,2,80,82,-2,High,0,Completed,Average,Logic Error,Low Risk,Intermediate,31
+STU1000566,Neha Nair,Data Science,Feature Engineering,8,1,72,60,12,Medium,0,Completed,Fast,Timeout Error,Low Risk,Intermediate,23
+STU1000567,Pooja Desai,Biology,Human Anatomy,18,1,63,56,7,Medium,0,In Progress,Fast,Calculation Error,Low Risk,Advanced,15
+STU1000568,Vivaan Desai,Programming,Database Design,57,5,17,24,-7,Low,1,Dropped,Average,Runtime Error,Critical Risk,Expert,51
+STU1000569,Varun Mishra,Psychology,Mental Health,8,1,84,85,-1,High,0,Completed,Fast,Concept Misunderstanding,Low Risk,Intermediate,16
+STU1000570,Zara Patel,Biology,Genetics,8,1,50,45,5,Medium,0,In Progress,Fast,No Error,Low Risk,Expert,18
+STU1000571,Amit Kumar,Chemistry,Equilibrium,9,1,87,77,10,High,0,Completed,Fast,Data Formatting Error,Low Risk,Beginner,21
+STU1000572,Neha Iyer,English,Literature Analysis,13,1,84,63,21,High,0,Completed,Fast,No Error,Low Risk,Intermediate,15
+STU1000573,Vivaan Nair,Biology,Reproduction,135,1,95,73,22,Medium,0,In Progress,Average,Logic Error,Low Risk,Beginner,42
+STU1000574,Amit Desai,Biology,Microbiology,8,3,10,17,-7,Low,1,Completed,Average,Runtime Error,High Risk,Expert,49
+STU1000575,Varun Patel,Chemistry,Bonding,30,1,78,65,13,Medium,0,In Progress,Average,Calculation Error,Low Risk,Intermediate,46
+STU1000576,Sanjay Desai,English,Vocabulary,9,2,82,79,3,High,0,Completed,Fast,Calculation Error,Low Risk,Intermediate,23
+STU1000577,Amit Patel,Data Science,Data Cleaning,28,1,80,66,14,High,0,Completed,Fast,Runtime Error,Low Risk,Intermediate,30
+STU1000578,Rahul Das,Psychology,Abnormal Psychology,11,1,64,56,8,Medium,0,In Progress,Fast,Logic Error,Low Risk,Advanced,30
+STU1000579,Neha Desai,Programming,Loops,34,1,62,72,-10,Medium,0,Completed,Average,Timeout Error,Low Risk,Advanced,54
+STU1000580,Isha Das,Biology,Respiration,8,1,70,68,2,Medium,0,In Progress,Fast,No Error,Low Risk,Intermediate,25
+STU1000581,Neha Gupta,Psychology,Behavioral Studies,63,1,87,70,17,Medium,0,Completed,Average,Missed Prerequisite,Low Risk,Beginner,49
+STU1000582,Pooja Das,History,Civil Rights,13,1,54,49,5,Medium,0,In Progress,Fast,Syntax Error,Low Risk,Expert,28
+STU1000583,Vikram Patel,Programming,Debugging,64,1,78,71,7,Medium,0,In Progress,Average,Timeout Error,Low Risk,Intermediate,40
+STU1000584,Aryan Reddy,Biology,DNA and Proteins,19,4,62,57,5,Medium,0,In Progress,Average,No Error,Low Risk,Advanced,41
+STU1000585,Neha Iyer,Chemistry,Acids and Bases,8,2,38,41,-3,Low,1,Completed,Fast,Calculation Error,High Risk,Expert,25
+STU1000586,Aditya Kumar,Mathematics,Calculus I,35,2,89,93,-4,High,0,Completed,Average,Concept Misunderstanding,Low Risk,Beginner,40
+STU1000587,Arjun Reddy,English,Creative Writing,118,2,76,69,7,Medium,0,In Progress,Average,Data Formatting Error,Low Risk,Intermediate,56
+STU1000588,Zara Chopra,Chemistry,Periodicity,12,1,84,88,-4,High,0,Completed,Fast,Runtime Error,Low Risk,Intermediate,22
+STU1000589,Ananya Iyer,Psychology,Perception,8,1,75,73,2,Medium,0,Completed,Fast,Logic Error,Low Risk,Intermediate,26
+STU1000590,Aarav Gupta,History,Renaissance,19,1,66,48,18,Medium,0,In Progress,Fast,Concept Misunderstanding,Low Risk,Advanced,27
+STU1000591,Neha Verma,Programming,API Development,16,1,68,82,-14,Medium,0,In Progress,Fast,Calculation Error,Low Risk,Advanced,27
+STU1000592,Neha Singh,History,Medieval Europe,60,3,76,56,20,Medium,0,Completed,Average,Missed Prerequisite,Low Risk,Intermediate,49
+STU1000593,Priya Mishra,Biology,Respiration,22,3,77,58,19,Medium,0,Completed,Average,Calculation Error,Low Risk,Intermediate,31
+STU1000594,Aryan Gupta,Economics,Consumer Behavior,32,1,80,62,18,High,0,Completed,Average,Timeout Error,Low Risk,Intermediate,41
+STU1000595,Aryan Kumar,Chemistry,Stoichiometry,46,1,57,73,-16,Medium,0,Completed,Average,Runtime Error,Low Risk,Advanced,57
+STU1000596,Aditya Kumar,Data Science,Statistical Analysis,43,1,70,74,-4,Medium,0,Completed,Average,Data Formatting Error,Low Risk,Intermediate,40
+STU1000597,Aryan Iyer,Programming,Loops,16,1,75,56,19,Medium,0,Completed,Fast,Missed Prerequisite,Low Risk,Intermediate,18
+STU1000598,Karan Bhat,Physics,Optics,10,3,60,45,15,Medium,0,In Progress,Average,Timeout Error,Low Risk,Advanced,30
+STU1000599,Aditya Desai,Economics,Government Policy,23,1,100,99,1,High,0,Completed,Fast,Runtime Error,Low Risk,Beginner,29
+STU1000600,Varun Gupta,Economics,Macroeconomics,8,1,75,72,3,Medium,0,Completed,Fast,Missed Prerequisite,Low Risk,Intermediate,27
+STU1000601,Zara Desai,Programming,Web Development,39,1,85,84,1,High,0,Completed,Average,Missed Prerequisite,Low Risk,Beginner,53
+STU1000602,Vivaan Gupta,History,Cultural Movements,25,6,68,72,-4,Low,0,Dropped,Average,Missed Prerequisite,High Risk,Expert,56
+STU1000603,Ananya Reddy,English,Critical Thinking,8,1,76,83,-7,Medium,0,In Progress,Fast,No Error,Low Risk,Intermediate,19
+STU1000604,Arjun Reddy,Biology,Genetics,14,1,77,69,8,Medium,0,In Progress,Fast,Data Formatting Error,Low Risk,Intermediate,15
+STU1000605,Arjun Patel,Economics,International Trade,65,1,77,71,6,Medium,0,In Progress,Average,Calculation Error,Low Risk,Intermediate,49
+STU1000606,Pooja Das,Economics,Government Policy,53,1,50,45,5,Medium,0,In Progress,Average,Syntax Error,Low Risk,Expert,33
+STU1000607,Isha Iyer,Data Science,Data Visualization,8,1,73,50,23,Medium,0,Completed,Fast,No Error,Low Risk,Intermediate,23
+STU1000608,Isha Gupta,Mathematics,Geometry Fundamentals,48,1,75,69,6,Medium,0,Completed,Average,Runtime Error,Low Risk,Intermediate,60
+STU1000609,Ishaan Reddy,Chemistry,Stoichiometry,115,1,56,45,11,Medium,0,In Progress,Average,Syntax Error,Low Risk,Advanced,52
+STU1000610,Rahul Sharma,Physics,Electricity,8,1,94,91,3,High,0,In Progress,Fast,Data Formatting Error,Low Risk,Beginner,22
+STU1000611,Vikram Rao,Economics,Markets,30,1,82,85,-3,High,0,Completed,Average,Logic Error,Low Risk,Intermediate,41
+STU1000612,Aarav Iyer,Chemistry,Acids and Bases,17,2,62,43,19,Medium,0,Completed,Fast,Logic Error,Low Risk,Advanced,29
+STU1000613,Sarah Joshi,Economics,Markets,87,1,89,80,9,Medium,0,In Progress,Average,Calculation Error,Low Risk,Beginner,49
+STU1000614,Sanjay Sharma,Chemistry,Thermochemistry,43,1,62,84,-22,Medium,0,Completed,Average,Calculation Error,Low Risk,Advanced,51
+STU1000615,Vikram Joshi,Economics,Macroeconomics,8,5,22,29,-7,Low,1,In Progress,Average,Missed Prerequisite,High Risk,Expert,51
+STU1000616,Nikhil Verma,Psychology,Mental Health,24,2,72,64,8,Medium,0,In Progress,Fast,Runtime Error,Low Risk,Intermediate,30
+STU1000617,Rajesh Joshi,Psychology,Memory and Attention,57,1,41,64,-23,Medium,1,Dropped,Average,Missed Prerequisite,Critical Risk,Expert,46
+STU1000618,Neha Chopra,Psychology,Behavioral Studies,8,1,53,54,-1,Medium,0,Completed,Fast,Syntax Error,Low Risk,Expert,28
+STU1000619,Neha Singh,Mathematics,Geometry Fundamentals,8,3,57,61,-4,Medium,0,In Progress,Average,Missed Prerequisite,Low Risk,Advanced,51
+STU1000620,Vikram Sharma,Psychology,Perception,113,1,51,61,-10,Medium,0,Completed,Average,Syntax Error,Low Risk,Expert,36
+STU1000621,Nikhil Rao,Psychology,Personality,20,1,77,62,15,Medium,0,Completed,Fast,Runtime Error,Low Risk,Intermediate,15
+STU1000622,Vikram Verma,Mathematics,Equations,139,1,81,73,8,Medium,0,Dropped,Average,Algorithm Error,High Risk,Intermediate,50
+STU1000623,Vivaan Gupta,Economics,Markets,49,1,100,90,10,High,0,Completed,Average,Syntax Error,Low Risk,Beginner,60
+STU1000624,Rohan Patel,Chemistry,Periodicity,9,1,60,62,-2,Medium,0,In Progress,Fast,Data Formatting Error,Low Risk,Advanced,25
+STU1000625,Karan Bhat,English,Essay Writing,29,2,70,66,4,Medium,0,In Progress,Fast,Concept Misunderstanding,Low Risk,Intermediate,15
+STU1000626,Vivaan Reddy,Mathematics,Calculus I,8,1,56,60,-4,Medium,0,In Progress,Fast,Missed Prerequisite,Low Risk,Advanced,26
+STU1000627,Vivaan Das,History,American History,13,3,56,56,0,Medium,0,In Progress,Average,Missed Prerequisite,Low Risk,Advanced,57
+STU1000628,Ananya Singh,Psychology,Mental Health,19,1,100,89,11,High,0,Completed,Fast,Data Formatting Error,Low Risk,Beginner,16
+STU1000629,Vivaan Kumar,Biology,Respiration,8,1,86,76,10,High,0,Dropped,Fast,Concept Misunderstanding,High Risk,Beginner,25
+STU1000630,Pooja Gupta,Data Science,Statistical Analysis,150,1,65,77,-12,Medium,0,Completed,Average,Calculation Error,Low Risk,Advanced,51
+STU1000631,Arjun Das,Programming,OOP Concepts,17,2,47,64,-17,Medium,1,Dropped,Fast,Calculation Error,Critical Risk,Expert,29
+STU1000632,Vikram Gupta,Programming,Functions,54,1,45,60,-15,Medium,1,Dropped,Average,Syntax Error,Critical Risk,Expert,37
+STU1000633,Neha Bhat,Data Science,Exploratory Data Analysis,37,1,75,57,18,Medium,0,In Progress,Average,Concept Misunderstanding,Low Risk,Intermediate,49
+STU1000634,Vivaan Singh,English,Critical Thinking,8,1,68,73,-5,Medium,0,In Progress,Fast,Data Formatting Error,Low Risk,Advanced,30
+STU1000635,Isha Mishra,Data Science,Statistical Analysis,105,1,100,76,24,Medium,0,Dropped,Average,Algorithm Error,High Risk,Beginner,42
+STU1000636,Diya Desai,Biology,Ecology,25,2,61,42,19,Medium,0,Completed,Fast,Runtime Error,Low Risk,Advanced,17
+STU1000637,Aditya Chopra,History,Cultural Movements,78,5,51,67,-16,Medium,1,In Progress,Average,Missed Prerequisite,High Risk,Expert,41
+STU1000638,Sanjay Singh,Chemistry,Periodicity,53,1,53,57,-4,Medium,0,In Progress,Average,No Error,Low Risk,Expert,43
+STU1000639,Isha Joshi,English,Creative Writing,31,1,88,75,13,High,0,Completed,Average,Timeout Error,Low Risk,Beginner,60
+STU1000640,Rohan Kumar,Physics,Thermodynamics,8,1,35,42,-7,Low,1,In Progress,Fast,Data Formatting Error,High Risk,Expert,30
+STU1000641,Aryan Rao,Mathematics,Algebra Basics,58,3,87,68,19,Medium,0,In Progress,Average,Algorithm Error,Low Risk,Intermediate,51
+STU1000642,Ananya Chopra,Psychology,Abnormal Psychology,51,1,48,56,-8,Medium,1,Dropped,Average,Algorithm Error,Critical Risk,Expert,57
+STU1000643,Amit Verma,Mathematics,Geometry Fundamentals,19,1,80,67,13,High,0,Completed,Fast,No Error,Low Risk,Intermediate,18
+STU1000644,Aryan Verma,Chemistry,Organic Chemistry,8,1,64,61,3,Medium,0,Completed,Fast,Calculation Error,Low Risk,Advanced,27
+STU1000645,Vikram Patel,Biology,Cells,126,1,58,41,17,Medium,0,In Progress,Average,Missed Prerequisite,Low Risk,Advanced,39
+STU1000646,Ishaan Singh,Psychology,Human Motivation,9,1,85,65,20,High,0,Completed,Fast,Timeout Error,Low Risk,Beginner,21
+STU1000647,Sarah Das,Economics,Markets,47,3,33,29,4,Low,1,Dropped,Average,Concept Misunderstanding,Critical Risk,Expert,52
+STU1000648,Pooja Mishra,Economics,GDP,13,2,68,70,-2,Medium,0,Completed,Fast,Logic Error,Low Risk,Advanced,19
+STU1000649,Priya Bhat,Chemistry,Thermochemistry,16,4,43,65,-22,Medium,1,In Progress,Average,Syntax Error,High Risk,Expert,57
+STU1000650,Rohan Joshi,Programming,Data Structures,31,1,76,59,17,Medium,0,Dropped,Average,Data Formatting Error,High Risk,Intermediate,46
+STU1000651,Amit Joshi,English,Vocabulary,43,1,81,87,-6,High,0,Completed,Average,Calculation Error,Low Risk,Intermediate,58
+STU1000652,Sarah Gupta,Biology,Human Anatomy,106,1,84,60,24,Medium,0,Dropped,Average,Missed Prerequisite,High Risk,Intermediate,48
+STU1000653,Vikram Nair,Data Science,Pandas Tutorial,12,2,69,69,0,Medium,0,Completed,Fast,Runtime Error,Low Risk,Advanced,16
+STU1000654,Aryan Das,English,Creative Writing,25,1,84,74,10,High,0,Completed,Fast,Data Formatting Error,Low Risk,Intermediate,19
+STU1000655,Rahul Sharma,Mathematics,Calculus I,61,2,70,88,-18,Medium,0,Completed,Average,Data Formatting Error,Low Risk,Intermediate,45
+STU1000656,Ishaan Sharma,History,Cultural Movements,88,2,84,80,4,Medium,0,In Progress,Average,Concept Misunderstanding,Low Risk,Intermediate,55
+STU1000657,Neha Kumar,Psychology,Human Motivation,11,2,66,49,17,Medium,0,In Progress,Fast,Timeout Error,Low Risk,Advanced,17
+STU1000658,Varun Verma,Psychology,Learning Theories,14,6,63,69,-6,Low,1,Dropped,Average,Logic Error,Critical Risk,Expert,39
+STU1000659,Vikram Chopra,Psychology,Perception,45,1,74,79,-5,Medium,0,Completed,Average,Data Formatting Error,Low Risk,Intermediate,56
+STU1000660,Pooja Patel,Economics,Consumer Behavior,16,1,85,85,0,High,0,Completed,Fast,Data Formatting Error,Low Risk,Beginner,29
+STU1000661,Ananya Bhat,Psychology,Perception,16,1,52,52,0,Medium,0,In Progress,Fast,Concept Misunderstanding,Low Risk,Expert,20
+STU1000662,Sanjay Verma,Mathematics,Trigonometry,42,3,74,71,3,Medium,0,In Progress,Average,Data Formatting Error,Low Risk,Intermediate,58
+STU1000663,Aarav Verma,Programming,Database Design,8,1,85,81,4,High,0,Completed,Fast,Calculation Error,Low Risk,Beginner,29
+STU1000664,Aryan Das,Mathematics,Functions,8,2,42,60,-18,Medium,1,In Progress,Fast,Runtime Error,High Risk,Expert,18
+STU1000665,Priya Singh,Psychology,Memory and Attention,8,3,56,42,14,Medium,0,In Progress,Average,Syntax Error,Low Risk,Advanced,45
+STU1000666,Isha Das,Mathematics,Functions,11,3,84,82,2,Medium,0,In Progress,Average,Syntax Error,Low Risk,Intermediate,51
+STU1000667,Amit Mishra,Economics,Government Policy,10,1,93,87,6,High,0,Completed,Fast,Data Formatting Error,Low Risk,Beginner,22
+STU1000668,Aarav Kumar,English,Literature Analysis,82,1,69,67,2,Medium,0,Completed,Average,Algorithm Error,Low Risk,Advanced,37
+STU1000669,Akshay Mishra,Physics,Kinematics,27,1,59,39,20,Medium,0,Completed,Fast,Concept Misunderstanding,Low Risk,Advanced,21
+STU1000670,Ananya Desai,Programming,Loops,33,1,65,80,-15,Medium,0,In Progress,Average,Timeout Error,Low Risk,Advanced,35
+STU1000671,Varun Sharma,Biology,DNA and Proteins,8,2,66,42,24,Medium,0,In Progress,Fast,Concept Misunderstanding,Low Risk,Advanced,17
+STU1000672,Arjun Verma,Physics,Magnetism,40,1,72,62,10,Medium,0,Completed,Average,Missed Prerequisite,Low Risk,Intermediate,33
+STU1000673,Ananya Mishra,Psychology,Abnormal Psychology,101,1,91,97,-6,Medium,0,Dropped,Average,Data Formatting Error,High Risk,Beginner,43
+STU1000674,Akshay Joshi,Mathematics,Calculus I,8,1,68,68,0,Medium,0,Completed,Fast,Logic Error,Low Risk,Advanced,15
+STU1000675,Sarah Patel,Economics,International Trade,11,1,80,71,9,High,0,Dropped,Fast,Syntax Error,High Risk,Intermediate,20
+STU1000676,Karan Reddy,History,Cultural Movements,8,1,71,56,15,Medium,0,In Progress,Fast,Calculation Error,Low Risk,Intermediate,25
+STU1000677,Sarah Reddy,Data Science,Feature Engineering,46,2,47,40,7,Medium,1,Completed,Average,Concept Misunderstanding,High Risk,Expert,58
+STU1000678,Karan Iyer,Biology,Human Anatomy,17,1,73,52,21,Medium,0,In Progress,Fast,Data Formatting Error,Low Risk,Intermediate,27
+STU1000679,Sanjay Mishra,Chemistry,Thermochemistry,10,1,78,70,8,Medium,0,In Progress,Fast,Calculation Error,Low Risk,Intermediate,23
+STU1000680,Neha Chopra,Physics,Waves,32,1,66,59,7,Medium,0,Completed,Average,Logic Error,Low Risk,Advanced,37
+STU1000681,Varun Patel,Physics,Waves,31,1,55,61,-6,Medium,0,Completed,Average,Syntax Error,Low Risk,Advanced,53
+STU1000682,Amit Das,Physics,Optics,8,6,71,54,17,Low,0,Dropped,Average,Logic Error,High Risk,Expert,38
+STU1000683,Rajesh Mishra,Biology,Human Anatomy,42,1,58,43,15,Medium,0,Dropped,Average,No Error,High Risk,Advanced,51
+STU1000684,Sanjay Sharma,Chemistry,Equilibrium,31,3,74,75,-1,Medium,0,In Progress,Average,Concept Misunderstanding,Low Risk,Intermediate,45
+STU1000685,Rahul Mishra,Economics,Financial Markets,8,1,90,93,-3,High,0,In Progress,Fast,Algorithm Error,Low Risk,Beginner,18
+STU1000686,Diya Singh,English,Vocabulary,18,1,52,63,-11,Medium,0,Dropped,Fast,Syntax Error,High Risk,Expert,19
+STU1000687,Rohan Rao,Data Science,NumPy Essentials,20,5,77,65,12,Medium,0,In Progress,Average,No Error,Low Risk,Expert,59
+STU1000688,Aarav Mishra,Programming,OOP Concepts,8,2,74,68,6,Medium,0,Dropped,Fast,Calculation Error,High Risk,Intermediate,30
+STU1000689,Zara Gupta,Chemistry,Periodicity,8,2,73,79,-6,Medium,0,In Progress,Fast,Timeout Error,Low Risk,Intermediate,17
+STU1000690,Rajesh Desai,Economics,Markets,10,1,100,100,0,High,0,In Progress,Fast,Algorithm Error,Low Risk,Beginner,25
+STU1000691,Arjun Kumar,Chemistry,Stoichiometry,35,1,67,67,0,Medium,0,In Progress,Average,Algorithm Error,Low Risk,Advanced,57
+STU1000692,Isha Mishra,Psychology,Social Psychology,8,3,50,46,4,Medium,0,In Progress,Average,Data Formatting Error,Low Risk,Expert,37
+STU1000693,Aryan Patel,Economics,Inflation,11,1,73,61,12,Medium,0,Completed,Fast,Algorithm Error,Low Risk,Intermediate,17
+STU1000694,Priya Chopra,Mathematics,Geometry Fundamentals,46,1,66,65,1,Medium,0,In Progress,Average,Timeout Error,Low Risk,Advanced,50
+STU1000695,Aditya Joshi,History,Medieval Europe,105,3,73,75,-2,Medium,0,Completed,Slow,Calculation Error,Low Risk,Intermediate,81
+STU1000696,Nikhil Bhat,Data Science,Data Cleaning,94,1,82,61,21,Medium,0,Dropped,Average,Concept Misunderstanding,High Risk,Intermediate,42
+STU1000697,Neha Das,Data Science,Data Visualization,47,2,63,60,3,Medium,0,Completed,Average,Concept Misunderstanding,Low Risk,Advanced,59
+STU1000698,Rahul Das,History,American History,16,4,76,91,-15,Medium,0,Completed,Average,Algorithm Error,Low Risk,Advanced,52
+STU1000699,Arjun Kumar,Chemistry,Organic Chemistry,10,1,79,78,1,Medium,0,In Progress,Fast,Runtime Error,Low Risk,Intermediate,27
+STU1000700,Diya Patel,Mathematics,Geometry Fundamentals,54,1,54,67,-13,Medium,0,Completed,Average,Missed Prerequisite,Low Risk,Expert,50
+STU1000701,Rahul Singh,Physics,Quantum Mechanics,42,1,100,84,16,High,0,Completed,Average,Data Formatting Error,Low Risk,Beginner,50
+STU1000702,Neha Sharma,Mathematics,Calculus I,96,1,66,73,-7,Medium,0,In Progress,Average,Timeout Error,Low Risk,Advanced,55
+STU1000703,Sarah Reddy,Data Science,Data Cleaning,20,1,75,47,28,Medium,0,Dropped,Fast,Logic Error,High Risk,Intermediate,28
+STU1000704,Rahul Mishra,English,Punctuation,8,1,67,81,-14,Medium,0,In Progress,Fast,Calculation Error,Low Risk,Advanced,22
+STU1000705,Sarah Das,Chemistry,Bonding,37,1,70,63,7,Medium,0,In Progress,Average,Data Formatting Error,Low Risk,Intermediate,37
+STU1000706,Ananya Reddy,Psychology,Memory and Attention,8,1,86,81,5,High,0,Completed,Fast,Algorithm Error,Low Risk,Beginner,23
+STU1000707,Ishaan Reddy,Biology,Photosynthesis,58,2,70,59,11,Medium,0,In Progress,Average,Timeout Error,Low Risk,Intermediate,33
+STU1000708,Rahul Patel,Economics,Consumer Behavior,12,1,100,100,0,High,0,Completed,Fast,Calculation Error,Low Risk,Beginner,24
+STU1000709,Neha Desai,Data Science,Model Evaluation,15,1,82,79,3,High,0,Completed,Fast,No Error,Low Risk,Intermediate,17
+STU1000710,Aryan Kumar,Physics,Dynamics,12,4,52,60,-8,Medium,0,In Progress,Average,Logic Error,Low Risk,Expert,33
+STU1000711,Aarav Das,History,Industrial Revolution,15,1,71,57,14,Medium,0,Completed,Fast,Runtime Error,Low Risk,Intermediate,17
+STU1000712,Vivaan Singh,Mathematics,Trigonometry,28,1,80,68,12,High,0,Completed,Fast,Missed Prerequisite,Low Risk,Intermediate,25
+STU1000713,Ananya Iyer,Psychology,Social Psychology,39,3,72,76,-4,Medium,0,In Progress,Average,Missed Prerequisite,Low Risk,Intermediate,53
+STU1000714,Vivaan Kumar,English,Sentence Structure,20,1,82,64,18,High,0,Completed,Fast,Logic Error,Low Risk,Intermediate,21
+STU1000715,Amit Das,Programming,Database Design,8,2,68,61,7,Medium,0,Completed,Fast,Logic Error,Low Risk,Advanced,18
+STU1000716,Aarav Das,Data Science,Machine Learning,8,1,89,90,-1,High,0,Completed,Fast,Syntax Error,Low Risk,Beginner,26
+STU1000717,Karan Verma,Physics,Kinematics,25,1,64,45,19,Medium,0,In Progress,Fast,Missed Prerequisite,Low Risk,Advanced,19
+STU1000718,Ananya Verma,Physics,Optics,8,1,100,96,4,High,0,Completed,Fast,Runtime Error,Low Risk,Beginner,25
+STU1000719,Rahul Das,Biology,Photosynthesis,9,1,54,52,2,Medium,0,Completed,Fast,No Error,Low Risk,Expert,27
+STU1000720,Priya Mishra,Psychology,Behavioral Studies,8,5,75,87,-12,Medium,0,In Progress,Average,Timeout Error,Low Risk,Expert,48
+STU1000721,Neha Kumar,Biology,Ecology,18,1,100,95,5,High,0,Completed,Fast,No Error,Low Risk,Beginner,15
+STU1000722,Priya Reddy,Programming,API Development,42,1,35,40,-5,Low,1,Dropped,Average,Logic Error,Critical Risk,Expert,39
+STU1000723,Arjun Rao,English,Creative Writing,71,1,59,57,2,Medium,0,Dropped,Average,Calculation Error,High Risk,Advanced,31
+STU1000724,Ishaan Sharma,Chemistry,Reactions,32,1,61,53,8,Medium,0,Completed,Average,Data Formatting Error,Low Risk,Advanced,48
+STU1000725,Vikram Kumar,Chemistry,Organic Chemistry,41,1,87,76,11,High,0,Completed,Average,Missed Prerequisite,Low Risk,Beginner,47
+STU1000726,Rahul Bhat,Physics,Energy and Work,8,1,70,66,4,Medium,0,In Progress,Fast,Algorithm Error,Low Risk,Intermediate,21
+STU1000727,Sanjay Mishra,History,Global Events,55,1,100,80,20,High,0,Completed,Average,Data Formatting Error,Low Risk,Beginner,57
+STU1000728,Priya Reddy,Economics,GDP,34,2,79,88,-9,Medium,0,Completed,Average,Data Formatting Error,Low Risk,Intermediate,42
+STU1000729,Aryan Das,Physics,Thermodynamics,63,3,64,75,-11,Medium,0,Completed,Average,Missed Prerequisite,Low Risk,Advanced,43
+STU1000730,Rajesh Nair,Psychology,Cognitive Development,14,2,55,49,6,Medium,0,Completed,Fast,Concept Misunderstanding,Low Risk,Advanced,25
+STU1000731,Arjun Singh,Economics,International Trade,67,3,50,54,-4,Medium,0,In Progress,Average,Algorithm Error,Low Risk,Expert,54
+STU1000732,Isha Mishra,Psychology,Cognitive Development,17,2,74,71,3,Medium,0,In Progress,Fast,No Error,Low Risk,Intermediate,26
+STU1000733,Sanjay Iyer,Economics,Consumer Behavior,8,3,80,49,31,Medium,0,In Progress,Average,Missed Prerequisite,Low Risk,Intermediate,55
+STU1000734,Vivaan Reddy,Economics,Macroeconomics,120,1,65,64,1,Medium,0,In Progress,Average,No Error,Low Risk,Advanced,51
+STU1000735,Aarav Joshi,Economics,GDP,16,2,46,58,-12,Medium,1,Dropped,Fast,No Error,Critical Risk,Expert,19
+STU1000736,Akshay Patel,Physics,Modern Physics,8,1,65,59,6,Medium,0,In Progress,Fast,Missed Prerequisite,Low Risk,Advanced,22
+STU1000737,Ishaan Desai,Economics,GDP,16,1,88,92,-4,High,0,Completed,Fast,Runtime Error,Low Risk,Beginner,18
+STU1000738,Vivaan Singh,History,Modern World Wars,43,1,84,64,20,High,0,Completed,Average,Runtime Error,Low Risk,Intermediate,42
+STU1000739,Pooja Desai,History,Global Events,23,1,83,81,2,High,0,Completed,Fast,Data Formatting Error,Low Risk,Intermediate,15
+STU1000740,Arjun Iyer,History,Industrial Revolution,27,1,81,87,-6,High,0,Completed,Fast,Runtime Error,Low Risk,Intermediate,29
+STU1000741,Vikram Bhat,English,Essay Writing,53,2,76,82,-6,Medium,0,Completed,Average,No Error,Low Risk,Intermediate,40
+STU1000742,Isha Mishra,Physics,Modern Physics,8,2,96,94,2,High,0,Completed,Fast,No Error,Low Risk,Beginner,19
+STU1000743,Rahul Singh,English,Vocabulary,8,1,79,75,4,Medium,0,Completed,Fast,Runtime Error,Low Risk,Intermediate,24
+STU1000744,Neha Reddy,Economics,Supply and Demand,83,2,100,100,0,Medium,0,Dropped,Average,Data Formatting Error,High Risk,Beginner,56
+STU1000745,Aditya Iyer,Programming,API Development,76,1,59,60,-1,Medium,0,In Progress,Average,Data Formatting Error,Low Risk,Advanced,37
+STU1000746,Ishaan Iyer,English,Literature Analysis,22,2,62,51,11,Medium,0,Completed,Fast,Logic Error,Low Risk,Advanced,30
+STU1000747,Isha Iyer,English,Vocabulary,13,1,69,49,20,Medium,0,Dropped,Fast,Timeout Error,High Risk,Advanced,29
+STU1000748,Sarah Nair,English,Punctuation,83,1,61,76,-15,Medium,0,Dropped,Average,No Error,High Risk,Advanced,34
+STU1000749,Nikhil Reddy,English,Sentence Structure,60,1,65,72,-7,Medium,0,In Progress,Average,No Error,Low Risk,Advanced,49
+STU1000750,Vikram Rao,Economics,Macroeconomics,41,1,77,74,3,Medium,0,Completed,Average,Syntax Error,Low Risk,Intermediate,39
+STU1000751,Diya Desai,Biology,Genetics,13,1,83,65,18,High,0,Completed,Fast,Runtime Error,Low Risk,Intermediate,19
+STU1000752,Arjun Mishra,Economics,Financial Markets,8,1,87,66,21,High,0,Completed,Fast,Data Formatting Error,Low Risk,Beginner,16
+STU1000753,Ananya Iyer,Physics,Kinematics,59,2,64,67,-3,Medium,0,Completed,Average,Calculation Error,Low Risk,Advanced,49
+STU1000754,Sarah Sharma,Chemistry,Periodicity,8,2,59,32,27,Medium,0,Completed,Fast,Logic Error,Low Risk,Advanced,25
+STU1000755,Aditya Joshi,Economics,Financial Markets,8,1,80,56,24,High,0,Completed,Fast,Algorithm Error,Low Risk,Intermediate,24
+STU1000756,Ishaan Bhat,Physics,Thermodynamics,8,1,85,73,12,High,0,Completed,Fast,Missed Prerequisite,Low Risk,Beginner,18
+STU1000757,Sarah Iyer,Data Science,NumPy Essentials,76,1,80,75,5,Medium,0,In Progress,Average,Logic Error,Low Risk,Intermediate,38
+STU1000758,Arjun Das,Programming,Python Basics,10,1,86,84,2,High,0,Completed,Fast,Logic Error,Low Risk,Beginner,30
+STU1000759,Diya Reddy,English,Critical Thinking,68,8,34,36,-2,Low,1,In Progress,Average,Calculation Error,High Risk,Expert,50
+STU1000760,Amit Kumar,Mathematics,Linear Algebra,8,1,80,86,-6,High,0,Completed,Fast,Algorithm Error,Low Risk,Intermediate,21
+STU1000761,Zara Kumar,Programming,Debugging,13,1,84,89,-5,High,0,Completed,Fast,Concept Misunderstanding,Low Risk,Intermediate,30
+STU1000762,Ananya Singh,Psychology,Behavioral Studies,50,1,80,82,-2,High,0,Completed,Average,Syntax Error,Low Risk,Intermediate,39
+STU1000763,Isha Iyer,Mathematics,Fractions,29,1,78,80,-2,Medium,0,In Progress,Fast,Data Formatting Error,Low Risk,Intermediate,27
+STU1000764,Zara Chopra,Economics,Inflation,30,8,47,70,-23,Low,1,In Progress,Average,Runtime Error,High Risk,Expert,31
+STU1000765,Nikhil Nair,Mathematics,Calculus I,43,1,82,60,22,High,0,Completed,Average,Logic Error,Low Risk,Intermediate,55
+STU1000766,Sanjay Gupta,Chemistry,Acids and Bases,92,4,62,33,29,Medium,0,Completed,Slow,Calculation Error,Low Risk,Advanced,81
+STU1000767,Sarah Desai,Psychology,Learning Theories,8,8,67,74,-7,Low,0,In Progress,Average,Concept Misunderstanding,Medium Risk,Expert,34
+STU1000768,Aditya Mishra,Biology,Ecology,31,1,100,86,14,High,0,Completed,Average,Calculation Error,Low Risk,Beginner,56
+STU1000769,Rahul Chopra,Data Science,Model Evaluation,39,1,100,92,8,High,0,Completed,Average,Concept Misunderstanding,Low Risk,Beginner,52
+STU1000770,Pooja Mishra,Chemistry,Equilibrium,41,1,63,54,9,Medium,0,In Progress,Average,Concept Misunderstanding,Low Risk,Advanced,36
+STU1000771,Sanjay Nair,Psychology,Mental Health,35,1,83,66,17,High,0,Completed,Average,No Error,Low Risk,Intermediate,57
+STU1000772,Arjun Singh,English,Creative Writing,21,1,69,70,-1,Medium,0,In Progress,Fast,Syntax Error,Low Risk,Advanced,22
+STU1000773,Varun Joshi,Biology,DNA and Proteins,8,2,98,98,0,High,0,Completed,Fast,Runtime Error,Low Risk,Beginner,16
+STU1000774,Ishaan Iyer,Biology,DNA and Proteins,63,2,75,72,3,Medium,0,In Progress,Average,Runtime Error,Low Risk,Intermediate,59
+STU1000775,Ananya Kumar,Chemistry,Atomic Structure,23,1,78,58,20,Medium,0,In Progress,Fast,Algorithm Error,Low Risk,Intermediate,20
+STU1000776,Neha Gupta,Economics,GDP,11,4,90,97,-7,Medium,0,In Progress,Average,Missed Prerequisite,Low Risk,Advanced,57
+STU1000777,Isha Desai,Physics,Waves,15,1,73,64,9,Medium,0,Dropped,Fast,Syntax Error,High Risk,Intermediate,30
+STU1000778,Aditya Kumar,Data Science,Feature Engineering,8,1,58,62,-4,Medium,0,Dropped,Fast,Concept Misunderstanding,High Risk,Advanced,27
+STU1000779,Akshay Desai,Economics,Financial Markets,69,3,76,59,17,Medium,0,Dropped,Average,Concept Misunderstanding,High Risk,Intermediate,39
+STU1000780,Ananya Joshi,Economics,Consumer Behavior,11,2,78,78,0,Medium,0,In Progress,Fast,Timeout Error,Low Risk,Intermediate,20
+STU1000781,Karan Patel,Physics,Waves,126,1,67,61,6,Medium,0,In Progress,Average,Runtime Error,Low Risk,Advanced,30
+STU1000782,Aditya Verma,Programming,API Development,129,3,61,49,12,Medium,0,Completed,Slow,No Error,Low Risk,Advanced,95
+STU1000783,Rohan Sharma,Programming,Git Version Control,8,1,72,50,22,Medium,0,Completed,Fast,Syntax Error,Low Risk,Intermediate,27
+STU1000784,Rohan Reddy,Physics,Kinematics,10,1,71,65,6,Medium,0,In Progress,Fast,Logic Error,Low Risk,Intermediate,25
+STU1000785,Neha Das,Psychology,Memory and Attention,126,2,74,76,-2,Medium,0,In Progress,Average,Data Formatting Error,Low Risk,Intermediate,43
+STU1000786,Zara Iyer,Programming,Loops,11,2,56,40,16,Medium,0,Completed,Fast,Calculation Error,Low Risk,Advanced,30
+STU1000787,Rahul Verma,Psychology,Human Motivation,9,1,63,44,19,Medium,0,In Progress,Fast,Logic Error,Low Risk,Advanced,26
+STU1000788,Akshay Mishra,Physics,Electricity,39,1,83,69,14,High,0,Completed,Average,Syntax Error,Low Risk,Intermediate,54
+STU1000789,Isha Das,Mathematics,Linear Algebra,8,1,74,60,14,Medium,0,Dropped,Fast,Missed Prerequisite,High Risk,Intermediate,27
+STU1000790,Pooja Bhat,Programming,API Development,12,1,69,69,0,Medium,0,Dropped,Fast,No Error,High Risk,Advanced,27
+STU1000791,Aditya Sharma,Psychology,Social Psychology,30,1,80,61,19,High,0,Completed,Average,Algorithm Error,Low Risk,Intermediate,32
+STU1000792,Vikram Desai,Physics,Quantum Mechanics,11,1,73,60,13,Medium,0,In Progress,Fast,Concept Misunderstanding,Low Risk,Intermediate,24
+STU1000793,Rohan Das,Chemistry,Atomic Structure,12,3,62,51,11,Medium,0,In Progress,Average,Algorithm Error,Low Risk,Advanced,39
+STU1000794,Vivaan Bhat,Biology,Photosynthesis,21,2,100,100,0,High,0,Completed,Fast,No Error,Low Risk,Beginner,21
+STU1000795,Sanjay Patel,Economics,GDP,52,3,72,45,27,Medium,0,In Progress,Average,Calculation Error,Low Risk,Intermediate,52
+STU1000796,Aarav Bhat,History,Civil Rights,64,8,49,64,-15,Low,1,Completed,Average,Missed Prerequisite,High Risk,Expert,57
+STU1000797,Ishaan Das,Biology,Respiration,8,1,74,91,-17,Medium,0,In Progress,Fast,No Error,Low Risk,Intermediate,27
+STU1000798,Aarav Nair,Psychology,Social Psychology,23,3,82,70,12,Medium,0,Completed,Average,Algorithm Error,Low Risk,Intermediate,33
+STU1000799,Pooja Desai,Mathematics,Statistics,18,1,98,87,11,High,0,Completed,Fast,Runtime Error,Low Risk,Beginner,19
+STU1000800,Karan Mishra,Psychology,Memory and Attention,8,1,100,100,0,High,0,Completed,Fast,Runtime Error,Low Risk,Beginner,25
+STU1000801,Aryan Desai,Chemistry,Stoichiometry,23,1,79,55,24,Medium,0,In Progress,Fast,Data Formatting Error,Low Risk,Intermediate,16
+STU1000802,Zara Desai,Physics,Magnetism,16,1,78,59,19,Medium,0,Completed,Fast,No Error,Low Risk,Intermediate,24
+STU1000803,Pooja Verma,Physics,Optics,8,1,65,55,10,Medium,0,Completed,Fast,No Error,Low Risk,Advanced,29
+STU1000804,Akshay Gupta,Biology,Photosynthesis,61,1,58,57,1,Medium,0,Completed,Average,No Error,Low Risk,Advanced,50
+STU1000805,Sarah Reddy,History,American History,16,2,64,58,6,Medium,0,In Progress,Fast,Runtime Error,Low Risk,Advanced,20
+STU1000806,Rahul Desai,Biology,Evolution,28,3,55,57,-2,Medium,0,In Progress,Average,Calculation Error,Low Risk,Advanced,48
+STU1000807,Diya Chopra,Economics,GDP,39,1,81,69,12,High,0,Completed,Average,Logic Error,Low Risk,Intermediate,34
+STU1000808,Rohan Das,Economics,Supply and Demand,10,1,83,87,-4,High,0,Completed,Fast,Algorithm Error,Low Risk,Intermediate,29
+STU1000809,Akshay Reddy,Programming,Python Basics,48,1,43,40,3,Medium,1,In Progress,Average,Algorithm Error,High Risk,Expert,52
+STU1000810,Rohan Sharma,English,Literature Analysis,8,1,60,48,12,Medium,0,Completed,Fast,Missed Prerequisite,Low Risk,Advanced,30
+STU1000811,Aditya Sharma,Physics,Dynamics,9,4,10,5,5,Low,1,In Progress,Average,Missed Prerequisite,High Risk,Expert,39
+STU1000812,Rohan Joshi,Mathematics,Linear Algebra,50,1,33,32,1,Low,1,In Progress,Average,Timeout Error,High Risk,Expert,58
+STU1000813,Akshay Chopra,Biology,Cells,31,8,44,65,-21,Low,1,In Progress,Average,Missed Prerequisite,High Risk,Expert,34
+STU1000814,Rohan Singh,Psychology,Abnormal Psychology,61,1,77,47,30,Medium,0,Completed,Average,Calculation Error,Low Risk,Intermediate,36
+STU1000815,Rohan Chopra,Mathematics,Algebra Basics,33,4,65,100,-35,Medium,0,Completed,Average,Data Formatting Error,Low Risk,Advanced,36
+STU1000816,Neha Chopra,English,Grammar,8,1,43,68,-25,Medium,1,Dropped,Fast,Syntax Error,Critical Risk,Expert,21
+STU1000817,Vikram Gupta,Chemistry,Solutions,63,1,74,65,9,Medium,0,Dropped,Average,No Error,High Risk,Intermediate,53
+STU1000818,Neha Chopra,Mathematics,Polynomials,9,1,66,66,0,Medium,0,Completed,Fast,Concept Misunderstanding,Low Risk,Advanced,15
+STU1000819,Sanjay Iyer,English,Literature Analysis,32,1,68,51,17,Medium,0,In Progress,Average,Logic Error,Low Risk,Advanced,41
+STU1000820,Zara Bhat,Programming,Git Version Control,56,1,66,67,-1,Medium,0,In Progress,Average,Runtime Error,Low Risk,Advanced,53
+STU1000821,Nikhil Gupta,Physics,Modern Physics,51,1,85,95,-10,High,0,Completed,Average,Syntax Error,Low Risk,Beginner,57
+STU1000822,Pooja Sharma,Biology,Photosynthesis,92,1,76,80,-4,Medium,0,Completed,Average,Algorithm Error,Low Risk,Intermediate,48
+STU1000823,Rajesh Joshi,Programming,OOP Concepts,52,1,72,68,4,Medium,0,Dropped,Average,Concept Misunderstanding,High Risk,Intermediate,33
+STU1000824,Varun Nair,History,Global Events,113,1,73,72,1,Medium,0,In Progress,Average,Data Formatting Error,Low Risk,Intermediate,51
+STU1000825,Aryan Rao,Physics,Waves,33,2,88,75,13,High,0,Completed,Average,Logic Error,Low Risk,Beginner,55
+STU1000826,Pooja Bhat,Programming,Python Basics,102,3,48,64,-16,Medium,1,Dropped,Slow,Data Formatting Error,Critical Risk,Expert,114
+STU1000827,Vivaan Patel,English,Sentence Structure,11,5,72,86,-14,Medium,0,Completed,Average,Logic Error,Low Risk,Expert,34
+STU1000828,Rajesh Joshi,Mathematics,Algebra Basics,150,1,65,59,6,Medium,0,Completed,Average,Timeout Error,Low Risk,Advanced,42
+STU1000829,Aryan Bhat,Programming,API Development,20,1,89,76,13,High,0,Completed,Fast,Algorithm Error,Low Risk,Beginner,28
+STU1000830,Ishaan Joshi,Biology,Microbiology,95,1,84,74,10,Medium,0,Dropped,Average,Data Formatting Error,High Risk,Intermediate,51
+STU1000831,Aryan Singh,Programming,Git Version Control,8,1,79,59,20,Medium,0,Dropped,Fast,Algorithm Error,High Risk,Intermediate,20
+STU1000832,Rohan Rao,Physics,Thermodynamics,8,6,56,17,39,Low,1,Completed,Average,Syntax Error,High Risk,Expert,59
+STU1000833,Neha Singh,Psychology,Abnormal Psychology,9,1,93,92,1,High,0,Completed,Fast,Algorithm Error,Low Risk,Beginner,16
+STU1000834,Amit Singh,Programming,Functions,49,1,60,77,-17,Medium,0,Dropped,Average,Data Formatting Error,High Risk,Advanced,33
+STU1000835,Nikhil Joshi,Psychology,Behavioral Studies,18,3,85,65,20,Medium,0,In Progress,Average,Timeout Error,Low Risk,Intermediate,41
+STU1000836,Karan Singh,Biology,Cells,11,1,67,51,16,Medium,0,Dropped,Fast,No Error,High Risk,Advanced,30
+STU1000837,Akshay Das,Psychology,Mental Health,19,3,71,61,10,Medium,0,Completed,Average,Data Formatting Error,Low Risk,Intermediate,35
+STU1000838,Vikram Patel,English,Writing Skills,26,1,46,50,-4,Medium,1,Dropped,Fast,Syntax Error,Critical Risk,Expert,16
+STU1000839,Ananya Sharma,Psychology,Social Psychology,31,1,88,81,7,High,0,Completed,Average,Logic Error,Low Risk,Beginner,33
+STU1000840,Sarah Iyer,English,Creative Writing,14,2,83,76,7,High,0,Completed,Fast,Data Formatting Error,Low Risk,Intermediate,25
+STU1000841,Amit Joshi,Data Science,Exploratory Data Analysis,60,1,85,79,6,Medium,0,Completed,Average,Runtime Error,Low Risk,Beginner,48
+STU1000842,Rajesh Mishra,Biology,Cells,17,1,73,71,2,Medium,0,In Progress,Fast,Syntax Error,Low Risk,Intermediate,28
+STU1000843,Pooja Bhat,Physics,Dynamics,30,1,97,95,2,High,0,Completed,Average,Concept Misunderstanding,Low Risk,Beginner,34
+STU1000844,Isha Das,Psychology,Memory and Attention,8,1,60,57,3,Medium,0,In Progress,Fast,Timeout Error,Low Risk,Advanced,27
+STU1000845,Arjun Patel,Biology,Cells,8,1,80,70,10,High,0,Completed,Fast,Timeout Error,Low Risk,Intermediate,22
+STU1000846,Aryan Das,History,American History,59,7,16,10,6,Low,1,Dropped,Average,Algorithm Error,Critical Risk,Expert,31
+STU1000847,Varun Rao,Economics,Financial Markets,8,1,68,87,-19,Medium,0,In Progress,Fast,No Error,Low Risk,Advanced,18
+STU1000848,Vivaan Joshi,Psychology,Personality,8,1,82,58,24,High,0,Completed,Fast,Logic Error,Low Risk,Intermediate,22
+STU1000849,Rajesh Gupta,Psychology,Perception,15,3,63,75,-12,Medium,0,Completed,Average,Data Formatting Error,Low Risk,Advanced,42
+STU1000850,Rajesh Patel,Programming,Web Development,15,1,66,75,-9,Medium,0,In Progress,Fast,Algorithm Error,Low Risk,Advanced,30
+STU1000851,Akshay Das,English,Literature Analysis,8,1,52,23,29,Medium,0,Completed,Fast,Calculation Error,Low Risk,Expert,24
+STU1000852,Varun Sharma,Biology,Respiration,64,1,93,80,13,Medium,0,In Progress,Average,Missed Prerequisite,Low Risk,Beginner,52
+STU1000853,Isha Joshi,Mathematics,Statistics,60,1,46,46,0,Medium,1,Dropped,Average,Algorithm Error,Critical Risk,Expert,49
+STU1000854,Aditya Reddy,Chemistry,Reactions,94,1,77,73,4,Medium,0,In Progress,Average,Syntax Error,Low Risk,Intermediate,60
+STU1000855,Amit Singh,Data Science,Data Visualization,26,1,37,34,3,Low,1,Dropped,Fast,No Error,Critical Risk,Expert,20
+STU1000856,Priya Rao,Economics,Consumer Behavior,8,1,75,71,4,Medium,0,In Progress,Fast,Syntax Error,Low Risk,Intermediate,27
+STU1000857,Rohan Rao,Mathematics,Geometry Fundamentals,43,1,60,54,6,Medium,0,In Progress,Average,Calculation Error,Low Risk,Advanced,54
+STU1000858,Priya Rao,Programming,Debugging,33,5,43,50,-7,Medium,1,In Progress,Average,Missed Prerequisite,High Risk,Expert,52
+STU1000859,Aarav Kumar,Biology,DNA and Proteins,15,1,92,80,12,High,0,Completed,Fast,Runtime Error,Low Risk,Beginner,17
+STU1000860,Vikram Gupta,English,Sentence Structure,58,1,54,50,4,Medium,0,Completed,Average,Missed Prerequisite,Low Risk,Expert,54
+STU1000861,Rajesh Reddy,Economics,Inflation,8,1,100,83,17,High,0,Completed,Fast,Syntax Error,Low Risk,Beginner,29
+STU1000862,Akshay Iyer,Data Science,Data Visualization,37,1,56,48,8,Medium,0,In Progress,Average,Data Formatting Error,Low Risk,Advanced,57
+STU1000863,Diya Gupta,Chemistry,Equilibrium,8,3,63,53,10,Medium,0,In Progress,Average,Calculation Error,Low Risk,Advanced,56
+STU1000864,Priya Nair,Data Science,Exploratory Data Analysis,8,3,37,45,-8,Low,1,Dropped,Average,Missed Prerequisite,Critical Risk,Expert,50
+STU1000865,Sarah Gupta,Chemistry,Atomic Structure,24,2,78,76,2,Medium,0,In Progress,Fast,Concept Misunderstanding,Low Risk,Intermediate,27
+STU1000866,Amit Patel,Programming,OOP Concepts,34,1,78,86,-8,Medium,0,In Progress,Average,Logic Error,Low Risk,Intermediate,38
+STU1000867,Ananya Singh,Physics,Optics,39,1,86,83,3,High,0,Completed,Average,Logic Error,Low Risk,Beginner,50
+STU1000868,Rohan Reddy,Physics,Optics,8,3,86,79,7,Medium,0,In Progress,Average,Logic Error,Low Risk,Intermediate,50
+STU1000869,Sarah Chopra,Chemistry,Bonding,19,1,72,72,0,Medium,0,Dropped,Fast,Data Formatting Error,High Risk,Intermediate,29
+STU1000870,Zara Nair,Biology,Microbiology,65,1,45,51,-6,Medium,1,Dropped,Average,Runtime Error,Critical Risk,Expert,41
+STU1000871,Akshay Iyer,Biology,Reproduction,29,1,73,75,-2,Medium,0,In Progress,Fast,Concept Misunderstanding,Low Risk,Intermediate,15
+STU1000872,Varun Gupta,Psychology,Mental Health,45,1,90,87,3,High,0,Completed,Average,Runtime Error,Low Risk,Beginner,33
+STU1000873,Rahul Bhat,Psychology,Social Psychology,102,1,64,71,-7,Medium,0,In Progress,Average,Runtime Error,Low Risk,Advanced,33
+STU1000874,Vivaan Rao,Data Science,Data Visualization,150,1,99,100,-1,Medium,0,Dropped,Average,Concept Misunderstanding,High Risk,Beginner,32
+STU1000875,Ishaan Patel,Chemistry,Periodicity,40,1,55,58,-3,Medium,0,Dropped,Average,Logic Error,High Risk,Advanced,33
+STU1000876,Arjun Iyer,Physics,Electricity,12,1,57,50,7,Medium,0,In Progress,Fast,Runtime Error,Low Risk,Advanced,30
+STU1000877,Zara Joshi,English,Vocabulary,8,1,80,74,6,High,0,Completed,Fast,Concept Misunderstanding,Low Risk,Intermediate,22
+STU1000878,Isha Joshi,Psychology,Social Psychology,8,1,90,98,-8,High,0,Completed,Fast,Missed Prerequisite,Low Risk,Beginner,15
+STU1000879,Varun Nair,Economics,Macroeconomics,8,1,82,70,12,High,0,Completed,Fast,Runtime Error,Low Risk,Intermediate,30
+STU1000880,Zara Desai,Economics,Supply and Demand,91,1,46,66,-20,Medium,1,Completed,Average,Syntax Error,High Risk,Expert,38
+STU1000881,Sarah Rao,History,Renaissance,8,1,73,69,4,Medium,0,In Progress,Fast,Algorithm Error,Low Risk,Intermediate,18
+STU1000882,Rohan Chopra,Chemistry,Reactions,31,1,75,71,4,Medium,0,Completed,Average,Calculation Error,Low Risk,Intermediate,55
+STU1000883,Aarav Das,English,Punctuation,11,2,82,71,11,High,0,Completed,Fast,Runtime Error,Low Risk,Intermediate,20
+STU1000884,Neha Desai,Chemistry,Acids and Bases,16,1,73,62,11,Medium,0,In Progress,Fast,Syntax Error,Low Risk,Intermediate,27
+STU1000885,Akshay Mishra,Data Science,Data Visualization,62,2,64,52,12,Medium,0,Completed,Average,Syntax Error,Low Risk,Advanced,45
+STU1000886,Amit Patel,Programming,API Development,59,4,52,46,6,Medium,0,Dropped,Average,Concept Misunderstanding,High Risk,Expert,50
+STU1000887,Ishaan Bhat,History,Global Events,14,3,12,12,0,Low,1,Dropped,Average,Missed Prerequisite,Critical Risk,Expert,52
+STU1000888,Pooja Rao,Economics,Financial Markets,14,1,56,54,2,Medium,0,Completed,Fast,Logic Error,Low Risk,Advanced,28
+STU1000889,Ananya Rao,Biology,Human Anatomy,29,2,65,67,-2,Medium,0,Completed,Fast,Calculation Error,Low Risk,Advanced,24
+STU1000890,Priya Kumar,Programming,Web Development,8,1,57,32,25,Medium,0,Completed,Fast,Runtime Error,Low Risk,Advanced,19
+STU1000891,Priya Desai,Biology,Evolution,39,1,73,65,8,Medium,0,Completed,Average,Missed Prerequisite,Low Risk,Intermediate,33
+STU1000892,Neha Nair,Mathematics,Functions,41,1,55,61,-6,Medium,0,Dropped,Average,Calculation Error,High Risk,Advanced,40
+STU1000893,Varun Verma,English,Vocabulary,76,4,34,29,5,Low,1,Completed,Average,Concept Misunderstanding,High Risk,Expert,32
+STU1000894,Amit Mishra,English,Writing Skills,18,1,89,86,3,High,0,Completed,Fast,Missed Prerequisite,Low Risk,Beginner,20
+STU1000895,Akshay Gupta,Chemistry,Acids and Bases,39,3,45,46,-1,Medium,1,In Progress,Average,Logic Error,High Risk,Expert,42
+STU1000896,Ananya Sharma,Economics,Consumer Behavior,46,1,57,64,-7,Medium,0,Completed,Average,Syntax Error,Low Risk,Advanced,56
+STU1000897,Akshay Sharma,Psychology,Social Psychology,8,8,72,90,-18,Low,0,Dropped,Average,Timeout Error,High Risk,Expert,52
+STU1000898,Aditya Sharma,English,Punctuation,70,1,100,85,15,Medium,0,Completed,Average,Timeout Error,Low Risk,Beginner,30
+STU1000899,Pooja Kumar,Psychology,Human Motivation,18,1,85,58,27,High,0,Completed,Fast,Algorithm Error,Low Risk,Beginner,27
+STU1000900,Amit Kumar,Mathematics,Equations,66,1,77,73,4,Medium,0,In Progress,Average,Algorithm Error,Low Risk,Intermediate,47
+STU1000901,Akshay Iyer,English,Writing Skills,60,1,60,48,12,Medium,0,In Progress,Average,Timeout Error,Low Risk,Advanced,56
+STU1000902,Diya Nair,Data Science,Statistical Analysis,50,1,88,84,4,High,0,Completed,Average,No Error,Low Risk,Beginner,47
+STU1000903,Varun Das,History,Renaissance,13,2,100,100,0,High,0,Completed,Fast,Data Formatting Error,Low Risk,Beginner,30
+STU1000904,Priya Verma,Biology,Reproduction,40,1,50,48,2,Medium,0,In Progress,Average,Data Formatting Error,Low Risk,Expert,32
+STU1000905,Vivaan Sharma,History,Civil Rights,51,1,59,65,-6,Medium,0,In Progress,Average,Missed Prerequisite,Low Risk,Advanced,46
+STU1000906,Vikram Singh,Mathematics,Geometry Fundamentals,34,2,79,61,18,Medium,0,In Progress,Average,Logic Error,Low Risk,Intermediate,56
+STU1000907,Vivaan Verma,Biology,Genetics,66,1,62,73,-11,Medium,0,Completed,Average,Concept Misunderstanding,Low Risk,Advanced,48
+STU1000908,Vikram Kumar,Data Science,Pandas Tutorial,22,4,46,26,20,Medium,1,In Progress,Average,Syntax Error,High Risk,Expert,47
+STU1000909,Aryan Kumar,Economics,Macroeconomics,8,1,58,77,-19,Medium,0,In Progress,Fast,Calculation Error,Low Risk,Advanced,18
+STU1000910,Aditya Reddy,English,Punctuation,27,1,90,69,21,High,0,Completed,Fast,No Error,Low Risk,Beginner,21
+STU1000911,Zara Gupta,English,Literature Analysis,117,1,77,78,-1,Medium,0,In Progress,Average,Data Formatting Error,Low Risk,Intermediate,60
+STU1000912,Ishaan Gupta,English,Sentence Structure,29,1,49,66,-17,Medium,1,Dropped,Fast,Missed Prerequisite,Critical Risk,Expert,18
+STU1000913,Priya Das,Psychology,Social Psychology,87,1,81,65,16,Medium,0,In Progress,Average,Logic Error,Low Risk,Intermediate,35
+STU1000914,Neha Singh,English,Sentence Structure,12,1,84,78,6,High,0,Completed,Fast,No Error,Low Risk,Intermediate,20
+STU1000915,Karan Iyer,Physics,Thermodynamics,54,2,80,73,7,High,0,Completed,Average,Syntax Error,Low Risk,Intermediate,30
+STU1000916,Priya Chopra,Programming,Debugging,12,1,61,49,12,Medium,0,In Progress,Fast,Missed Prerequisite,Low Risk,Advanced,29
+STU1000917,Aryan Mishra,Economics,Macroeconomics,37,1,71,68,3,Medium,0,In Progress,Average,Timeout Error,Low Risk,Intermediate,55
+STU1000918,Priya Gupta,Physics,Optics,45,1,84,95,-11,High,0,Completed,Average,Syntax Error,Low Risk,Intermediate,40
+STU1000919,Aditya Rao,History,Cultural Movements,14,1,78,76,2,Medium,0,Dropped,Fast,Concept Misunderstanding,High Risk,Intermediate,18
+STU1000920,Vivaan Desai,Biology,Microbiology,8,1,88,87,1,High,0,Completed,Fast,Data Formatting Error,Low Risk,Beginner,16
+STU1000921,Zara Mishra,English,Critical Thinking,8,1,61,74,-13,Medium,0,In Progress,Fast,Algorithm Error,Low Risk,Advanced,19
+STU1000922,Vivaan Rao,Biology,Reproduction,10,1,92,85,7,High,0,Completed,Fast,Logic Error,Low Risk,Beginner,21
+STU1000923,Priya Gupta,Chemistry,Thermochemistry,110,1,62,59,3,Medium,0,Completed,Average,Timeout Error,Low Risk,Advanced,50
+STU1000924,Neha Singh,Data Science,Statistical Analysis,27,1,51,74,-23,Medium,0,In Progress,Fast,Data Formatting Error,Low Risk,Expert,20
+STU1000925,Sarah Verma,Chemistry,Reactions,9,1,65,58,7,Medium,0,In Progress,Fast,Runtime Error,Low Risk,Advanced,17
+STU1000926,Vikram Desai,Data Science,Model Evaluation,8,7,83,50,33,Low,0,Dropped,Average,Concept Misunderstanding,High Risk,Expert,47
+STU1000927,Arjun Joshi,Psychology,Mental Health,72,8,80,75,5,Low,0,In Progress,Average,Algorithm Error,Medium Risk,Expert,38
+STU1000928,Ishaan Reddy,English,Literature Analysis,13,1,100,82,18,High,0,Completed,Fast,Missed Prerequisite,Low Risk,Beginner,16
+STU1000929,Sanjay Chopra,Economics,Macroeconomics,40,1,80,62,18,High,0,Completed,Average,No Error,Low Risk,Intermediate,32
+STU1000930,Rahul Kumar,History,Industrial Revolution,8,1,91,93,-2,High,0,Completed,Fast,Logic Error,Low Risk,Beginner,18
+STU1000931,Neha Rao,Biology,Reproduction,49,3,96,87,9,Medium,0,Completed,Average,Data Formatting Error,Low Risk,Intermediate,46
+STU1000932,Ishaan Patel,Biology,Cells,33,1,100,81,19,High,0,Completed,Average,Timeout Error,Low Risk,Beginner,39
+STU1000933,Aditya Singh,Physics,Magnetism,66,1,74,59,15,Medium,0,Dropped,Average,Runtime Error,High Risk,Intermediate,41
+STU1000934,Rajesh Rao,Economics,GDP,30,1,77,59,18,Medium,0,In Progress,Average,Calculation Error,Low Risk,Intermediate,60
+STU1000935,Neha Sharma,History,Asian History,27,1,91,87,4,High,0,Completed,Fast,Data Formatting Error,Low Risk,Beginner,20
+STU1000936,Sarah Reddy,History,American History,8,1,58,65,-7,Medium,0,In Progress,Fast,Runtime Error,Low Risk,Advanced,28
+STU1000937,Karan Sharma,Psychology,Behavioral Studies,12,1,98,95,3,High,0,Completed,Fast,Timeout Error,Low Risk,Beginner,15
+STU1000938,Vivaan Desai,Physics,Waves,15,1,54,57,-3,Medium,0,In Progress,Fast,Data Formatting Error,Low Risk,Expert,22
+STU1000939,Priya Reddy,Physics,Quantum Mechanics,42,1,85,74,11,High,0,Completed,Average,Missed Prerequisite,Low Risk,Beginner,39
+STU1000940,Aryan Mishra,History,Global Events,8,1,59,70,-11,Medium,0,Completed,Fast,Data Formatting Error,Low Risk,Advanced,16
+STU1000941,Zara Sharma,History,Cultural Movements,39,1,70,86,-16,Medium,0,Completed,Average,No Error,Low Risk,Intermediate,60
+STU1000942,Amit Joshi,Psychology,Cognitive Development,18,4,44,44,0,Medium,1,Dropped,Average,Syntax Error,Critical Risk,Expert,60
+STU1000943,Sarah Chopra,Economics,International Trade,30,6,43,46,-3,Low,1,In Progress,Average,Syntax Error,High Risk,Expert,46
+STU1000944,Zara Singh,Mathematics,Equations,14,1,81,63,18,High,0,Completed,Fast,No Error,Low Risk,Intermediate,24
+STU1000945,Sanjay Nair,English,Writing Skills,150,1,57,33,24,Medium,0,Completed,Average,Algorithm Error,Low Risk,Advanced,51
+STU1000946,Aarav Desai,Physics,Waves,8,3,32,20,12,Low,1,Completed,Average,Concept Misunderstanding,High Risk,Expert,47
+STU1000947,Aryan Joshi,Mathematics,Equations,37,1,67,66,1,Medium,0,In Progress,Average,Runtime Error,Low Risk,Advanced,44
+STU1000948,Ishaan Bhat,Programming,API Development,58,5,63,61,2,Medium,1,Completed,Average,Syntax Error,High Risk,Expert,34
+STU1000949,Ananya Das,Programming,Loops,8,1,96,100,-4,High,0,Completed,Fast,Syntax Error,Low Risk,Beginner,30
+STU1000950,Zara Patel,Psychology,Learning Theories,17,1,70,55,15,Medium,0,Dropped,Fast,No Error,High Risk,Intermediate,25
+STU1000951,Karan Singh,Psychology,Personality,8,2,100,100,0,High,0,Completed,Fast,Concept Misunderstanding,Low Risk,Beginner,26
+STU1000952,Diya Mishra,Data Science,Pandas Tutorial,71,1,91,77,14,Medium,0,Completed,Average,Algorithm Error,Low Risk,Beginner,49
+STU1000953,Aditya Iyer,Mathematics,Functions,27,1,87,80,7,High,0,Completed,Fast,Concept Misunderstanding,Low Risk,Beginner,21
+STU1000954,Isha Verma,Chemistry,Thermochemistry,17,1,73,69,4,Medium,0,Completed,Fast,Missed Prerequisite,Low Risk,Intermediate,18
+STU1000955,Arjun Patel,Biology,Photosynthesis,19,1,82,88,-6,High,0,Completed,Fast,Calculation Error,Low Risk,Intermediate,16
+STU1000956,Zara Verma,Chemistry,Solutions,61,1,100,87,13,Medium,0,Dropped,Average,Timeout Error,High Risk,Beginner,37
+STU1000957,Isha Desai,Programming,Data Structures,61,2,77,68,9,Medium,0,Dropped,Average,Algorithm Error,High Risk,Intermediate,31
+STU1000958,Ishaan Bhat,English,Grammar,8,3,72,38,34,Medium,0,Dropped,Average,Data Formatting Error,High Risk,Intermediate,36
+STU1000959,Sarah Singh,Data Science,Machine Learning,30,4,50,79,-29,Medium,0,In Progress,Average,Concept Misunderstanding,Low Risk,Expert,34
+STU1000960,Karan Iyer,Biology,Ecology,58,5,41,41,0,Medium,1,In Progress,Average,Syntax Error,High Risk,Expert,39
+STU1000961,Varun Verma,English,Punctuation,20,1,66,61,5,Medium,0,In Progress,Fast,Runtime Error,Low Risk,Advanced,21
+STU1000962,Rohan Patel,Chemistry,Atomic Structure,32,4,29,27,2,Low,1,Dropped,Average,Data Formatting Error,Critical Risk,Expert,60
+STU1000963,Rahul Sharma,Programming,Web Development,20,1,81,77,4,High,0,Completed,Fast,Algorithm Error,Low Risk,Intermediate,19
+STU1000964,Varun Nair,Chemistry,Organic Chemistry,31,1,78,83,-5,Medium,0,In Progress,Average,Logic Error,Low Risk,Intermediate,49
+STU1000965,Sarah Desai,History,Civil Rights,61,1,81,86,-5,Medium,0,Completed,Average,Concept Misunderstanding,Low Risk,Intermediate,47
+STU1000966,Aditya Das,Programming,API Development,18,5,100,100,0,Medium,0,Completed,Average,Logic Error,Low Risk,Expert,36
+STU1000967,Sarah Iyer,Biology,Genetics,8,1,55,55,0,Medium,0,Completed,Fast,Missed Prerequisite,Low Risk,Advanced,26
+STU1000968,Aarav Patel,English,Reading Comprehension,8,1,77,84,-7,Medium,0,Dropped,Fast,Logic Error,High Risk,Intermediate,23
+STU1000969,Ananya Patel,Physics,Optics,9,1,73,60,13,Medium,0,In Progress,Fast,Runtime Error,Low Risk,Intermediate,19
+STU1000970,Ananya Patel,Chemistry,Organic Chemistry,8,1,67,48,19,Medium,0,Completed,Fast,Data Formatting Error,Low Risk,Advanced,28
+STU1000971,Zara Kumar,Data Science,Deep Learning,8,1,31,60,-29,Low,1,Completed,Fast,Concept Misunderstanding,High Risk,Expert,17
+STU1000972,Rahul Iyer,Biology,Cells,16,3,65,47,18,Medium,0,In Progress,Average,Missed Prerequisite,Low Risk,Advanced,47
+STU1000973,Akshay Reddy,History,Ancient Rome,8,1,100,100,0,High,0,Completed,Fast,Timeout Error,Low Risk,Beginner,23
+STU1000974,Varun Nair,Data Science,Feature Engineering,73,1,77,55,22,Medium,0,In Progress,Average,Algorithm Error,Low Risk,Intermediate,38
+STU1000975,Aditya Patel,English,Reading Comprehension,36,1,68,62,6,Medium,0,Dropped,Average,Data Formatting Error,High Risk,Advanced,42
+STU1000976,Varun Reddy,Data Science,NumPy Essentials,8,1,75,56,19,Medium,0,In Progress,Fast,Calculation Error,Low Risk,Intermediate,20
+STU1000977,Sarah Sharma,Chemistry,Reactions,9,1,89,59,30,High,0,Completed,Fast,Calculation Error,Low Risk,Beginner,27
+STU1000978,Sarah Patel,Chemistry,Reactions,8,1,92,97,-5,High,0,Completed,Fast,Concept Misunderstanding,Low Risk,Beginner,29
+STU1000979,Nikhil Reddy,Data Science,Data Cleaning,18,1,69,65,4,Medium,0,In Progress,Fast,No Error,Low Risk,Advanced,17
+STU1000980,Aarav Gupta,Chemistry,Acids and Bases,14,1,97,95,2,High,0,Completed,Fast,Concept Misunderstanding,Low Risk,Beginner,23
+STU1000981,Karan Patel,Programming,Web Development,13,1,70,64,6,Medium,0,In Progress,Fast,Timeout Error,Low Risk,Intermediate,28
+STU1000982,Isha Kumar,History,Medieval Europe,8,2,82,93,-11,High,0,Completed,Fast,Calculation Error,Low Risk,Intermediate,19
+STU1000983,Neha Gupta,Physics,Quantum Mechanics,22,4,51,51,0,Medium,0,Completed,Average,Calculation Error,Low Risk,Expert,47
+STU1000984,Rajesh Singh,Mathematics,Algebra Basics,15,2,75,67,8,Medium,0,Completed,Fast,Timeout Error,Low Risk,Intermediate,21
+STU1000985,Ishaan Kumar,Programming,Database Design,8,1,79,70,9,Medium,0,Completed,Fast,No Error,Low Risk,Intermediate,17
+STU1000986,Sarah Nair,History,Medieval Europe,8,2,93,76,17,High,0,Completed,Fast,Algorithm Error,Low Risk,Beginner,23
+STU1000987,Aditya Verma,Programming,Web Development,19,1,81,77,4,High,0,Completed,Fast,Calculation Error,Low Risk,Intermediate,21
+STU1000988,Pooja Mishra,Biology,Photosynthesis,70,1,63,65,-2,Medium,0,In Progress,Average,Syntax Error,Low Risk,Advanced,52
+STU1000989,Varun Desai,Data Science,Machine Learning,18,1,82,49,33,High,0,Completed,Fast,Runtime Error,Low Risk,Intermediate,26
+STU1000990,Ananya Kumar,Psychology,Behavioral Studies,150,1,60,76,-16,Medium,0,Completed,Average,Syntax Error,Low Risk,Advanced,48
+STU1000991,Akshay Reddy,Data Science,Feature Engineering,8,1,66,48,18,Medium,0,In Progress,Fast,Algorithm Error,Low Risk,Advanced,20
+STU1000992,Ananya Verma,Physics,Energy and Work,38,1,47,39,8,Medium,1,Completed,Average,No Error,High Risk,Expert,43
+STU1000993,Vivaan Gupta,Psychology,Abnormal Psychology,31,1,73,55,18,Medium,0,Dropped,Average,Syntax Error,High Risk,Intermediate,56
+STU1000994,Ananya Singh,Programming,Web Development,28,1,85,68,17,High,0,Completed,Fast,Syntax Error,Low Risk,Beginner,19
+STU1000995,Ishaan Rao,Programming,Debugging,8,1,79,85,-6,Medium,0,Completed,Fast,Runtime Error,Low Risk,Intermediate,25
+STU1000996,Rohan Chopra,Biology,DNA and Proteins,10,2,95,90,5,High,0,Completed,Fast,Missed Prerequisite,Low Risk,Beginner,28
+STU1000997,Arjun Bhat,Data Science,Pandas Tutorial,46,1,58,54,4,Medium,0,In Progress,Average,Data Formatting Error,Low Risk,Advanced,42
+STU1000998,Sanjay Gupta,Programming,Loops,10,1,80,97,-17,High,0,Completed,Fast,No Error,Low Risk,Intermediate,15
+STU1000999,Neha Nair,Psychology,Memory and Attention,11,1,47,51,-4,Medium,1,Dropped,Fast,Missed Prerequisite,Critical Risk,Expert,22
+STU1001000,Rajesh Patel,Mathematics,Statistics,46,1,84,77,7,High,0,Completed,Average,Data Formatting Error,Low Risk,Intermediate,32
+STU1001001,Rohan Kumar,Psychology,Human Motivation,8,1,78,62,16,Medium,0,In Progress,Fast,Logic Error,Low Risk,Intermediate,23
+STU1001002,Karan Desai,English,Essay Writing,27,1,89,81,8,High,0,Completed,Fast,Logic Error,Low Risk,Beginner,18
+STU1001003,Arjun Sharma,Physics,Optics,8,1,78,80,-2,Medium,0,In Progress,Fast,Data Formatting Error,Low Risk,Intermediate,18
+STU1001004,Sarah Singh,Physics,Optics,77,1,70,82,-12,Medium,0,Completed,Average,Syntax Error,Low Risk,Intermediate,51
+STU1001005,Aarav Sharma,Programming,Git Version Control,48,4,29,37,-8,Low,1,Completed,Average,No Error,High Risk,Expert,47
+STU1001006,Arjun Singh,Mathematics,Trigonometry,10,1,62,46,16,Medium,0,Dropped,Fast,Logic Error,High Risk,Advanced,28
+STU1001007,Aryan Das,Data Science,Data Visualization,28,1,100,79,21,High,0,In Progress,Fast,Calculation Error,Low Risk,Beginner,17
+STU1001008,Pooja Joshi,Psychology,Personality,8,1,76,55,21,Medium,0,In Progress,Fast,Missed Prerequisite,Low Risk,Intermediate,25
+STU1001009,Aryan Reddy,Data Science,Feature Engineering,8,1,93,81,12,High,0,Dropped,Fast,Algorithm Error,High Risk,Beginner,17
+STU1001010,Rahul Reddy,Programming,Python Basics,8,1,91,89,2,High,0,Completed,Fast,Calculation Error,Low Risk,Beginner,26
+STU1001011,Karan Rao,Mathematics,Statistics,94,1,100,77,23,Medium,0,In Progress,Average,Missed Prerequisite,Low Risk,Beginner,59
+STU1001012,Amit Iyer,Mathematics,Fractions,38,2,60,69,-9,Medium,0,Completed,Average,Runtime Error,Low Risk,Advanced,40
+STU1001013,Pooja Nair,Economics,Financial Markets,74,1,80,69,11,Medium,0,In Progress,Average,Syntax Error,Low Risk,Intermediate,54
+STU1001014,Arjun Patel,English,Writing Skills,10,1,100,92,8,High,0,Completed,Fast,Logic Error,Low Risk,Beginner,23
+STU1001015,Vikram Gupta,Economics,Government Policy,9,2,63,72,-9,Medium,0,In Progress,Fast,No Error,Low Risk,Advanced,19
+STU1001016,Aryan Joshi,Programming,Functions,18,1,75,68,7,Medium,0,In Progress,Fast,Calculation Error,Low Risk,Intermediate,22
+STU1001017,Vikram Singh,Physics,Energy and Work,95,1,85,84,1,Medium,0,Completed,Average,Timeout Error,Low Risk,Beginner,38
+STU1001018,Karan Das,English,Critical Thinking,41,6,35,36,-1,Low,1,In Progress,Average,No Error,High Risk,Expert,30
+STU1001019,Diya Chopra,Programming,Functions,38,2,54,63,-9,Medium,0,Completed,Average,Syntax Error,Low Risk,Expert,33
+STU1001020,Aarav Nair,Physics,Kinematics,24,1,100,82,18,High,0,Completed,Fast,Timeout Error,Low Risk,Beginner,27
+STU1001021,Rahul Kumar,English,Writing Skills,47,1,51,48,3,Medium,0,In Progress,Average,Syntax Error,Low Risk,Expert,37
+STU1001022,Amit Kumar,Psychology,Behavioral Studies,8,2,71,76,-5,Medium,0,In Progress,Fast,Concept Misunderstanding,Low Risk,Intermediate,27
+STU1001023,Vikram Bhat,Data Science,Exploratory Data Analysis,48,4,48,57,-9,Medium,1,Dropped,Average,Calculation Error,Critical Risk,Expert,60
+STU1001024,Sanjay Nair,Data Science,Data Cleaning,109,1,67,61,6,Medium,0,In Progress,Average,Timeout Error,Low Risk,Advanced,33
+STU1001025,Neha Verma,Biology,Human Anatomy,23,1,62,45,17,Medium,0,Completed,Fast,Logic Error,Low Risk,Advanced,18
+STU1001026,Priya Patel,Chemistry,Stoichiometry,57,3,79,66,13,Medium,0,In Progress,Average,Algorithm Error,Low Risk,Intermediate,35
+STU1001027,Rahul Kumar,Chemistry,Reactions,68,2,81,64,17,Medium,0,Completed,Average,Concept Misunderstanding,Low Risk,Intermediate,46
+STU1001028,Rohan Joshi,Mathematics,Trigonometry,101,2,75,46,29,Medium,0,Completed,Average,Timeout Error,Low Risk,Intermediate,53
+STU1001029,Sarah Gupta,Chemistry,Solutions,36,1,69,57,12,Medium,0,In Progress,Average,Timeout Error,Low Risk,Advanced,58
+STU1001030,Arjun Patel,Psychology,Cognitive Development,56,3,86,65,21,Medium,0,In Progress,Average,No Error,Low Risk,Intermediate,39
+STU1001031,Vivaan Bhat,Economics,International Trade,48,3,62,63,-1,Medium,0,In Progress,Average,Calculation Error,Low Risk,Advanced,48
+STU1001032,Isha Verma,Psychology,Mental Health,68,1,90,90,0,Medium,0,In Progress,Average,Syntax Error,Low Risk,Beginner,56
+STU1001033,Pooja Rao,Chemistry,Reactions,39,1,74,71,3,Medium,0,Dropped,Average,Concept Misunderstanding,High Risk,Intermediate,55
+STU1001034,Ananya Iyer,Programming,Loops,8,2,92,83,9,High,0,Completed,Fast,No Error,Low Risk,Beginner,30
+STU1001035,Vivaan Kumar,Mathematics,Algebra Basics,16,1,77,81,-4,Medium,0,Dropped,Fast,Algorithm Error,High Risk,Intermediate,18
+STU1001036,Varun Patel,Mathematics,Linear Algebra,8,2,100,94,6,High,0,Completed,Fast,Timeout Error,Low Risk,Beginner,26
+STU1001037,Sanjay Gupta,Biology,DNA and Proteins,21,3,74,81,-7,Medium,0,Dropped,Average,Syntax Error,High Risk,Intermediate,52
+STU1001038,Arjun Sharma,Data Science,Data Cleaning,8,3,86,88,-2,Medium,0,Completed,Average,Timeout Error,Low Risk,Intermediate,48
+STU1001039,Sarah Kumar,English,Reading Comprehension,15,3,54,62,-8,Medium,0,In Progress,Average,Missed Prerequisite,Low Risk,Expert,57
+STU1001040,Aditya Nair,English,Vocabulary,18,3,84,90,-6,Medium,0,In Progress,Average,Logic Error,Low Risk,Intermediate,39
+STU1001041,Varun Iyer,Programming,Debugging,11,1,72,72,0,Medium,0,In Progress,Fast,Concept Misunderstanding,Low Risk,Intermediate,23
+STU1001042,Rajesh Mishra,Economics,Supply and Demand,52,1,81,73,8,High,0,Completed,Average,Algorithm Error,Low Risk,Intermediate,49
+STU1001043,Pooja Verma,Economics,Supply and Demand,16,1,79,49,30,Medium,0,Dropped,Fast,Data Formatting Error,High Risk,Intermediate,18
+STU1001044,Varun Mishra,Programming,API Development,20,3,100,100,0,Medium,0,Dropped,Average,No Error,High Risk,Intermediate,58
+STU1001045,Nikhil Kumar,Chemistry,Organic Chemistry,8,7,51,54,-3,Low,1,Dropped,Average,Runtime Error,Critical Risk,Expert,31
+STU1001046,Ananya Nair,History,Ancient Rome,38,1,50,33,17,Medium,0,In Progress,Average,Data Formatting Error,Low Risk,Expert,35
+STU1001047,Ishaan Nair,Chemistry,Thermochemistry,53,1,82,84,-2,High,0,Completed,Average,Timeout Error,Low Risk,Intermediate,40
+STU1001048,Varun Chopra,Psychology,Social Psychology,19,1,87,70,17,High,0,Completed,Fast,Algorithm Error,Low Risk,Beginner,27
+STU1001049,Rahul Desai,Psychology,Abnormal Psychology,25,1,86,76,10,High,0,Dropped,Fast,Algorithm Error,High Risk,Beginner,20
+STU1001050,Nikhil Singh,Physics,Quantum Mechanics,14,1,69,49,20,Medium,0,Completed,Fast,Algorithm Error,Low Risk,Advanced,26
+STU1001051,Sarah Joshi,Physics,Energy and Work,8,1,64,67,-3,Medium,0,In Progress,Fast,Runtime Error,Low Risk,Advanced,27
+STU1001052,Vivaan Chopra,English,Grammar,8,1,79,72,7,Medium,0,In Progress,Fast,Logic Error,Low Risk,Intermediate,30
+STU1001053,Rohan Verma,Biology,Cells,19,1,42,49,-7,Medium,1,Completed,Fast,Algorithm Error,High Risk,Expert,19
+STU1001054,Vikram Iyer,Mathematics,Fractions,16,1,66,66,0,Medium,0,Completed,Fast,Runtime Error,Low Risk,Advanced,23
+STU1001055,Arjun Desai,Chemistry,Reactions,8,8,80,67,13,Low,0,Dropped,Average,Logic Error,High Risk,Expert,30
+STU1001056,Diya Reddy,Physics,Magnetism,14,1,76,88,-12,Medium,0,In Progress,Fast,Runtime Error,Low Risk,Intermediate,19
+STU1001057,Neha Verma,Mathematics,Calculus I,69,3,69,65,4,Medium,0,Completed,Average,Concept Misunderstanding,Low Risk,Advanced,51
+STU1001058,Karan Bhat,Programming,Python Basics,23,7,38,52,-14,Low,1,Completed,Average,Algorithm Error,High Risk,Expert,34
+STU1001059,Priya Verma,Economics,Financial Markets,27,8,35,55,-20,Low,1,In Progress,Average,Timeout Error,High Risk,Expert,34
+STU1001060,Ananya Reddy,Biology,Reproduction,8,1,84,70,14,High,0,Dropped,Fast,Data Formatting Error,High Risk,Intermediate,27
+STU1001061,Vivaan Patel,Programming,Debugging,14,3,50,45,5,Medium,0,In Progress,Average,Concept Misunderstanding,Low Risk,Expert,48
+STU1001062,Priya Reddy,Data Science,Data Visualization,8,1,48,58,-10,Medium,1,Dropped,Fast,Timeout Error,Critical Risk,Expert,23
+STU1001063,Ishaan Iyer,Psychology,Behavioral Studies,18,1,43,46,-3,Medium,1,Dropped,Fast,Syntax Error,Critical Risk,Expert,16
+STU1001064,Neha Chopra,Data Science,Pandas Tutorial,8,5,51,52,-1,Medium,1,Dropped,Average,Data Formatting Error,Critical Risk,Expert,59
+STU1001065,Arjun Mishra,Biology,DNA and Proteins,12,1,81,67,14,High,0,Completed,Fast,Algorithm Error,Low Risk,Intermediate,26
+STU1001066,Nikhil Das,Biology,Respiration,8,1,77,82,-5,Medium,0,In Progress,Fast,Concept Misunderstanding,Low Risk,Intermediate,22
+STU1001067,Vikram Gupta,Physics,Dynamics,8,5,66,58,8,Medium,0,Dropped,Average,Data Formatting Error,High Risk,Expert,51
+STU1001068,Karan Gupta,Data Science,Deep Learning,8,3,65,58,7,Medium,0,In Progress,Average,No Error,Low Risk,Advanced,49
+STU1001069,Rajesh Nair,Programming,Data Structures,51,4,51,58,-7,Medium,0,In Progress,Average,Syntax Error,Low Risk,Expert,43
+STU1001070,Aditya Chopra,Biology,DNA and Proteins,11,1,54,39,15,Medium,0,In Progress,Fast,Missed Prerequisite,Low Risk,Expert,29
+STU1001071,Amit Joshi,Biology,Ecology,27,1,61,64,-3,Medium,0,In Progress,Fast,Syntax Error,Low Risk,Advanced,20
+STU1001072,Rahul Joshi,History,Industrial Revolution,13,1,84,84,0,High,0,In Progress,Fast,Calculation Error,Low Risk,Intermediate,29
+STU1001073,Neha Rao,Programming,Data Structures,36,1,62,60,2,Medium,0,Completed,Average,Missed Prerequisite,Low Risk,Advanced,41
+STU1001074,Aarav Chopra,Chemistry,Thermochemistry,16,1,69,64,5,Medium,0,In Progress,Fast,Missed Prerequisite,Low Risk,Advanced,29
+STU1001075,Varun Nair,Biology,Evolution,8,1,69,69,0,Medium,0,In Progress,Fast,Concept Misunderstanding,Low Risk,Advanced,24
+STU1001076,Nikhil Mishra,Physics,Electricity,139,1,64,75,-11,Medium,0,In Progress,Average,Logic Error,Low Risk,Advanced,38
+STU1001077,Pooja Nair,Mathematics,Statistics,34,1,92,88,4,High,0,Completed,Average,Data Formatting Error,Low Risk,Beginner,60
+STU1001078,Rajesh Reddy,Data Science,Data Cleaning,8,1,90,67,23,High,0,Dropped,Fast,No Error,High Risk,Beginner,28
+STU1001079,Rajesh Sharma,History,Cultural Movements,15,1,93,88,5,High,0,Completed,Fast,No Error,Low Risk,Beginner,22
+STU1001080,Pooja Patel,Physics,Dynamics,16,1,65,53,12,Medium,0,In Progress,Fast,Calculation Error,Low Risk,Advanced,24
+STU1001081,Vivaan Joshi,Data Science,Exploratory Data Analysis,12,1,99,99,0,High,0,Completed,Fast,Data Formatting Error,Low Risk,Beginner,17
+STU1001082,Varun Patel,Physics,Energy and Work,15,3,62,41,21,Medium,0,In Progress,Average,Syntax Error,Low Risk,Advanced,60
+STU1001083,Pooja Desai,English,Vocabulary,56,1,94,74,20,High,0,Completed,Average,Timeout Error,Low Risk,Beginner,39
+STU1001084,Sarah Kumar,Programming,Debugging,8,2,69,64,5,Medium,0,Completed,Fast,Syntax Error,Low Risk,Advanced,28
+STU1001085,Neha Joshi,Programming,Python Basics,32,1,64,58,6,Medium,0,Dropped,Average,Concept Misunderstanding,High Risk,Advanced,54
+STU1001086,Nikhil Singh,Physics,Optics,8,1,74,68,6,Medium,0,Completed,Fast,Missed Prerequisite,Low Risk,Intermediate,25
+STU1001087,Sanjay Sharma,Programming,OOP Concepts,8,1,79,87,-8,Medium,0,In Progress,Fast,Data Formatting Error,Low Risk,Intermediate,17
+STU1001088,Aryan Chopra,History,Ancient Rome,75,1,54,60,-6,Medium,0,In Progress,Average,No Error,Low Risk,Expert,50
+STU1001089,Rahul Reddy,Psychology,Personality,8,4,33,20,13,Low,1,In Progress,Average,Calculation Error,High Risk,Expert,32
+STU1001090,Diya Das,English,Punctuation,49,1,89,83,6,High,0,Completed,Average,Syntax Error,Low Risk,Beginner,32
+STU1001091,Nikhil Singh,English,Literature Analysis,8,1,52,54,-2,Medium,0,In Progress,Fast,Missed Prerequisite,Low Risk,Expert,22
+STU1001092,Aarav Joshi,Data Science,NumPy Essentials,47,4,18,12,6,Low,1,Dropped,Average,Timeout Error,Critical Risk,Expert,60
+STU1001093,Akshay Das,Data Science,Data Cleaning,114,1,42,45,-3,Medium,1,In Progress,Average,Calculation Error,High Risk,Expert,32
+STU1001094,Arjun Iyer,Psychology,Social Psychology,84,1,85,82,3,Medium,0,Completed,Average,Logic Error,Low Risk,Beginner,35
+STU1001095,Rajesh Sharma,History,Asian History,14,1,69,78,-9,Medium,0,Dropped,Fast,Algorithm Error,High Risk,Advanced,16
+STU1001096,Neha Iyer,History,Ancient Rome,55,5,82,81,1,Medium,0,In Progress,Average,Syntax Error,Low Risk,Expert,32
+STU1001097,Rohan Desai,English,Literature Analysis,57,3,54,57,-3,Medium,0,In Progress,Average,Timeout Error,Low Risk,Expert,53
+STU1001098,Arjun Bhat,Economics,Inflation,17,2,99,87,12,High,0,Completed,Fast,Missed Prerequisite,Low Risk,Beginner,24
+STU1001099,Karan Iyer,Economics,Supply and Demand,15,1,83,67,16,High,0,Dropped,Fast,Logic Error,High Risk,Intermediate,30
+STU1001100,Aryan Sharma,Biology,Reproduction,27,1,90,73,17,High,0,Completed,Fast,Timeout Error,Low Risk,Beginner,15
+STU1001101,Karan Singh,History,Civil Rights,23,1,73,76,-3,Medium,0,Dropped,Fast,Timeout Error,High Risk,Intermediate,28
+STU1001102,Zara Mishra,Economics,International Trade,22,4,92,86,6,Medium,0,In Progress,Average,Runtime Error,Low Risk,Advanced,51
+STU1001103,Amit Patel,Data Science,Data Cleaning,10,1,71,63,8,Medium,0,In Progress,Fast,Calculation Error,Low Risk,Intermediate,19
+STU1001104,Isha Chopra,Physics,Kinematics,8,1,89,85,4,High,0,In Progress,Fast,Concept Misunderstanding,Low Risk,Beginner,30
+STU1001105,Priya Verma,Chemistry,Bonding,27,1,85,92,-7,High,0,Completed,Fast,Logic Error,Low Risk,Beginner,30
+STU1001106,Akshay Singh,History,Cultural Movements,45,2,75,70,5,Medium,0,In Progress,Average,Logic Error,Low Risk,Intermediate,46
+STU1001107,Vikram Mishra,Psychology,Social Psychology,14,1,69,56,13,Medium,0,Dropped,Fast,Syntax Error,High Risk,Advanced,18
+STU1001108,Varun Patel,Programming,Loops,59,1,66,34,32,Medium,0,Completed,Average,No Error,Low Risk,Advanced,42
+STU1001109,Amit Bhat,Chemistry,Solutions,67,1,83,79,4,Medium,0,Completed,Average,Missed Prerequisite,Low Risk,Intermediate,30
+STU1001110,Vivaan Kumar,Mathematics,Linear Algebra,8,1,82,65,17,High,0,Completed,Fast,Syntax Error,Low Risk,Intermediate,21
+STU1001111,Zara Bhat,English,Vocabulary,26,1,66,55,11,Medium,0,Dropped,Fast,Algorithm Error,High Risk,Advanced,15
+STU1001112,Neha Patel,Data Science,Machine Learning,8,1,91,84,7,High,0,Completed,Fast,Calculation Error,Low Risk,Beginner,28
+STU1001113,Diya Bhat,Biology,Respiration,38,1,75,74,1,Medium,0,Dropped,Average,Concept Misunderstanding,High Risk,Intermediate,52
+STU1001114,Arjun Singh,Mathematics,Trigonometry,10,1,65,66,-1,Medium,0,Dropped,Fast,Timeout Error,High Risk,Advanced,26
+STU1001115,Sanjay Verma,Psychology,Mental Health,12,1,100,100,0,High,0,Completed,Fast,Logic Error,Low Risk,Beginner,22
+STU1001116,Rohan Mishra,Physics,Optics,8,1,80,72,8,High,0,Completed,Fast,No Error,Low Risk,Intermediate,16
+STU1001117,Nikhil Kumar,Data Science,Feature Engineering,45,4,65,79,-14,Medium,0,In Progress,Average,Timeout Error,Low Risk,Advanced,49
+STU1001118,Karan Joshi,Mathematics,Linear Algebra,8,1,95,100,-5,High,0,Completed,Fast,Calculation Error,Low Risk,Beginner,29
+STU1001119,Varun Verma,Mathematics,Polynomials,23,1,78,49,29,Medium,0,In Progress,Fast,Syntax Error,Low Risk,Intermediate,20
+STU1001120,Varun Nair,Biology,Microbiology,8,2,100,84,16,High,0,Completed,Fast,Calculation Error,Low Risk,Beginner,22
+STU1001121,Ananya Bhat,Data Science,Statistical Analysis,20,1,45,59,-14,Medium,1,In Progress,Fast,Data Formatting Error,High Risk,Expert,20
+STU1001122,Priya Chopra,Biology,Cells,94,4,13,18,-5,Low,1,Dropped,Slow,Timeout Error,Critical Risk,Expert,64
+STU1001123,Priya Patel,Psychology,Mental Health,46,1,43,44,-1,Medium,1,In Progress,Average,Logic Error,High Risk,Expert,41
+STU1001124,Aditya Bhat,Economics,International Trade,88,1,99,94,5,Medium,0,Dropped,Average,Algorithm Error,High Risk,Beginner,56
+STU1001125,Diya Iyer,Biology,DNA and Proteins,23,1,75,71,4,Medium,0,Completed,Fast,Algorithm Error,Low Risk,Intermediate,19
+STU1001126,Sarah Kumar,Biology,Photosynthesis,33,1,34,31,3,Low,1,Dropped,Average,No Error,Critical Risk,Expert,46
+STU1001127,Sarah Das,Data Science,Data Visualization,8,1,67,71,-4,Medium,0,Completed,Fast,Logic Error,Low Risk,Advanced,26
+STU1001128,Neha Bhat,History,Civil Rights,8,1,60,59,1,Medium,0,In Progress,Fast,No Error,Low Risk,Advanced,16
+STU1001129,Akshay Singh,Economics,Government Policy,8,1,73,63,10,Medium,0,Completed,Fast,Algorithm Error,Low Risk,Intermediate,28
+STU1001130,Rahul Iyer,Physics,Modern Physics,65,1,67,62,5,Medium,0,Completed,Average,Logic Error,Low Risk,Advanced,45
+STU1001131,Aditya Singh,English,Essay Writing,20,1,47,61,-14,Medium,1,In Progress,Fast,Logic Error,High Risk,Expert,27
+STU1001132,Zara Gupta,Chemistry,Stoichiometry,13,1,63,56,7,Medium,0,In Progress,Fast,Syntax Error,Low Risk,Advanced,20
+STU1001133,Isha Singh,Mathematics,Functions,50,6,86,86,0,Low,0,Dropped,Average,Syntax Error,High Risk,Expert,41
+STU1001134,Ishaan Gupta,Psychology,Behavioral Studies,11,1,57,19,38,Medium,0,In Progress,Fast,Missed Prerequisite,Low Risk,Advanced,18
+STU1001135,Priya Kumar,Biology,Microbiology,49,1,82,71,11,High,0,Completed,Average,Calculation Error,Low Risk,Intermediate,40
+STU1001136,Aryan Reddy,Psychology,Cognitive Development,8,1,78,77,1,Medium,0,Dropped,Fast,Logic Error,High Risk,Intermediate,22
+STU1001137,Sarah Reddy,Data Science,Statistical Analysis,27,1,88,75,13,High,0,Completed,Fast,Runtime Error,Low Risk,Beginner,18
+STU1001138,Rahul Sharma,Physics,Electricity,28,1,73,74,-1,Medium,0,Dropped,Fast,Syntax Error,High Risk,Intermediate,24
+STU1001139,Isha Chopra,Data Science,Exploratory Data Analysis,32,1,81,74,7,High,0,Completed,Average,No Error,Low Risk,Intermediate,39
+STU1001140,Akshay Reddy,Biology,Reproduction,30,1,96,92,4,High,0,Completed,Average,Syntax Error,Low Risk,Beginner,45
+STU1001141,Sarah Bhat,Physics,Thermodynamics,18,3,78,72,6,Medium,0,Completed,Average,Concept Misunderstanding,Low Risk,Intermediate,39
+STU1001142,Pooja Iyer,Biology,Photosynthesis,34,1,60,49,11,Medium,0,Completed,Average,Algorithm Error,Low Risk,Advanced,38
+STU1001143,Varun Sharma,Mathematics,Algebra Basics,83,2,57,66,-9,Medium,0,In Progress,Average,Missed Prerequisite,Low Risk,Advanced,36
+STU1001144,Isha Verma,English,Literature Analysis,8,2,51,54,-3,Medium,0,Dropped,Fast,Logic Error,High Risk,Expert,15
+STU1001145,Aditya Sharma,History,Asian History,33,1,69,41,28,Medium,0,In Progress,Average,Logic Error,Low Risk,Advanced,53
+STU1001146,Nikhil Mishra,English,Writing Skills,8,7,47,48,-1,Low,1,In Progress,Average,Syntax Error,High Risk,Expert,50
+STU1001147,Pooja Mishra,Psychology,Social Psychology,8,2,100,72,28,High,0,Completed,Fast,Data Formatting Error,Low Risk,Beginner,27
+STU1001148,Karan Mishra,Programming,Python Basics,8,1,94,83,11,High,0,Completed,Fast,Syntax Error,Low Risk,Beginner,21
+STU1001149,Sarah Iyer,Biology,Photosynthesis,75,1,87,79,8,Medium,0,Dropped,Average,Concept Misunderstanding,High Risk,Beginner,59
+STU1001150,Neha Das,Programming,OOP Concepts,17,3,45,67,-22,Medium,1,Dropped,Average,Missed Prerequisite,Critical Risk,Expert,39
+STU1001151,Rajesh Reddy,English,Literature Analysis,97,1,93,74,19,Medium,0,Completed,Average,Missed Prerequisite,Low Risk,Beginner,59
+STU1001152,Isha Gupta,Economics,Microeconomics,50,4,66,55,11,Medium,0,In Progress,Average,Logic Error,Low Risk,Advanced,59
+STU1001153,Priya Nair,Psychology,Abnormal Psychology,46,1,52,47,5,Medium,0,Completed,Average,Algorithm Error,Low Risk,Expert,60
+STU1001154,Sarah Bhat,English,Literature Analysis,12,7,82,82,0,Low,0,In Progress,Average,Missed Prerequisite,Medium Risk,Expert,50
+STU1001155,Isha Patel,English,Literature Analysis,131,1,70,83,-13,Medium,0,In Progress,Average,Timeout Error,Low Risk,Intermediate,46
+STU1001156,Rohan Bhat,Biology,Ecology,71,1,92,76,16,Medium,0,Dropped,Average,Algorithm Error,High Risk,Beginner,56
+STU1001157,Isha Iyer,English,Creative Writing,17,1,99,87,12,High,0,Completed,Fast,Algorithm Error,Low Risk,Beginner,16
+STU1001158,Arjun Gupta,Economics,Markets,9,1,71,45,26,Medium,0,Completed,Fast,Syntax Error,Low Risk,Intermediate,29
+STU1001159,Aryan Das,Chemistry,Acids and Bases,8,1,65,60,5,Medium,0,In Progress,Fast,No Error,Low Risk,Advanced,30
+STU1001160,Arjun Gupta,English,Critical Thinking,30,3,70,53,17,Medium,0,Completed,Average,Missed Prerequisite,Low Risk,Intermediate,31
+STU1001161,Aryan Reddy,History,Modern World Wars,38,1,63,79,-16,Medium,0,In Progress,Average,No Error,Low Risk,Advanced,41
+STU1001162,Arjun Nair,Mathematics,Fractions,24,1,91,95,-4,High,0,Completed,Fast,Missed Prerequisite,Low Risk,Beginner,15
+STU1001163,Ishaan Patel,Psychology,Abnormal Psychology,8,1,74,75,-1,Medium,0,In Progress,Fast,Algorithm Error,Low Risk,Intermediate,29
+STU1001164,Ananya Reddy,Mathematics,Linear Algebra,24,4,67,83,-16,Medium,0,In Progress,Average,Algorithm Error,Low Risk,Advanced,40
+STU1001165,Neha Rao,Chemistry,Reactions,55,3,37,10,27,Low,1,In Progress,Average,Logic Error,High Risk,Expert,39
+STU1001166,Diya Gupta,Programming,Functions,17,6,44,51,-7,Low,1,In Progress,Average,Calculation Error,High Risk,Expert,41
+STU1001167,Rahul Patel,History,American History,69,1,76,60,16,Medium,0,Dropped,Average,Syntax Error,High Risk,Intermediate,33
+STU1001168,Akshay Mishra,Chemistry,Reactions,18,3,74,65,9,Medium,0,Completed,Average,No Error,Low Risk,Intermediate,30
+STU1001169,Diya Reddy,English,Literature Analysis,28,1,75,71,4,Medium,0,In Progress,Fast,Data Formatting Error,Low Risk,Intermediate,26
+STU1001170,Diya Iyer,English,Vocabulary,12,1,68,74,-6,Medium,0,In Progress,Fast,Calculation Error,Low Risk,Advanced,20
+STU1001171,Sanjay Gupta,Mathematics,Statistics,8,1,89,73,16,High,0,Completed,Fast,Algorithm Error,Low Risk,Beginner,27
+STU1001172,Sanjay Das,Chemistry,Acids and Bases,22,1,67,52,15,Medium,0,Completed,Fast,Timeout Error,Low Risk,Advanced,26
+STU1001173,Ishaan Sharma,Psychology,Behavioral Studies,98,1,74,74,0,Medium,0,In Progress,Average,Logic Error,Low Risk,Intermediate,30
+STU1001174,Zara Joshi,Programming,Web Development,8,3,97,85,12,Medium,0,Completed,Average,Logic Error,Low Risk,Intermediate,33
+STU1001175,Rohan Iyer,Economics,Financial Markets,144,1,79,65,14,Medium,0,Dropped,Average,Syntax Error,High Risk,Intermediate,43
+STU1001176,Ananya Reddy,Psychology,Social Psychology,11,1,67,68,-1,Medium,0,Completed,Fast,Algorithm Error,Low Risk,Advanced,30
+STU1001177,Aarav Mishra,English,Creative Writing,22,1,68,64,4,Medium,0,In Progress,Fast,Logic Error,Low Risk,Advanced,21
+STU1001178,Karan Das,Economics,GDP,53,1,80,74,6,High,0,Completed,Average,Algorithm Error,Low Risk,Intermediate,32
+STU1001179,Sarah Das,Physics,Optics,19,1,39,38,1,Low,1,Dropped,Fast,Timeout Error,Critical Risk,Expert,19
+STU1001180,Rajesh Reddy,English,Grammar,76,4,76,52,24,Medium,0,Completed,Average,Algorithm Error,Low Risk,Advanced,43
+STU1001181,Rajesh Iyer,Economics,Government Policy,91,5,5,16,-11,Low,1,In Progress,Slow,Runtime Error,High Risk,Expert,67
+STU1001182,Ananya Kumar,Psychology,Mental Health,11,5,59,42,17,Medium,1,Dropped,Average,Data Formatting Error,Critical Risk,Expert,59
+STU1001183,Varun Joshi,History,Modern World Wars,11,1,76,61,15,Medium,0,Dropped,Fast,Concept Misunderstanding,High Risk,Intermediate,30
+STU1001184,Vivaan Reddy,Data Science,Pandas Tutorial,8,1,82,45,37,High,0,Completed,Fast,Calculation Error,Low Risk,Intermediate,15
+STU1001185,Akshay Kumar,Data Science,Data Cleaning,10,1,71,61,10,Medium,0,In Progress,Fast,Missed Prerequisite,Low Risk,Intermediate,19
+STU1001186,Isha Sharma,English,Reading Comprehension,118,5,70,44,26,Medium,0,Dropped,Slow,No Error,High Risk,Expert,109
+STU1001187,Zara Nair,Data Science,Deep Learning,84,1,75,72,3,Medium,0,In Progress,Average,Algorithm Error,Low Risk,Intermediate,51
+STU1001188,Neha Bhat,Programming,Web Development,8,1,100,87,13,High,0,Completed,Fast,No Error,Low Risk,Beginner,23
+STU1001189,Aditya Mishra,English,Creative Writing,46,8,61,36,25,Low,1,Dropped,Average,Runtime Error,Critical Risk,Expert,37
+STU1001190,Vivaan Verma,Chemistry,Solutions,26,1,74,85,-11,Medium,0,In Progress,Fast,Timeout Error,Low Risk,Intermediate,30
+STU1001191,Rajesh Nair,Mathematics,Functions,32,1,100,96,4,High,0,Completed,Average,Runtime Error,Low Risk,Beginner,42
+STU1001192,Priya Verma,English,Writing Skills,25,8,23,44,-21,Low,1,Dropped,Average,Syntax Error,Critical Risk,Expert,41
+STU1001193,Aarav Singh,Data Science,Deep Learning,51,1,51,41,10,Medium,0,Completed,Average,Syntax Error,Low Risk,Expert,39
+STU1001194,Sanjay Iyer,Programming,Web Development,19,2,96,87,9,High,0,Completed,Fast,Runtime Error,Low Risk,Beginner,26
+STU1001195,Akshay Singh,Programming,Functions,30,1,66,71,-5,Medium,0,Dropped,Average,Concept Misunderstanding,High Risk,Advanced,43
+STU1001196,Amit Desai,Biology,DNA and Proteins,8,1,77,90,-13,Medium,0,In Progress,Fast,Algorithm Error,Low Risk,Intermediate,20
+STU1001197,Rahul Joshi,History,Global Events,20,6,76,70,6,Low,0,In Progress,Average,Missed Prerequisite,Medium Risk,Expert,47
+STU1001198,Ananya Patel,Mathematics,Calculus I,8,1,78,80,-2,Medium,0,In Progress,Fast,Data Formatting Error,Low Risk,Intermediate,23
+STU1001199,Akshay Bhat,Data Science,Deep Learning,44,1,73,59,14,Medium,0,Completed,Average,Calculation Error,Low Risk,Intermediate,33
+STU1001200,Zara Reddy,English,Grammar,17,3,78,67,11,Medium,0,In Progress,Average,Concept Misunderstanding,Low Risk,Intermediate,44
+STU1001201,Aryan Chopra,Biology,Ecology,118,1,79,51,28,Medium,0,In Progress,Average,Algorithm Error,Low Risk,Intermediate,51
+STU1001202,Diya Desai,History,Industrial Revolution,40,1,73,63,10,Medium,0,Dropped,Average,Data Formatting Error,High Risk,Intermediate,56
+STU1001203,Diya Sharma,Mathematics,Trigonometry,15,1,44,47,-3,Medium,1,In Progress,Fast,Runtime Error,High Risk,Expert,29
+STU1001204,Isha Bhat,Chemistry,Equilibrium,8,1,73,74,-1,Medium,0,In Progress,Fast,Runtime Error,Low Risk,Intermediate,20
+STU1001205,Diya Das,History,Medieval Europe,20,1,92,93,-1,High,0,Dropped,Fast,No Error,High Risk,Beginner,19
+STU1001206,Neha Singh,Physics,Energy and Work,32,1,68,67,1,Medium,0,In Progress,Average,Concept Misunderstanding,Low Risk,Advanced,41
+STU1001207,Rahul Iyer,History,Civil Rights,31,2,82,69,13,High,0,Completed,Average,Algorithm Error,Low Risk,Intermediate,53
+STU1001208,Varun Chopra,English,Critical Thinking,8,3,38,40,-2,Low,1,In Progress,Average,Calculation Error,High Risk,Expert,43
+STU1001209,Neha Das,Physics,Optics,8,5,79,55,24,Medium,0,In Progress,Average,Concept Misunderstanding,Low Risk,Expert,30
+STU1001210,Arjun Chopra,English,Punctuation,27,1,60,47,13,Medium,0,Completed,Fast,Calculation Error,Low Risk,Advanced,26
+STU1001211,Varun Chopra,Biology,Cells,8,1,60,65,-5,Medium,0,Completed,Fast,Syntax Error,Low Risk,Advanced,21
+STU1001212,Rohan Singh,Data Science,Exploratory Data Analysis,15,1,65,70,-5,Medium,0,In Progress,Fast,Data Formatting Error,Low Risk,Advanced,18
+STU1001213,Rohan Verma,Economics,Financial Markets,8,1,75,49,26,Medium,0,In Progress,Fast,Algorithm Error,Low Risk,Intermediate,21
+STU1001214,Isha Joshi,Economics,Government Policy,52,3,57,66,-9,Medium,0,In Progress,Average,Runtime Error,Low Risk,Advanced,39
+STU1001215,Amit Mishra,Physics,Thermodynamics,40,1,77,65,12,Medium,0,Completed,Average,Syntax Error,Low Risk,Intermediate,31
+STU1001216,Aditya Desai,Physics,Kinematics,8,1,93,74,19,High,0,Completed,Fast,Timeout Error,Low Risk,Beginner,19
+STU1001217,Aditya Sharma,Biology,Ecology,50,1,66,73,-7,Medium,0,In Progress,Average,Data Formatting Error,Low Risk,Advanced,42
+STU1001218,Pooja Rao,History,Cultural Movements,20,2,85,65,20,High,0,Completed,Fast,Data Formatting Error,Low Risk,Beginner,28
+STU1001219,Pooja Gupta,Programming,Python Basics,32,4,64,53,11,Medium,0,In Progress,Average,Syntax Error,Low Risk,Advanced,53
+STU1001220,Sanjay Iyer,History,Global Events,29,1,44,45,-1,Medium,1,Dropped,Fast,Missed Prerequisite,Critical Risk,Expert,25
+STU1001221,Aryan Reddy,History,Global Events,30,3,100,100,0,Medium,0,Completed,Average,Calculation Error,Low Risk,Intermediate,58
+STU1001222,Rahul Gupta,Biology,Evolution,25,1,74,52,22,Medium,0,Completed,Fast,Timeout Error,Low Risk,Intermediate,16
+STU1001223,Zara Das,Chemistry,Reactions,12,1,44,49,-5,Medium,1,Dropped,Fast,Timeout Error,Critical Risk,Expert,20
+STU1001224,Sanjay Joshi,English,Grammar,10,1,81,80,1,High,0,Completed,Fast,Timeout Error,Low Risk,Intermediate,21
+STU1001225,Vivaan Das,Psychology,Social Psychology,8,2,83,81,2,High,0,In Progress,Fast,Logic Error,Low Risk,Intermediate,30
+STU1001226,Rajesh Das,Physics,Thermodynamics,8,1,79,82,-3,Medium,0,In Progress,Fast,Calculation Error,Low Risk,Intermediate,23
+STU1001227,Sarah Iyer,English,Creative Writing,36,1,67,64,3,Medium,0,In Progress,Average,Timeout Error,Low Risk,Advanced,33
+STU1001228,Nikhil Sharma,Mathematics,Equations,35,1,48,46,2,Medium,1,Completed,Average,No Error,High Risk,Expert,43
+STU1001229,Aarav Reddy,Data Science,Deep Learning,27,1,89,87,2,High,0,Completed,Fast,No Error,Low Risk,Beginner,30
+STU1001230,Priya Das,Physics,Waves,8,1,39,68,-29,Low,1,In Progress,Fast,Algorithm Error,High Risk,Expert,30
+STU1001231,Karan Joshi,Chemistry,Equilibrium,8,1,77,70,7,Medium,0,In Progress,Fast,Calculation Error,Low Risk,Intermediate,19
+STU1001232,Ishaan Das,English,Vocabulary,34,1,65,57,8,Medium,0,In Progress,Average,Algorithm Error,Low Risk,Advanced,40
+STU1001233,Pooja Gupta,Physics,Optics,10,1,77,74,3,Medium,0,In Progress,Fast,Algorithm Error,Low Risk,Intermediate,27
+STU1001234,Sarah Nair,Economics,Government Policy,63,2,79,65,14,Medium,0,In Progress,Average,Calculation Error,Low Risk,Intermediate,46
+STU1001235,Aarav Kumar,Programming,Python Basics,11,1,61,46,15,Medium,0,Completed,Fast,Algorithm Error,Low Risk,Advanced,27
+STU1001236,Priya Joshi,Biology,Human Anatomy,93,1,91,92,-1,Medium,0,Completed,Average,Concept Misunderstanding,Low Risk,Beginner,34
+STU1001237,Aditya Bhat,Psychology,Perception,63,6,64,73,-9,Low,1,Dropped,Average,Missed Prerequisite,Critical Risk,Expert,33
+STU1001238,Rajesh Joshi,Programming,API Development,36,1,73,80,-7,Medium,0,In Progress,Average,Calculation Error,Low Risk,Intermediate,60
+STU1001239,Rajesh Chopra,Chemistry,Organic Chemistry,8,1,83,83,0,High,0,In Progress,Fast,Runtime Error,Low Risk,Intermediate,18
+STU1001240,Priya Joshi,Chemistry,Equilibrium,21,1,59,26,33,Medium,0,In Progress,Fast,Logic Error,Low Risk,Advanced,15
+STU1001241,Aryan Kumar,Economics,Inflation,92,1,78,50,28,Medium,0,Dropped,Average,No Error,High Risk,Intermediate,34
+STU1001242,Diya Sharma,Psychology,Personality,8,6,47,25,22,Low,1,In Progress,Average,Syntax Error,High Risk,Expert,34
+STU1001243,Priya Gupta,Data Science,Data Cleaning,15,2,93,94,-1,High,0,Completed,Fast,No Error,Low Risk,Beginner,26
+STU1001244,Rajesh Patel,Chemistry,Equilibrium,10,1,80,63,17,High,0,In Progress,Fast,Timeout Error,Low Risk,Intermediate,15
+STU1001245,Rohan Mishra,English,Sentence Structure,8,1,48,26,22,Medium,1,In Progress,Fast,Syntax Error,High Risk,Expert,22
+STU1001246,Neha Reddy,Psychology,Memory and Attention,8,1,66,71,-5,Medium,0,Completed,Fast,Timeout Error,Low Risk,Advanced,16
+STU1001247,Diya Gupta,Biology,Ecology,19,3,58,61,-3,Medium,0,Completed,Average,Timeout Error,Low Risk,Advanced,51
+STU1001248,Vivaan Rao,History,Civil Rights,27,1,83,81,2,High,0,Completed,Fast,No Error,Low Risk,Intermediate,25
+STU1001249,Diya Chopra,Data Science,Model Evaluation,8,3,30,25,5,Low,1,Dropped,Average,Algorithm Error,Critical Risk,Expert,43
+STU1001250,Karan Bhat,Programming,API Development,27,1,82,88,-6,High,0,Completed,Fast,Timeout Error,Low Risk,Intermediate,15
+STU1001251,Vivaan Das,Chemistry,Solutions,8,1,92,86,6,High,0,Completed,Fast,Timeout Error,Low Risk,Beginner,28
+STU1001252,Isha Singh,Data Science,Statistical Analysis,8,1,94,88,6,High,0,Completed,Fast,No Error,Low Risk,Beginner,30
+STU1001253,Amit Verma,Physics,Electricity,13,1,51,63,-12,Medium,0,In Progress,Fast,Calculation Error,Low Risk,Expert,24
+STU1001254,Karan Gupta,Chemistry,Atomic Structure,8,2,92,100,-8,High,0,Completed,Fast,Missed Prerequisite,Low Risk,Beginner,24
+STU1001255,Ishaan Gupta,Biology,Respiration,47,2,66,49,17,Medium,0,In Progress,Average,Timeout Error,Low Risk,Advanced,45
+STU1001256,Sanjay Mishra,Chemistry,Periodicity,8,1,87,83,4,High,0,In Progress,Fast,Missed Prerequisite,Low Risk,Beginner,17
+STU1001257,Ananya Das,History,Ancient Rome,115,1,79,83,-4,Medium,0,Dropped,Average,Runtime Error,High Risk,Intermediate,54
+STU1001258,Priya Bhat,Psychology,Memory and Attention,33,2,87,84,3,High,0,In Progress,Average,Syntax Error,Low Risk,Beginner,43
+STU1001259,Ishaan Bhat,Programming,API Development,8,2,68,74,-6,Medium,0,Dropped,Fast,Calculation Error,High Risk,Advanced,22
+STU1001260,Rohan Sharma,Economics,Microeconomics,35,1,57,57,0,Medium,0,Dropped,Average,Syntax Error,High Risk,Advanced,49
+STU1001261,Rohan Das,English,Creative Writing,43,1,74,51,23,Medium,0,In Progress,Average,Logic Error,Low Risk,Intermediate,34
+STU1001262,Diya Joshi,Mathematics,Calculus I,86,1,81,67,14,Medium,0,In Progress,Average,Calculation Error,Low Risk,Intermediate,53
+STU1001263,Pooja Mishra,Physics,Electricity,24,4,62,47,15,Medium,0,In Progress,Average,Syntax Error,Low Risk,Advanced,46
+STU1001264,Arjun Kumar,Psychology,Abnormal Psychology,9,1,87,95,-8,High,0,Completed,Fast,Data Formatting Error,Low Risk,Beginner,20
+STU1001265,Rahul Reddy,Data Science,Exploratory Data Analysis,49,1,42,32,10,Medium,1,In Progress,Average,Logic Error,High Risk,Expert,37
+STU1001266,Amit Nair,Data Science,Statistical Analysis,144,1,60,40,20,Medium,0,Completed,Average,Runtime Error,Low Risk,Advanced,38
+STU1001267,Rahul Kumar,Mathematics,Equations,29,1,71,72,-1,Medium,0,In Progress,Fast,Concept Misunderstanding,Low Risk,Intermediate,18
+STU1001268,Pooja Iyer,Data Science,Deep Learning,79,1,85,79,6,Medium,0,Completed,Average,No Error,Low Risk,Beginner,57
+STU1001269,Aditya Kumar,History,Medieval Europe,8,6,68,64,4,Low,0,Dropped,Average,Timeout Error,High Risk,Expert,38
+STU1001270,Rohan Sharma,English,Sentence Structure,39,1,66,51,15,Medium,0,In Progress,Average,Algorithm Error,Low Risk,Advanced,52
+STU1001271,Sarah Bhat,History,Asian History,8,1,72,58,14,Medium,0,In Progress,Fast,Calculation Error,Low Risk,Intermediate,22
+STU1001272,Isha Bhat,Economics,Inflation,55,1,80,63,17,High,0,Completed,Average,Syntax Error,Low Risk,Intermediate,51
+STU1001273,Rohan Iyer,Mathematics,Trigonometry,8,1,67,76,-9,Medium,0,Completed,Fast,Syntax Error,Low Risk,Advanced,28
+STU1001274,Vikram Mishra,Economics,Inflation,37,1,92,95,-3,High,0,Completed,Average,Timeout Error,Low Risk,Beginner,36
+STU1001275,Arjun Das,Mathematics,Linear Algebra,34,1,74,64,10,Medium,0,In Progress,Average,Timeout Error,Low Risk,Intermediate,45
+STU1001276,Aarav Kumar,Biology,Photosynthesis,77,1,82,65,17,Medium,0,In Progress,Average,Concept Misunderstanding,Low Risk,Intermediate,52
+STU1001277,Nikhil Reddy,English,Creative Writing,39,7,69,58,11,Low,0,In Progress,Average,Runtime Error,Medium Risk,Expert,55
+STU1001278,Aryan Reddy,Data Science,Exploratory Data Analysis,8,2,71,77,-6,Medium,0,Completed,Fast,Timeout Error,Low Risk,Intermediate,18
+STU1001279,Aryan Nair,Chemistry,Equilibrium,34,1,47,44,3,Medium,1,In Progress,Average,Concept Misunderstanding,High Risk,Expert,52
+STU1001280,Isha Reddy,Economics,Government Policy,50,4,62,66,-4,Medium,0,Completed,Average,Runtime Error,Low Risk,Advanced,53
+STU1001281,Rahul Reddy,English,Literature Analysis,10,1,81,70,11,High,0,Completed,Fast,Calculation Error,Low Risk,Intermediate,20
+STU1001282,Aditya Chopra,History,Civil Rights,35,2,88,70,18,High,0,Completed,Average,Data Formatting Error,Low Risk,Beginner,36
+STU1001283,Aryan Kumar,Data Science,Data Visualization,8,1,59,60,-1,Medium,0,In Progress,Fast,Timeout Error,Low Risk,Advanced,19
+STU1001284,Aditya Sharma,Physics,Energy and Work,60,1,58,75,-17,Medium,0,In Progress,Average,Runtime Error,Low Risk,Advanced,37
+STU1001285,Sarah Chopra,Mathematics,Functions,31,1,86,72,14,High,0,Completed,Average,Timeout Error,Low Risk,Beginner,33
+STU1001286,Vivaan Verma,Programming,OOP Concepts,150,1,87,66,21,Medium,0,Completed,Average,Syntax Error,Low Risk,Beginner,34
+STU1001287,Ishaan Patel,Mathematics,Fractions,117,4,84,76,8,Medium,0,Dropped,Slow,Runtime Error,High Risk,Advanced,85
+STU1001288,Akshay Patel,Chemistry,Solutions,8,6,43,44,-1,Low,1,In Progress,Average,Concept Misunderstanding,High Risk,Expert,31
+STU1001289,Sarah Kumar,Psychology,Behavioral Studies,11,3,51,53,-2,Medium,0,Completed,Average,Logic Error,Low Risk,Expert,38
+STU1001290,Priya Patel,Mathematics,Algebra Basics,14,7,31,57,-26,Low,1,In Progress,Average,Syntax Error,High Risk,Expert,36
+STU1001291,Aditya Das,English,Punctuation,8,7,43,57,-14,Low,1,Dropped,Average,Runtime Error,Critical Risk,Expert,59
+STU1001292,Akshay Sharma,Economics,Markets,8,1,78,60,18,Medium,0,In Progress,Fast,Missed Prerequisite,Low Risk,Intermediate,19
+STU1001293,Ishaan Kumar,Data Science,Pandas Tutorial,92,1,72,83,-11,Medium,0,Completed,Average,Logic Error,Low Risk,Intermediate,43
+STU1001294,Vikram Verma,Mathematics,Statistics,43,2,68,52,16,Medium,0,In Progress,Average,Calculation Error,Low Risk,Advanced,30
+STU1001295,Rajesh Verma,Programming,Git Version Control,35,1,83,53,30,High,0,Completed,Average,Timeout Error,Low Risk,Intermediate,49
+STU1001296,Arjun Bhat,Psychology,Mental Health,150,1,70,82,-12,Medium,0,In Progress,Average,Concept Misunderstanding,Low Risk,Intermediate,36
+STU1001297,Aarav Singh,Programming,Git Version Control,55,1,71,79,-8,Medium,0,Completed,Average,No Error,Low Risk,Intermediate,32
+STU1001298,Rohan Rao,Programming,Functions,32,1,58,51,7,Medium,0,In Progress,Average,Timeout Error,Low Risk,Advanced,57
+STU1001299,Rajesh Bhat,Programming,API Development,8,1,69,71,-2,Medium,0,In Progress,Fast,Calculation Error,Low Risk,Advanced,16
+STU1001300,Diya Gupta,Physics,Waves,8,2,76,47,29,Medium,0,Completed,Fast,Calculation Error,Low Risk,Intermediate,27
+STU1001301,Amit Nair,Physics,Electricity,8,5,83,69,14,Medium,0,Completed,Average,Runtime Error,Low Risk,Expert,43
+STU1001302,Amit Singh,Chemistry,Stoichiometry,8,1,75,63,12,Medium,0,In Progress,Fast,Data Formatting Error,Low Risk,Intermediate,24
+STU1001303,Ishaan Sharma,History,Renaissance,21,1,74,69,5,Medium,0,Completed,Fast,Algorithm Error,Low Risk,Intermediate,22
+STU1001304,Amit Verma,History,Civil Rights,44,1,61,67,-6,Medium,0,In Progress,Average,Missed Prerequisite,Low Risk,Advanced,37
+STU1001305,Aryan Verma,Mathematics,Geometry Fundamentals,58,1,64,52,12,Medium,0,Dropped,Average,Logic Error,High Risk,Advanced,40
+STU1001306,Isha Gupta,Psychology,Abnormal Psychology,34,3,37,35,2,Low,1,Dropped,Average,Logic Error,Critical Risk,Expert,43
+STU1001307,Sanjay Sharma,Programming,Git Version Control,70,1,64,26,38,Medium,0,In Progress,Average,Runtime Error,Low Risk,Advanced,45
+STU1001308,Varun Kumar,Programming,Functions,8,1,44,15,29,Medium,1,In Progress,Fast,Runtime Error,High Risk,Expert,16
+STU1001309,Rahul Joshi,History,Industrial Revolution,29,4,50,71,-21,Medium,0,In Progress,Average,Timeout Error,Low Risk,Expert,46
+STU1001310,Diya Gupta,Mathematics,Geometry Fundamentals,44,1,54,58,-4,Medium,0,Completed,Average,Timeout Error,Low Risk,Expert,43
+STU1001311,Neha Kumar,Mathematics,Statistics,21,1,71,75,-4,Medium,0,In Progress,Fast,Data Formatting Error,Low Risk,Intermediate,16
+STU1001312,Arjun Bhat,Biology,DNA and Proteins,106,1,85,98,-13,Medium,0,Completed,Average,Missed Prerequisite,Low Risk,Beginner,39
+STU1001313,Zara Chopra,Programming,Python Basics,8,1,78,61,17,Medium,0,In Progress,Fast,Calculation Error,Low Risk,Intermediate,18
+STU1001314,Rahul Nair,Data Science,Machine Learning,20,2,66,57,9,Medium,0,In Progress,Fast,Calculation Error,Low Risk,Advanced,23
+STU1001315,Pooja Kumar,History,Global Events,18,4,42,66,-24,Medium,1,Dropped,Average,Algorithm Error,Critical Risk,Expert,41
+STU1001316,Ananya Kumar,Programming,OOP Concepts,25,1,84,59,25,High,0,Completed,Fast,Missed Prerequisite,Low Risk,Intermediate,23
+STU1001317,Neha Kumar,Data Science,Exploratory Data Analysis,8,6,64,48,16,Low,1,Dropped,Average,Timeout Error,Critical Risk,Expert,60
+STU1001318,Amit Reddy,History,Industrial Revolution,9,2,85,88,-3,High,0,Completed,Fast,Syntax Error,Low Risk,Beginner,26
+STU1001319,Sarah Bhat,History,Asian History,33,4,50,48,2,Medium,0,Completed,Average,Algorithm Error,Low Risk,Expert,52
+STU1001320,Aryan Das,Data Science,Exploratory Data Analysis,9,7,84,69,15,Low,0,Dropped,Average,Algorithm Error,High Risk,Expert,43
+STU1001321,Sanjay Patel,Mathematics,Calculus I,40,1,63,48,15,Medium,0,In Progress,Average,Timeout Error,Low Risk,Advanced,37
+STU1001322,Aditya Mishra,Psychology,Abnormal Psychology,18,1,73,72,1,Medium,0,Completed,Fast,Data Formatting Error,Low Risk,Intermediate,25
+STU1001323,Sarah Kumar,History,Modern World Wars,14,1,89,86,3,High,0,Completed,Fast,Concept Misunderstanding,Low Risk,Beginner,16
+STU1001324,Zara Das,Biology,Microbiology,8,1,82,86,-4,High,0,Completed,Fast,Runtime Error,Low Risk,Intermediate,20
+STU1001325,Neha Das,Data Science,Feature Engineering,8,1,60,39,21,Medium,0,Dropped,Fast,Calculation Error,High Risk,Advanced,16
+STU1001326,Akshay Iyer,Programming,Database Design,51,2,83,73,10,High,0,Completed,Average,Timeout Error,Low Risk,Intermediate,30
+STU1001327,Nikhil Chopra,Programming,Functions,18,2,89,80,9,High,0,Completed,Fast,Syntax Error,Low Risk,Beginner,16
+STU1001328,Isha Chopra,Mathematics,Polynomials,83,1,65,69,-4,Medium,0,Completed,Average,Concept Misunderstanding,Low Risk,Advanced,51
+STU1001329,Rahul Singh,Psychology,Memory and Attention,57,3,66,62,4,Medium,0,In Progress,Average,Runtime Error,Low Risk,Advanced,53
+STU1001330,Sarah Bhat,Biology,Human Anatomy,8,1,100,100,0,High,0,Completed,Fast,Data Formatting Error,Low Risk,Beginner,25
+STU1001331,Arjun Sharma,Psychology,Cognitive Development,36,1,85,78,7,High,0,Completed,Average,Algorithm Error,Low Risk,Beginner,36
+STU1001332,Akshay Joshi,Physics,Optics,38,3,65,58,7,Medium,0,In Progress,Average,No Error,Low Risk,Advanced,39
+STU1001333,Akshay Kumar,English,Literature Analysis,21,1,78,65,13,Medium,0,Completed,Fast,Timeout Error,Low Risk,Intermediate,30
+STU1001334,Zara Iyer,Economics,Government Policy,24,2,57,53,4,Medium,0,In Progress,Fast,Logic Error,Low Risk,Advanced,23
+STU1001335,Amit Singh,Data Science,Model Evaluation,36,1,79,80,-1,Medium,0,Completed,Average,No Error,Low Risk,Intermediate,59
+STU1001336,Ishaan Reddy,History,Modern World Wars,8,5,39,44,-5,Low,1,Dropped,Average,Algorithm Error,Critical Risk,Expert,49
+STU1001337,Zara Desai,History,Civil Rights,34,1,82,78,4,High,0,Completed,Average,Logic Error,Low Risk,Intermediate,33
+STU1001338,Aryan Kumar,Chemistry,Bonding,135,1,99,88,11,Medium,0,Completed,Average,Runtime Error,Low Risk,Beginner,43
+STU1001339,Varun Gupta,Economics,Financial Markets,8,1,61,59,2,Medium,0,In Progress,Fast,Data Formatting Error,Low Risk,Advanced,20
+STU1001340,Aditya Bhat,Physics,Dynamics,18,3,60,52,8,Medium,0,In Progress,Average,Missed Prerequisite,Low Risk,Advanced,38
+STU1001341,Rahul Mishra,Psychology,Abnormal Psychology,72,1,66,66,0,Medium,0,In Progress,Average,Data Formatting Error,Low Risk,Advanced,60
+STU1001342,Rahul Desai,History,American History,34,1,65,70,-5,Medium,0,In Progress,Average,Calculation Error,Low Risk,Advanced,45
+STU1001343,Ishaan Nair,History,Ancient Rome,35,1,85,80,5,High,0,Completed,Average,No Error,Low Risk,Beginner,41
+STU1001344,Pooja Joshi,English,Grammar,8,3,47,54,-7,Medium,1,In Progress,Average,Data Formatting Error,High Risk,Expert,40
+STU1001345,Priya Rao,Mathematics,Geometry Fundamentals,19,1,90,89,1,High,0,Completed,Fast,No Error,Low Risk,Beginner,24
+STU1001346,Karan Desai,Psychology,Perception,8,1,84,76,8,High,0,In Progress,Fast,Runtime Error,Low Risk,Intermediate,18
+STU1001347,Diya Joshi,Economics,Inflation,26,1,74,85,-11,Medium,0,Completed,Fast,Calculation Error,Low Risk,Intermediate,18
+STU1001348,Akshay Desai,History,Civil Rights,22,1,79,73,6,Medium,0,In Progress,Fast,Calculation Error,Low Risk,Intermediate,15
+STU1001349,Sarah Rao,Mathematics,Linear Algebra,18,1,100,88,12,High,0,Completed,Fast,Data Formatting Error,Low Risk,Beginner,19
+STU1001350,Rohan Iyer,Biology,Human Anatomy,9,2,43,45,-2,Medium,1,In Progress,Fast,No Error,High Risk,Expert,25
+STU1001351,Ishaan Kumar,Psychology,Abnormal Psychology,8,1,73,73,0,Medium,0,Completed,Fast,No Error,Low Risk,Intermediate,26
+STU1001352,Priya Joshi,Biology,Reproduction,8,1,82,54,28,High,0,Completed,Fast,No Error,Low Risk,Intermediate,26
+STU1001353,Sarah Nair,Physics,Kinematics,28,1,82,73,9,High,0,Completed,Fast,Concept Misunderstanding,Low Risk,Intermediate,26
+STU1001354,Karan Reddy,Chemistry,Solutions,16,1,71,48,23,Medium,0,Completed,Fast,Algorithm Error,Low Risk,Intermediate,22
+STU1001355,Aarav Kumar,Programming,Python Basics,49,1,96,83,13,High,0,In Progress,Average,Missed Prerequisite,Low Risk,Beginner,50
+STU1001356,Varun Patel,History,Modern World Wars,14,1,84,67,17,High,0,Completed,Fast,Algorithm Error,Low Risk,Intermediate,23
+STU1001357,Aditya Joshi,English,Writing Skills,8,3,70,64,6,Medium,0,In Progress,Average,Syntax Error,Low Risk,Intermediate,36
+STU1001358,Akshay Sharma,Physics,Thermodynamics,15,2,84,73,11,High,0,Completed,Fast,Timeout Error,Low Risk,Intermediate,27
+STU1001359,Arjun Desai,English,Reading Comprehension,8,1,62,58,4,Medium,0,In Progress,Fast,Timeout Error,Low Risk,Advanced,17
+STU1001360,Vikram Mishra,Physics,Electricity,8,5,53,60,-7,Medium,1,Dropped,Average,Timeout Error,Critical Risk,Expert,58
+STU1001361,Rohan Das,English,Grammar,89,1,88,69,19,Medium,0,Dropped,Average,No Error,High Risk,Beginner,33
+STU1001362,Vikram Kumar,Psychology,Cognitive Development,37,8,72,54,18,Low,0,In Progress,Average,Timeout Error,Medium Risk,Expert,34
+STU1001363,Aditya Joshi,History,American History,8,1,83,81,2,High,0,Completed,Fast,Missed Prerequisite,Low Risk,Intermediate,18
+STU1001364,Neha Verma,Economics,Macroeconomics,24,1,67,54,13,Medium,0,Dropped,Fast,Timeout Error,High Risk,Advanced,16
+STU1001365,Isha Joshi,Mathematics,Polynomials,16,2,62,59,3,Medium,0,Completed,Fast,Concept Misunderstanding,Low Risk,Advanced,21
+STU1001366,Sarah Rao,Economics,Financial Markets,8,1,85,75,10,High,0,Completed,Fast,Missed Prerequisite,Low Risk,Beginner,21
+STU1001367,Sanjay Mishra,History,Cultural Movements,35,2,42,40,2,Medium,1,In Progress,Average,Missed Prerequisite,High Risk,Expert,52
+STU1001368,Sanjay Sharma,Data Science,Deep Learning,8,3,54,64,-10,Medium,0,In Progress,Average,Algorithm Error,Low Risk,Expert,44
+STU1001369,Vivaan Chopra,Data Science,Exploratory Data Analysis,25,1,82,75,7,High,0,Completed,Fast,Runtime Error,Low Risk,Intermediate,18
+STU1001370,Ishaan Desai,Psychology,Memory and Attention,30,1,88,89,-1,High,0,In Progress,Average,Calculation Error,Low Risk,Beginner,32
+STU1001371,Neha Mishra,Economics,Financial Markets,8,3,56,43,13,Medium,0,In Progress,Average,Concept Misunderstanding,Low Risk,Advanced,60
+STU1001372,Zara Iyer,Psychology,Social Psychology,10,1,73,49,24,Medium,0,In Progress,Fast,Data Formatting Error,Low Risk,Intermediate,25
+STU1001373,Neha Patel,Biology,Photosynthesis,18,7,57,47,10,Low,1,In Progress,Average,Logic Error,High Risk,Expert,39
+STU1001374,Vivaan Gupta,Data Science,Machine Learning,8,3,100,100,0,Medium,0,In Progress,Average,Runtime Error,Low Risk,Intermediate,53
+STU1001375,Sanjay Das,Economics,Markets,28,1,65,49,16,Medium,0,Completed,Fast,Logic Error,Low Risk,Advanced,30
+STU1001376,Aryan Gupta,Economics,International Trade,31,1,64,72,-8,Medium,0,Completed,Average,Concept Misunderstanding,Low Risk,Advanced,54
+STU1001377,Sarah Chopra,Economics,Inflation,8,1,89,94,-5,High,0,Completed,Fast,No Error,Low Risk,Beginner,21
+STU1001378,Rohan Das,Psychology,Perception,53,4,37,47,-10,Low,1,In Progress,Average,Data Formatting Error,High Risk,Expert,47
+STU1001379,Aryan Desai,Data Science,Machine Learning,9,3,51,75,-24,Medium,0,Completed,Average,Calculation Error,Low Risk,Expert,53
+STU1001380,Sarah Kumar,Biology,Genetics,88,1,62,44,18,Medium,0,Completed,Average,Timeout Error,Low Risk,Advanced,34
+STU1001381,Rajesh Joshi,Economics,GDP,18,1,59,55,4,Medium,0,Completed,Fast,Algorithm Error,Low Risk,Advanced,16
+STU1001382,Akshay Joshi,English,Creative Writing,17,1,85,83,2,High,0,Completed,Fast,Syntax Error,Low Risk,Beginner,19
+STU1001383,Sarah Gupta,English,Grammar,8,1,59,51,8,Medium,0,Completed,Fast,No Error,Low Risk,Advanced,21
+STU1001384,Amit Patel,Mathematics,Fractions,56,2,67,50,17,Medium,0,In Progress,Average,Data Formatting Error,Low Risk,Advanced,43
+STU1001385,Zara Rao,Mathematics,Linear Algebra,8,1,67,79,-12,Medium,0,In Progress,Fast,Algorithm Error,Low Risk,Advanced,23
+STU1001386,Sarah Desai,Data Science,NumPy Essentials,30,4,29,36,-7,Low,1,In Progress,Average,Calculation Error,High Risk,Expert,58
+STU1001387,Vikram Bhat,Data Science,Data Cleaning,16,3,89,93,-4,Medium,0,Completed,Average,Missed Prerequisite,Low Risk,Intermediate,58
+STU1001388,Isha Mishra,Chemistry,Acids and Bases,70,4,88,83,5,Medium,0,Completed,Average,No Error,Low Risk,Advanced,54
+STU1001389,Vivaan Sharma,Mathematics,Trigonometry,49,1,81,67,14,High,0,Completed,Average,No Error,Low Risk,Intermediate,57
+STU1001390,Rajesh Patel,Programming,Debugging,44,1,55,50,5,Medium,0,Dropped,Average,Missed Prerequisite,High Risk,Advanced,57
+STU1001391,Rohan Bhat,Economics,Inflation,14,1,91,61,30,High,0,Completed,Fast,Missed Prerequisite,Low Risk,Beginner,26
+STU1001392,Diya Sharma,Economics,Financial Markets,33,1,68,71,-3,Medium,0,In Progress,Average,Calculation Error,Low Risk,Advanced,58
+STU1001393,Karan Mishra,Chemistry,Bonding,8,3,65,76,-11,Medium,0,Dropped,Average,No Error,High Risk,Advanced,41
+STU1001394,Zara Kumar,English,Sentence Structure,139,1,89,66,23,Medium,0,Dropped,Average,Calculation Error,High Risk,Beginner,44
+STU1001395,Pooja Bhat,Biology,Human Anatomy,15,4,56,44,12,Medium,0,In Progress,Average,Concept Misunderstanding,Low Risk,Advanced,50
+STU1001396,Diya Chopra,Chemistry,Acids and Bases,31,1,63,43,20,Medium,0,Completed,Average,Missed Prerequisite,Low Risk,Advanced,52
+STU1001397,Diya Patel,History,Renaissance,64,1,78,82,-4,Medium,0,Dropped,Average,Syntax Error,High Risk,Intermediate,33
+STU1001398,Akshay Nair,Biology,Microbiology,50,2,79,57,22,Medium,0,Completed,Average,Runtime Error,Low Risk,Intermediate,59
+STU1001399,Nikhil Nair,Psychology,Social Psychology,70,1,74,77,-3,Medium,0,Completed,Average,No Error,Low Risk,Intermediate,43
+STU1001400,Karan Das,Physics,Waves,8,1,73,73,0,Medium,0,In Progress,Fast,Timeout Error,Low Risk,Intermediate,17
+STU1001401,Rajesh Singh,Programming,Data Structures,70,3,53,55,-2,Medium,0,Dropped,Average,Concept Misunderstanding,High Risk,Expert,45
+STU1001402,Aryan Singh,Economics,Microeconomics,45,1,70,84,-14,Medium,0,In Progress,Average,Logic Error,Low Risk,Intermediate,43
+STU1001403,Isha Kumar,English,Essay Writing,23,2,59,30,29,Medium,0,Completed,Fast,Calculation Error,Low Risk,Advanced,15
+STU1001404,Ananya Gupta,Data Science,Machine Learning,16,1,95,88,7,High,0,Completed,Fast,Logic Error,Low Risk,Beginner,20
+STU1001405,Aarav Mishra,Chemistry,Bonding,15,1,57,64,-7,Medium,0,In Progress,Fast,Concept Misunderstanding,Low Risk,Advanced,23
+STU1001406,Vivaan Iyer,Data Science,Data Cleaning,11,4,66,82,-16,Medium,0,In Progress,Average,Data Formatting Error,Low Risk,Advanced,52
+STU1001407,Akshay Chopra,Biology,Microbiology,36,1,77,92,-15,Medium,0,In Progress,Average,Data Formatting Error,Low Risk,Intermediate,60
+STU1001408,Rajesh Chopra,Psychology,Perception,27,1,73,76,-3,Medium,0,In Progress,Fast,Data Formatting Error,Low Risk,Intermediate,19
+STU1001409,Priya Sharma,Psychology,Human Motivation,22,1,85,100,-15,High,0,Completed,Fast,Logic Error,Low Risk,Beginner,24
+STU1001410,Aryan Joshi,Biology,Human Anatomy,9,2,68,59,9,Medium,0,In Progress,Fast,Concept Misunderstanding,Low Risk,Advanced,16
+STU1001411,Rajesh Sharma,Data Science,Model Evaluation,21,1,85,64,21,High,0,Completed,Fast,Timeout Error,Low Risk,Beginner,16
+STU1001412,Ananya Desai,Economics,Macroeconomics,36,3,51,54,-3,Medium,0,In Progress,Average,Logic Error,Low Risk,Expert,55
+STU1001413,Rajesh Desai,Economics,Financial Markets,11,7,86,85,1,Low,0,Dropped,Average,Logic Error,High Risk,Expert,52
+STU1001414,Ananya Kumar,Physics,Thermodynamics,8,1,76,62,14,Medium,0,Completed,Fast,Logic Error,Low Risk,Intermediate,21
+STU1001415,Sarah Kumar,Biology,Respiration,88,6,12,41,-29,Low,1,Dropped,Slow,Calculation Error,Critical Risk,Expert,107
+STU1001416,Aryan Verma,Psychology,Human Motivation,101,2,74,62,12,Medium,0,In Progress,Average,Syntax Error,Low Risk,Intermediate,56
+STU1001417,Ananya Joshi,Economics,Supply and Demand,9,1,100,79,21,High,0,Completed,Fast,Data Formatting Error,Low Risk,Beginner,27
+STU1001418,Amit Mishra,Biology,Reproduction,15,1,94,86,8,High,0,Completed,Fast,Timeout Error,Low Risk,Beginner,30
+STU1001419,Arjun Das,Psychology,Memory and Attention,38,1,85,82,3,High,0,Completed,Average,Calculation Error,Low Risk,Beginner,51
+STU1001420,Diya Chopra,Mathematics,Trigonometry,120,3,77,92,-15,Medium,0,In Progress,Slow,Timeout Error,Low Risk,Intermediate,94
+STU1001421,Rahul Joshi,Programming,Database Design,8,1,100,85,15,High,0,Completed,Fast,Calculation Error,Low Risk,Beginner,17
+STU1001422,Karan Singh,Chemistry,Bonding,28,2,82,57,25,High,0,In Progress,Fast,Concept Misunderstanding,Low Risk,Intermediate,20
+STU1001423,Sanjay Verma,Biology,Human Anatomy,8,1,87,89,-2,High,0,Completed,Fast,Concept Misunderstanding,Low Risk,Beginner,29
+STU1001424,Isha Rao,History,American History,150,1,43,47,-4,Medium,1,Dropped,Average,Concept Misunderstanding,Critical Risk,Expert,54
+STU1001425,Vivaan Das,Physics,Electricity,20,3,78,73,5,Medium,0,Completed,Average,Timeout Error,Low Risk,Intermediate,46
+STU1001426,Rajesh Desai,Programming,Data Structures,8,3,43,34,9,Medium,1,Completed,Average,Algorithm Error,High Risk,Expert,42
+STU1001427,Nikhil Singh,Economics,Consumer Behavior,25,5,52,51,1,Medium,1,Dropped,Average,Runtime Error,Critical Risk,Expert,47
+STU1001428,Aryan Kumar,Programming,Loops,67,1,69,49,20,Medium,0,Completed,Average,Data Formatting Error,Low Risk,Advanced,54
+STU1001429,Rajesh Mishra,Physics,Magnetism,17,4,55,71,-16,Medium,0,Completed,Average,Concept Misunderstanding,Low Risk,Advanced,42
+STU1001430,Priya Singh,Physics,Quantum Mechanics,150,1,57,51,6,Medium,0,Completed,Average,Syntax Error,Low Risk,Advanced,42
+STU1001431,Rajesh Joshi,English,Writing Skills,103,2,84,60,24,Medium,0,Completed,Average,Concept Misunderstanding,Low Risk,Intermediate,49
+STU1001432,Pooja Verma,Data Science,Data Cleaning,44,5,55,64,-9,Medium,1,In Progress,Average,Concept Misunderstanding,High Risk,Expert,38
+STU1001433,Diya Singh,Biology,Cells,52,1,60,58,2,Medium,0,In Progress,Average,Calculation Error,Low Risk,Advanced,36
+STU1001434,Karan Das,Mathematics,Calculus I,8,1,89,100,-11,High,0,Completed,Fast,Missed Prerequisite,Low Risk,Beginner,20
+STU1001435,Amit Das,Economics,Microeconomics,121,1,76,60,16,Medium,0,Completed,Average,Missed Prerequisite,Low Risk,Intermediate,30
+STU1001436,Pooja Mishra,Physics,Waves,64,8,18,14,4,Low,1,Dropped,Average,Algorithm Error,Critical Risk,Expert,35
+STU1001437,Rahul Chopra,History,Asian History,83,1,54,79,-25,Medium,0,In Progress,Average,Syntax Error,Low Risk,Expert,48
+STU1001438,Zara Rao,Mathematics,Fractions,8,1,88,68,20,High,0,Completed,Fast,No Error,Low Risk,Beginner,21
+STU1001439,Vikram Iyer,Economics,Supply and Demand,104,1,63,60,3,Medium,0,Completed,Average,Data Formatting Error,Low Risk,Advanced,48
+STU1001440,Akshay Gupta,Psychology,Cognitive Development,95,2,90,87,3,Medium,0,Completed,Average,Runtime Error,Low Risk,Beginner,52
+STU1001441,Aarav Gupta,Psychology,Behavioral Studies,36,6,63,62,1,Low,1,In Progress,Average,Missed Prerequisite,High Risk,Expert,30
+STU1001442,Rajesh Joshi,Programming,OOP Concepts,25,1,58,55,3,Medium,0,Dropped,Fast,Timeout Error,High Risk,Advanced,29
+STU1001443,Rahul Iyer,Programming,Functions,31,1,74,54,20,Medium,0,Completed,Average,Timeout Error,Low Risk,Intermediate,46
+STU1001444,Priya Chopra,Chemistry,Thermochemistry,105,1,100,86,14,Medium,0,In Progress,Average,Timeout Error,Low Risk,Beginner,52
+STU1001445,Rajesh Patel,History,Asian History,32,1,54,53,1,Medium,0,In Progress,Average,No Error,Low Risk,Expert,53
+STU1001446,Amit Verma,Mathematics,Equations,118,1,71,67,4,Medium,0,In Progress,Average,Timeout Error,Low Risk,Intermediate,46
+STU1001447,Diya Iyer,Physics,Energy and Work,8,2,70,66,4,Medium,0,Completed,Fast,Data Formatting Error,Low Risk,Intermediate,23
+STU1001448,Rohan Nair,Economics,Markets,8,2,77,69,8,Medium,0,Dropped,Fast,Algorithm Error,High Risk,Intermediate,24
+STU1001449,Rohan Das,Data Science,NumPy Essentials,67,2,80,76,4,Medium,0,Completed,Average,Data Formatting Error,Low Risk,Intermediate,57
+STU1001450,Pooja Chopra,Biology,Cells,24,1,82,81,1,High,0,Completed,Fast,No Error,Low Risk,Intermediate,22
+STU1001451,Ananya Singh,Economics,Macroeconomics,138,1,64,53,11,Medium,0,In Progress,Average,No Error,Low Risk,Advanced,39
+STU1001452,Karan Verma,Mathematics,Functions,55,1,90,77,13,High,0,Completed,Average,Calculation Error,Low Risk,Beginner,52
+STU1001453,Pooja Rao,Economics,Consumer Behavior,28,4,52,54,-2,Medium,0,Dropped,Average,Logic Error,High Risk,Expert,38
+STU1001454,Isha Gupta,Chemistry,Acids and Bases,38,3,100,83,17,Medium,0,Completed,Average,Calculation Error,Low Risk,Intermediate,47
+STU1001455,Priya Nair,Biology,Ecology,8,2,61,57,4,Medium,0,In Progress,Fast,Timeout Error,Low Risk,Advanced,18
+STU1001456,Zara Nair,Economics,Macroeconomics,28,1,72,55,17,Medium,0,In Progress,Fast,Missed Prerequisite,Low Risk,Intermediate,20
+STU1001457,Ishaan Reddy,Physics,Modern Physics,14,1,73,70,3,Medium,0,Completed,Fast,Missed Prerequisite,Low Risk,Intermediate,22
+STU1001458,Rahul Sharma,Physics,Dynamics,50,2,67,62,5,Medium,0,In Progress,Average,Timeout Error,Low Risk,Advanced,31
+STU1001459,Nikhil Das,Psychology,Behavioral Studies,49,5,39,30,9,Low,1,Completed,Average,No Error,High Risk,Expert,47
+STU1001460,Neha Joshi,Economics,GDP,8,1,68,53,15,Medium,0,Completed,Fast,No Error,Low Risk,Advanced,22
+STU1001461,Sanjay Chopra,Programming,Functions,41,1,55,29,26,Medium,0,Completed,Average,Data Formatting Error,Low Risk,Advanced,39
+STU1001462,Pooja Patel,Chemistry,Reactions,28,1,78,65,13,Medium,0,In Progress,Fast,Syntax Error,Low Risk,Intermediate,16
+STU1001463,Rahul Gupta,Psychology,Abnormal Psychology,88,1,90,62,28,Medium,0,Dropped,Average,Calculation Error,High Risk,Beginner,50
+STU1001464,Priya Reddy,Biology,Evolution,74,5,47,54,-7,Medium,1,In Progress,Average,Runtime Error,High Risk,Expert,34
+STU1001465,Aarav Rao,Physics,Dynamics,38,1,65,61,4,Medium,0,In Progress,Average,Algorithm Error,Low Risk,Advanced,60
+STU1001466,Priya Gupta,Programming,Loops,8,2,47,46,1,Medium,1,Dropped,Fast,Runtime Error,Critical Risk,Expert,23
+STU1001467,Karan Patel,History,Civil Rights,16,3,49,65,-16,Medium,1,In Progress,Average,Concept Misunderstanding,High Risk,Expert,59
+STU1001468,Varun Joshi,Chemistry,Thermochemistry,8,1,77,76,1,Medium,0,In Progress,Fast,Syntax Error,Low Risk,Intermediate,19
+STU1001469,Aarav Patel,Psychology,Learning Theories,26,1,92,78,14,High,0,Completed,Fast,No Error,Low Risk,Beginner,23
+STU1001470,Aditya Mishra,English,Literature Analysis,25,1,76,57,19,Medium,0,In Progress,Fast,Calculation Error,Low Risk,Intermediate,16
+STU1001471,Vikram Das,Physics,Thermodynamics,96,1,80,77,3,Medium,0,Completed,Average,Calculation Error,Low Risk,Intermediate,50
+STU1001472,Aditya Chopra,English,Essay Writing,9,1,79,65,14,Medium,0,Completed,Fast,Timeout Error,Low Risk,Intermediate,22
+STU1001473,Diya Singh,Data Science,Statistical Analysis,8,1,100,92,8,High,0,In Progress,Fast,Missed Prerequisite,Low Risk,Beginner,21
+STU1001474,Zara Reddy,History,American History,8,1,100,81,19,High,0,Completed,Fast,Missed Prerequisite,Low Risk,Beginner,18
+STU1001475,Nikhil Kumar,Chemistry,Periodicity,59,1,84,85,-1,High,0,Completed,Average,Missed Prerequisite,Low Risk,Intermediate,30
+STU1001476,Rajesh Kumar,Data Science,Deep Learning,28,2,59,52,7,Medium,0,In Progress,Fast,Data Formatting Error,Low Risk,Advanced,26
+STU1001477,Amit Rao,Chemistry,Stoichiometry,38,1,54,73,-19,Medium,0,Dropped,Average,Concept Misunderstanding,High Risk,Expert,50
+STU1001478,Sarah Singh,Physics,Waves,83,1,73,59,14,Medium,0,Completed,Average,Calculation Error,Low Risk,Intermediate,49
+STU1001479,Nikhil Kumar,Programming,Web Development,49,2,89,80,9,High,0,In Progress,Average,Algorithm Error,Low Risk,Beginner,41
+STU1001480,Ananya Mishra,Economics,Supply and Demand,10,1,87,83,4,High,0,Completed,Fast,Syntax Error,Low Risk,Beginner,25
+STU1001481,Rajesh Desai,Psychology,Personality,8,3,47,45,2,Medium,1,In Progress,Average,Algorithm Error,High Risk,Expert,32
+STU1001482,Varun Nair,Physics,Kinematics,9,1,62,45,17,Medium,0,Completed,Fast,Syntax Error,Low Risk,Advanced,23
+STU1001483,Pooja Verma,Economics,Consumer Behavior,8,1,50,79,-29,Medium,0,In Progress,Fast,Runtime Error,Low Risk,Expert,19
+STU1001484,Rohan Kumar,Data Science,Statistical Analysis,14,2,79,75,4,Medium,0,In Progress,Fast,Runtime Error,Low Risk,Intermediate,28
+STU1001485,Arjun Verma,Psychology,Perception,14,2,91,77,14,High,0,Completed,Fast,Calculation Error,Low Risk,Beginner,24
+STU1001486,Priya Iyer,Economics,Consumer Behavior,9,1,54,67,-13,Medium,0,In Progress,Fast,Algorithm Error,Low Risk,Expert,25
+STU1001487,Pooja Rao,Biology,Human Anatomy,28,1,57,62,-5,Medium,0,In Progress,Fast,Algorithm Error,Low Risk,Advanced,16
+STU1001488,Rajesh Patel,Physics,Modern Physics,69,1,52,41,11,Medium,0,Completed,Average,Algorithm Error,Low Risk,Expert,50
+STU1001489,Sarah Bhat,Economics,Macroeconomics,27,1,65,69,-4,Medium,0,In Progress,Fast,Algorithm Error,Low Risk,Advanced,15
+STU1001490,Aryan Kumar,Data Science,Deep Learning,39,2,99,95,4,High,0,In Progress,Average,Missed Prerequisite,Low Risk,Beginner,56
+STU1001491,Ananya Chopra,Data Science,Feature Engineering,37,1,65,72,-7,Medium,0,Dropped,Average,Missed Prerequisite,High Risk,Advanced,41
+STU1001492,Sarah Nair,Mathematics,Linear Algebra,29,2,52,45,7,Medium,0,Completed,Fast,Timeout Error,Low Risk,Expert,22
+STU1001493,Priya Reddy,Physics,Dynamics,21,3,66,72,-6,Medium,0,In Progress,Average,Missed Prerequisite,Low Risk,Advanced,53
+STU1001494,Diya Joshi,Physics,Kinematics,37,4,50,51,-1,Medium,0,Completed,Average,Logic Error,Low Risk,Expert,60
+STU1001495,Aryan Bhat,Economics,International Trade,43,3,60,69,-9,Medium,0,In Progress,Average,Data Formatting Error,Low Risk,Advanced,38
+STU1001496,Isha Sharma,History,Ancient Rome,8,1,63,48,15,Medium,0,In Progress,Fast,Missed Prerequisite,Low Risk,Advanced,20
+STU1001497,Karan Patel,Biology,Genetics,51,1,70,81,-11,Medium,0,Completed,Average,Timeout Error,Low Risk,Intermediate,38
+STU1001498,Varun Patel,Economics,Markets,31,1,65,58,7,Medium,0,Completed,Average,No Error,Low Risk,Advanced,30
+STU1001499,Aryan Nair,Chemistry,Thermochemistry,114,2,52,54,-2,Medium,0,Completed,Average,Logic Error,Low Risk,Expert,47

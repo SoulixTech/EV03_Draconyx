@@ -1,0 +1,1000 @@
+student_name,Course_Domain,Topic_Name,Quiz_Attempts,difficulty_level,expected_duration_min,Time_Spent_Minutes,Quiz_Score,Previous_Score,Improvement_Rate,Engagement_Level,Learning_Pace,error_type
+Arjun Desai,Programming,Python Basics,5,Expert,40,16,67,82,-15,Medium,Average,Concept Misunderstanding
+Karan Desai,Physics,Thermodynamics,1,Beginner,29,8,98,97,1,High,Fast,Data Formatting Error
+Diya Singh,Programming,Git Version Control,6,Expert,50,8,45,56,-11,Low,Average,Missed Prerequisite
+Amit Rao,English,Grammar,1,Intermediate,24,8,78,50,28,Medium,Fast,Concept Misunderstanding
+Zara Nair,Physics,Thermodynamics,1,Advanced,17,19,59,59,0,Medium,Fast,Calculation Error
+Amit Desai,Mathematics,Polynomials,1,Beginner,20,12,96,85,11,High,Fast,Logic Error
+Diya Bhat,Economics,Financial Markets,1,Advanced,18,8,66,64,2,Medium,Fast,Data Formatting Error
+Sarah Joshi,Psychology,Perception,1,Advanced,51,32,65,58,7,Medium,Average,Timeout Error
+Vikram Sharma,Mathematics,Calculus I,1,Intermediate,47,40,74,58,16,Medium,Average,No Error
+Amit Reddy,Biology,Photosynthesis,4,Advanced,35,8,71,53,18,Medium,Average,Missed Prerequisite
+Neha Gupta,Biology,Genetics,1,Advanced,16,13,55,54,1,Medium,Fast,Syntax Error
+Nikhil Singh,Programming,OOP Concepts,2,Beginner,56,122,86,79,7,Medium,Average,Missed Prerequisite
+Amit Rao,Psychology,Perception,1,Intermediate,30,8,73,66,7,Medium,Fast,Concept Misunderstanding
+Rahul Reddy,History,Cultural Movements,1,Advanced,15,17,68,77,-9,Medium,Fast,Concept Misunderstanding
+Arjun Gupta,English,Writing Skills,1,Intermediate,20,11,79,67,12,Medium,Fast,Logic Error
+Diya Kumar,Psychology,Learning Theories,7,Expert,36,8,41,53,-12,Low,Average,Timeout Error
+Akshay Nair,Programming,Python Basics,3,Intermediate,32,8,83,84,-1,Medium,Average,Concept Misunderstanding
+Pooja Mishra,Chemistry,Reactions,1,Advanced,59,51,62,55,7,Medium,Average,Timeout Error
+Varun Kumar,Programming,Database Design,1,Advanced,60,69,67,61,6,Medium,Average,Runtime Error
+Sarah Joshi,Biology,Evolution,1,Beginner,27,13,87,92,-5,High,Fast,No Error
+Sarah Verma,Physics,Waves,1,Intermediate,39,76,80,65,15,Medium,Average,Calculation Error
+Rajesh Gupta,Programming,Debugging,1,Intermediate,36,50,74,89,-15,Medium,Average,Missed Prerequisite
+Karan Chopra,Economics,Inflation,1,Intermediate,22,25,76,65,11,Medium,Fast,Syntax Error
+Aarav Nair,English,Essay Writing,1,Intermediate,24,13,71,72,-1,Medium,Fast,Concept Misunderstanding
+Vivaan Reddy,Economics,Inflation,2,Advanced,17,18,62,52,10,Medium,Fast,Logic Error
+Rajesh Gupta,Mathematics,Linear Algebra,2,Beginner,44,92,88,83,5,Medium,Average,No Error
+Rohan Patel,Biology,DNA and Proteins,1,Intermediate,31,56,76,77,-1,Medium,Average,No Error
+Rajesh Reddy,Physics,Modern Physics,4,Expert,41,57,40,41,-1,Medium,Average,Missed Prerequisite
+Vivaan Gupta,Biology,Ecology,1,Intermediate,15,9,79,73,6,Medium,Fast,Calculation Error
+Priya Gupta,English,Punctuation,1,Expert,20,8,53,52,1,Medium,Fast,Missed Prerequisite
+Amit Desai,Data Science,Pandas Tutorial,1,Intermediate,25,8,72,73,-1,Medium,Fast,Logic Error
+Vikram Sharma,Economics,Markets,2,Intermediate,28,25,78,69,9,Medium,Fast,Runtime Error
+Varun Das,English,Critical Thinking,1,Expert,42,114,46,50,-4,Medium,Average,Concept Misunderstanding
+Aditya Verma,Physics,Energy and Work,1,Intermediate,20,11,75,91,-16,Medium,Fast,Data Formatting Error
+Neha Joshi,Programming,Python Basics,1,Intermediate,18,8,72,72,0,Medium,Fast,Logic Error
+Sarah Gupta,Data Science,Machine Learning,1,Beginner,19,8,92,91,1,High,Fast,Calculation Error
+Nikhil Chopra,English,Critical Thinking,2,Beginner,28,9,96,73,23,High,Fast,Missed Prerequisite
+Vikram Reddy,English,Critical Thinking,1,Advanced,45,35,60,50,10,Medium,Average,Algorithm Error
+Rajesh Gupta,Economics,Markets,1,Expert,17,8,51,56,-5,Medium,Fast,Data Formatting Error
+Vikram Rao,Mathematics,Geometry Fundamentals,1,Advanced,42,36,61,76,-15,Medium,Average,Calculation Error
+Arjun Mishra,Economics,Markets,1,Advanced,60,96,63,56,7,Medium,Average,No Error
+Neha Singh,Biology,Genetics,3,Intermediate,117,90,79,58,21,Medium,Slow,Syntax Error
+Nikhil Desai,Data Science,Feature Engineering,1,Expert,57,59,50,57,-7,Medium,Average,Syntax Error
+Zara Reddy,Chemistry,Solutions,4,Advanced,36,8,60,66,-6,Medium,Average,Runtime Error
+Ishaan Sharma,Economics,Microeconomics,1,Intermediate,19,14,82,76,6,High,Fast,No Error
+Rahul Chopra,Chemistry,Solutions,2,Advanced,57,76,64,63,1,Medium,Average,Runtime Error
+Rohan Kumar,Data Science,Statistical Analysis,4,Advanced,36,8,60,48,12,Medium,Average,Syntax Error
+Arjun Joshi,Economics,Consumer Behavior,1,Beginner,24,8,100,96,4,High,Fast,Missed Prerequisite
+Vikram Patel,Psychology,Learning Theories,1,Advanced,43,36,60,66,-6,Medium,Average,Timeout Error
+Sanjay Kumar,Programming,OOP Concepts,2,Beginner,30,13,89,85,4,High,Fast,Concept Misunderstanding
+Aditya Joshi,Chemistry,Acids and Bases,1,Intermediate,35,37,71,58,13,Medium,Average,Calculation Error
+Akshay Reddy,Psychology,Cognitive Development,1,Intermediate,24,10,73,74,-1,Medium,Fast,Algorithm Error
+Vikram Sharma,History,Medieval Europe,1,Intermediate,48,77,75,81,-6,Medium,Average,Logic Error
+Akshay Chopra,Economics,Macroeconomics,1,Intermediate,36,30,84,67,17,High,Average,Logic Error
+Amit Chopra,History,Cultural Movements,1,Advanced,29,11,58,60,-2,Medium,Fast,Runtime Error
+Diya Patel,Economics,Government Policy,5,Expert,77,98,50,63,-13,Medium,Slow,Timeout Error
+Aryan Chopra,Physics,Quantum Mechanics,4,Advanced,36,8,64,60,4,Medium,Average,Data Formatting Error
+Nikhil Joshi,Physics,Waves,3,Expert,60,115,49,35,14,Medium,Slow,Runtime Error
+Zara Bhat,Biology,Reproduction,1,Intermediate,34,66,78,57,21,Medium,Average,Algorithm Error
+Rajesh Kumar,History,Medieval Europe,2,Advanced,44,96,61,59,2,Medium,Average,Missed Prerequisite
+Pooja Reddy,Programming,OOP Concepts,8,Expert,32,33,56,39,17,Low,Average,Calculation Error
+Priya Joshi,Economics,Inflation,2,Beginner,56,73,91,93,-2,Medium,Average,No Error
+Nikhil Singh,Mathematics,Geometry Fundamentals,1,Intermediate,27,15,82,79,3,High,Fast,No Error
+Isha Chopra,Mathematics,Linear Algebra,4,Advanced,49,70,65,100,-35,Medium,Average,Runtime Error
+Priya Verma,Mathematics,Trigonometry,1,Beginner,55,56,89,87,2,High,Average,Concept Misunderstanding
+Aarav Sharma,Physics,Waves,1,Advanced,37,77,63,57,6,Medium,Average,Runtime Error
+Rajesh Kumar,Physics,Quantum Mechanics,1,Beginner,46,30,100,73,27,High,Average,Algorithm Error
+Amit Sharma,Psychology,Memory and Attention,1,Advanced,25,11,67,77,-10,Medium,Fast,Calculation Error
+Zara Verma,History,Asian History,1,Advanced,30,8,64,69,-5,Medium,Fast,Concept Misunderstanding
+Aryan Mishra,Programming,Database Design,1,Intermediate,44,34,75,60,15,Medium,Average,Timeout Error
+Pooja Bhat,English,Punctuation,1,Expert,29,27,44,51,-7,Medium,Fast,Logic Error
+Ishaan Reddy,Mathematics,Geometry Fundamentals,1,Advanced,48,55,63,58,5,Medium,Average,Missed Prerequisite
+Pooja Rao,Biology,Genetics,5,Expert,31,8,65,72,-7,Medium,Average,Calculation Error
+Priya Chopra,Physics,Quantum Mechanics,1,Advanced,17,18,67,56,11,Medium,Fast,Runtime Error
+Rajesh Bhat,English,Literature Analysis,2,Advanced,24,27,56,64,-8,Medium,Fast,Missed Prerequisite
+Vikram Rao,Physics,Dynamics,2,Beginner,50,108,100,100,0,Medium,Average,Missed Prerequisite
+Akshay Desai,Economics,Microeconomics,1,Beginner,29,19,94,78,16,High,Fast,Algorithm Error
+Rahul Chopra,Economics,Supply and Demand,1,Intermediate,26,8,81,80,1,High,Fast,Timeout Error
+Sanjay Joshi,Physics,Energy and Work,1,Expert,24,22,26,18,8,Low,Fast,Syntax Error
+Arjun Bhat,History,Renaissance,1,Beginner,27,8,99,76,23,High,Fast,Syntax Error
+Sanjay Joshi,Mathematics,Calculus I,1,Beginner,49,35,96,73,23,High,Average,Data Formatting Error
+Priya Das,English,Essay Writing,3,Expert,56,24,47,57,-10,Medium,Average,Algorithm Error
+Rajesh Bhat,History,Industrial Revolution,1,Intermediate,20,8,76,64,12,Medium,Fast,Timeout Error
+Aryan Desai,Economics,GDP,1,Beginner,43,98,98,77,21,Medium,Average,Logic Error
+Varun Reddy,Chemistry,Acids and Bases,1,Intermediate,22,21,72,76,-4,Medium,Fast,No Error
+Akshay Kumar,Psychology,Human Motivation,4,Advanced,71,113,60,49,11,Medium,Slow,Timeout Error
+Varun Nair,Biology,Cells,1,Advanced,28,8,66,73,-7,Medium,Fast,Concept Misunderstanding
+Neha Gupta,History,Cultural Movements,2,Beginner,29,8,88,83,5,High,Fast,Runtime Error
+Ishaan Verma,Economics,Macroeconomics,2,Advanced,42,46,62,52,10,Medium,Average,Syntax Error
+Amit Desai,Economics,Microeconomics,2,Intermediate,59,48,74,72,2,Medium,Average,Missed Prerequisite
+Ananya Patel,Programming,Debugging,2,Intermediate,20,16,83,72,11,High,Fast,Algorithm Error
+Arjun Desai,Physics,Magnetism,1,Beginner,52,68,87,87,0,Medium,Average,Missed Prerequisite
+Karan Sharma,Psychology,Social Psychology,4,Advanced,48,8,81,73,8,Medium,Average,Algorithm Error
+Aditya Reddy,Mathematics,Functions,4,Advanced,33,13,61,56,5,Medium,Average,Concept Misunderstanding
+Sarah Chopra,Psychology,Memory and Attention,1,Advanced,42,105,62,84,-22,Medium,Average,Runtime Error
+Aditya Singh,Chemistry,Acids and Bases,1,Beginner,16,12,92,91,1,High,Fast,Logic Error
+Priya Nair,Biology,Ecology,2,Intermediate,37,54,74,60,14,Medium,Average,Calculation Error
+Diya Singh,Data Science,NumPy Essentials,1,Beginner,20,8,89,79,10,High,Fast,Runtime Error
+Vikram Patel,Programming,Python Basics,1,Intermediate,23,15,81,67,14,High,Fast,Algorithm Error
+Varun Desai,Psychology,Cognitive Development,1,Intermediate,58,33,78,64,14,Medium,Average,Logic Error
+Zara Das,Physics,Quantum Mechanics,3,Advanced,50,8,56,55,1,Medium,Average,Syntax Error
+Aryan Patel,Biology,Genetics,7,Expert,47,8,26,14,12,Low,Average,Data Formatting Error
+Arjun Joshi,Biology,Photosynthesis,5,Expert,39,58,40,42,-2,Medium,Average,Missed Prerequisite
+Neha Sharma,Economics,Markets,1,Beginner,51,52,87,77,10,High,Average,No Error
+Rahul Das,Economics,Supply and Demand,1,Intermediate,17,8,74,67,7,Medium,Fast,No Error
+Rahul Patel,Economics,Markets,1,Intermediate,21,8,79,62,17,Medium,Fast,Logic Error
+Vikram Nair,Programming,Data Structures,1,Intermediate,59,47,73,74,-1,Medium,Average,Timeout Error
+Vikram Gupta,Programming,Git Version Control,3,Advanced,45,11,69,66,3,Medium,Average,Timeout Error
+Akshay Patel,Chemistry,Thermochemistry,1,Intermediate,28,8,75,71,4,Medium,Fast,Timeout Error
+Diya Nair,Biology,Ecology,2,Beginner,54,34,100,84,16,High,Average,Concept Misunderstanding
+Karan Sharma,Chemistry,Solutions,4,Advanced,47,30,98,81,17,Medium,Average,Concept Misunderstanding
+Arjun Singh,Mathematics,Geometry Fundamentals,1,Expert,18,11,43,41,2,Medium,Fast,No Error
+Priya Desai,Chemistry,Bonding,1,Intermediate,41,30,80,90,-10,High,Average,Missed Prerequisite
+Diya Desai,Data Science,NumPy Essentials,3,Expert,32,12,48,58,-10,Medium,Average,Runtime Error
+Zara Verma,History,Cultural Movements,3,Expert,108,84,41,67,-26,Medium,Slow,Missed Prerequisite
+Amit Sharma,Economics,Supply and Demand,3,Intermediate,66,94,86,73,13,Medium,Slow,Timeout Error
+Varun Singh,Data Science,Model Evaluation,1,Expert,46,150,49,70,-21,Medium,Average,Algorithm Error
+Aditya Das,Biology,Microbiology,3,Advanced,109,122,62,73,-11,Medium,Slow,Timeout Error
+Varun Bhat,English,Literature Analysis,1,Intermediate,25,18,75,67,8,Medium,Fast,Concept Misunderstanding
+Diya Rao,Biology,Cells,5,Expert,43,51,45,57,-12,Medium,Average,Timeout Error
+Nikhil Verma,Physics,Thermodynamics,1,Intermediate,29,20,76,73,3,Medium,Fast,Missed Prerequisite
+Neha Desai,Biology,Human Anatomy,2,Expert,20,9,51,71,-20,Medium,Fast,Runtime Error
+Rajesh Sharma,English,Critical Thinking,2,Beginner,23,8,98,91,7,High,Fast,Missed Prerequisite
+Priya Gupta,Physics,Energy and Work,3,Intermediate,36,25,100,100,0,Medium,Average,Runtime Error
+Pooja Kumar,Data Science,Data Visualization,1,Intermediate,46,73,84,89,-5,Medium,Average,Syntax Error
+Sanjay Singh,Biology,DNA and Proteins,1,Beginner,31,42,90,64,26,High,Average,Concept Misunderstanding
+Amit Das,Physics,Waves,1,Intermediate,29,17,70,75,-5,Medium,Fast,Concept Misunderstanding
+Ananya Kumar,Programming,Database Design,2,Beginner,15,25,99,77,22,High,Fast,Timeout Error
+Amit Rao,History,Renaissance,5,Expert,32,69,20,24,-4,Low,Average,Algorithm Error
+Sanjay Rao,History,Civil Rights,7,Expert,50,21,13,16,-3,Low,Average,No Error
+Aryan Iyer,Physics,Thermodynamics,1,Intermediate,52,35,80,62,18,High,Average,Timeout Error
+Zara Joshi,Physics,Magnetism,1,Intermediate,29,8,74,82,-8,Medium,Fast,Calculation Error
+Nikhil Mishra,Programming,Functions,1,Advanced,42,38,67,54,13,Medium,Average,Algorithm Error
+Neha Iyer,Economics,Financial Markets,1,Intermediate,25,8,73,57,16,Medium,Fast,No Error
+Rajesh Sharma,Economics,International Trade,1,Beginner,27,8,100,92,8,High,Fast,Logic Error
+Sarah Kumar,Programming,Functions,2,Advanced,21,8,64,63,1,Medium,Fast,Syntax Error
+Priya Singh,Chemistry,Bonding,4,Expert,42,72,52,54,-2,Medium,Average,No Error
+Zara Nair,English,Vocabulary,2,Advanced,31,57,67,57,10,Medium,Average,Runtime Error
+Akshay Nair,Biology,DNA and Proteins,1,Expert,15,16,52,73,-21,Medium,Fast,Calculation Error
+Ananya Chopra,Economics,Microeconomics,2,Intermediate,23,21,83,78,5,High,Fast,Missed Prerequisite
+Diya Sharma,Psychology,Social Psychology,1,Intermediate,18,25,73,58,15,Medium,Fast,Timeout Error
+Aryan Rao,English,Grammar,1,Advanced,19,26,63,42,21,Medium,Fast,Missed Prerequisite
+Nikhil Das,Economics,Inflation,1,Advanced,25,8,65,49,16,Medium,Fast,Missed Prerequisite
+Aditya Desai,Programming,OOP Concepts,3,Intermediate,51,8,95,95,0,Medium,Average,Algorithm Error
+Akshay Mishra,Programming,Functions,1,Intermediate,53,54,76,59,17,Medium,Average,Concept Misunderstanding
+Aditya Gupta,English,Vocabulary,2,Advanced,44,30,59,53,6,Medium,Average,Logic Error
+Sarah Mishra,Chemistry,Solutions,1,Beginner,30,11,88,99,-11,High,Fast,Logic Error
+Diya Verma,English,Sentence Structure,7,Expert,44,15,27,38,-11,Low,Average,Data Formatting Error
+Rajesh Rao,Data Science,Deep Learning,1,Advanced,17,8,65,56,9,Medium,Fast,Syntax Error
+Arjun Verma,English,Creative Writing,1,Intermediate,17,8,75,58,17,Medium,Fast,Syntax Error
+Sarah Verma,Chemistry,Equilibrium,7,Expert,47,18,50,44,6,Low,Average,Calculation Error
+Nikhil Nair,Psychology,Memory and Attention,3,Expert,102,122,54,68,-14,Medium,Slow,Timeout Error
+Priya Verma,History,American History,1,Intermediate,22,8,76,75,1,Medium,Fast,No Error
+Nikhil Verma,Physics,Quantum Mechanics,1,Advanced,29,29,65,68,-3,Medium,Fast,Calculation Error
+Nikhil Bhat,Data Science,Exploratory Data Analysis,1,Expert,19,13,50,55,-5,Medium,Fast,Algorithm Error
+Rohan Kumar,Psychology,Learning Theories,1,Intermediate,30,8,84,59,25,High,Fast,Algorithm Error
+Ishaan Singh,Physics,Waves,1,Advanced,23,8,65,62,3,Medium,Fast,Syntax Error
+Akshay Joshi,Physics,Energy and Work,1,Beginner,20,14,90,76,14,High,Fast,Syntax Error
+Vikram Sharma,Physics,Optics,2,Intermediate,20,10,82,88,-6,High,Fast,Concept Misunderstanding
+Sanjay Patel,Programming,API Development,1,Intermediate,15,22,83,72,11,High,Fast,Data Formatting Error
+Sarah Bhat,Psychology,Social Psychology,6,Expert,49,62,62,51,11,Low,Average,Algorithm Error
+Vikram Mishra,English,Punctuation,1,Intermediate,33,97,76,66,10,Medium,Average,Missed Prerequisite
+Sarah Rao,Data Science,Data Cleaning,3,Intermediate,35,29,71,63,8,Medium,Average,Concept Misunderstanding
+Sarah Gupta,Programming,Database Design,1,Intermediate,24,8,80,67,13,High,Fast,Missed Prerequisite
+Amit Rao,Economics,GDP,1,Beginner,33,38,88,76,12,High,Average,Calculation Error
+Zara Nair,Physics,Dynamics,3,Expert,47,17,28,20,8,Low,Average,Runtime Error
+Rajesh Reddy,History,Cultural Movements,1,Intermediate,27,21,75,83,-8,Medium,Fast,Data Formatting Error
+Vivaan Chopra,Psychology,Learning Theories,4,Advanced,35,9,71,41,30,Medium,Average,Syntax Error
+Sarah Patel,History,Global Events,1,Expert,32,82,52,70,-18,Medium,Average,Algorithm Error
+Amit Bhat,Economics,Financial Markets,2,Intermediate,15,8,84,98,-14,High,Fast,Runtime Error
+Zara Gupta,Economics,GDP,2,Advanced,51,78,68,54,14,Medium,Average,Concept Misunderstanding
+Neha Kumar,History,American History,2,Intermediate,23,9,76,63,13,Medium,Fast,Runtime Error
+Aryan Iyer,Physics,Waves,3,Intermediate,34,50,83,69,14,Medium,Average,Data Formatting Error
+Ananya Sharma,Economics,GDP,3,Advanced,44,8,60,45,15,Medium,Average,No Error
+Aarav Verma,Chemistry,Periodicity,1,Beginner,41,55,86,68,18,High,Average,Calculation Error
+Zara Kumar,Chemistry,Acids and Bases,1,Intermediate,35,44,81,91,-10,High,Average,No Error
+Ananya Bhat,Biology,Human Anatomy,1,Expert,21,10,48,70,-22,Medium,Fast,Runtime Error
+Vikram Rao,Data Science,Pandas Tutorial,5,Expert,52,21,60,43,17,Medium,Average,Logic Error
+Arjun Rao,Data Science,Pandas Tutorial,1,Intermediate,16,24,76,75,1,Medium,Fast,Calculation Error
+Nikhil Rao,English,Vocabulary,4,Expert,58,41,39,49,-10,Low,Average,Data Formatting Error
+Sarah Mishra,English,Grammar,1,Beginner,51,30,98,84,14,High,Average,Missed Prerequisite
+Diya Gupta,English,Sentence Structure,4,Expert,94,95,35,38,-3,Low,Slow,Runtime Error
+Sarah Chopra,Psychology,Behavioral Studies,3,Advanced,73,146,66,76,-10,Medium,Slow,Concept Misunderstanding
+Rahul Chopra,Psychology,Personality,1,Intermediate,44,31,72,63,9,Medium,Average,Logic Error
+Aryan Bhat,Biology,Photosynthesis,1,Advanced,52,56,59,36,23,Medium,Average,Calculation Error
+Diya Desai,English,Creative Writing,4,Expert,31,26,29,18,11,Low,Average,Syntax Error
+Priya Iyer,Economics,Government Policy,1,Intermediate,56,46,71,49,22,Medium,Average,Runtime Error
+Arjun Reddy,History,Renaissance,1,Expert,18,8,34,38,-4,Low,Fast,No Error
+Rajesh Nair,History,Ancient Rome,1,Beginner,42,86,100,100,0,Medium,Average,Concept Misunderstanding
+Ishaan Rao,English,Literature Analysis,1,Intermediate,24,8,70,53,17,Medium,Fast,Calculation Error
+Nikhil Chopra,Data Science,Deep Learning,8,Expert,44,8,100,92,8,Low,Average,Missed Prerequisite
+Zara Verma,English,Critical Thinking,2,Intermediate,16,8,77,67,10,Medium,Fast,Concept Misunderstanding
+Rohan Reddy,Mathematics,Geometry Fundamentals,1,Intermediate,15,8,74,64,10,Medium,Fast,Concept Misunderstanding
+Sarah Sharma,Data Science,Feature Engineering,1,Intermediate,16,29,71,86,-15,Medium,Fast,Algorithm Error
+Arjun Chopra,Chemistry,Atomic Structure,1,Beginner,27,26,93,64,29,High,Fast,Concept Misunderstanding
+Sarah Reddy,History,Civil Rights,1,Expert,21,8,53,48,5,Medium,Fast,Data Formatting Error
+Karan Mishra,English,Essay Writing,1,Beginner,59,36,89,93,-4,High,Average,Calculation Error
+Sarah Das,English,Essay Writing,1,Beginner,22,8,85,65,20,High,Fast,Missed Prerequisite
+Priya Patel,History,Ancient Rome,1,Advanced,26,8,67,69,-2,Medium,Fast,Runtime Error
+Zara Kumar,Mathematics,Trigonometry,1,Intermediate,59,37,71,63,8,Medium,Average,Calculation Error
+Aryan Gupta,Programming,Python Basics,3,Advanced,37,44,58,68,-10,Medium,Average,No Error
+Vivaan Verma,Physics,Thermodynamics,1,Intermediate,36,38,83,71,12,High,Average,Runtime Error
+Priya Joshi,Psychology,Mental Health,1,Intermediate,17,8,79,58,21,Medium,Fast,Data Formatting Error
+Karan Kumar,History,Medieval Europe,4,Expert,30,19,44,61,-17,Medium,Average,No Error
+Neha Mishra,Physics,Optics,1,Expert,28,10,51,63,-12,Medium,Fast,Syntax Error
+Priya Bhat,Biology,Evolution,1,Expert,30,34,43,68,-25,Medium,Average,Timeout Error
+Diya Rao,Programming,Data Structures,5,Expert,30,12,44,53,-9,Medium,Average,Runtime Error
+Diya Sharma,Programming,Debugging,1,Intermediate,40,70,76,69,7,Medium,Average,Syntax Error
+Pooja Kumar,Chemistry,Thermochemistry,1,Intermediate,21,19,79,53,26,Medium,Fast,Timeout Error
+Diya Verma,English,Sentence Structure,1,Intermediate,51,35,77,67,10,Medium,Average,Runtime Error
+Rajesh Gupta,Physics,Dynamics,1,Advanced,51,145,66,53,13,Medium,Average,Syntax Error
+Isha Bhat,Physics,Dynamics,4,Advanced,32,8,58,43,15,Medium,Average,No Error
+Ananya Joshi,Chemistry,Thermochemistry,1,Beginner,22,11,90,86,4,High,Fast,Concept Misunderstanding
+Varun Iyer,Psychology,Behavioral Studies,1,Intermediate,18,8,78,79,-1,Medium,Fast,Runtime Error
+Aditya Desai,English,Vocabulary,1,Expert,55,32,47,36,11,Medium,Average,No Error
+Vikram Das,Biology,Cells,1,Intermediate,20,25,82,66,16,High,Fast,Missed Prerequisite
+Neha Reddy,History,Medieval Europe,1,Advanced,20,8,65,45,20,Medium,Fast,Logic Error
+Arjun Mishra,Biology,Reproduction,1,Advanced,16,11,60,69,-9,Medium,Fast,No Error
+Pooja Desai,English,Literature Analysis,1,Intermediate,28,29,82,75,7,High,Fast,Syntax Error
+Aditya Singh,Chemistry,Thermochemistry,1,Advanced,46,46,66,64,2,Medium,Average,No Error
+Arjun Mishra,Economics,GDP,1,Beginner,18,24,92,76,16,High,Fast,Calculation Error
+Nikhil Mishra,Psychology,Perception,1,Intermediate,25,8,74,92,-18,Medium,Fast,Data Formatting Error
+Ananya Das,Physics,Dynamics,1,Beginner,40,40,85,71,14,High,Average,No Error
+Aryan Rao,History,Renaissance,2,Intermediate,47,56,84,60,24,High,Average,No Error
+Vikram Desai,Psychology,Memory and Attention,1,Intermediate,21,15,73,77,-4,Medium,Fast,No Error
+Priya Iyer,Biology,Cells,1,Intermediate,21,8,80,78,2,High,Fast,Logic Error
+Diya Iyer,Biology,Evolution,1,Beginner,59,57,87,83,4,High,Average,Runtime Error
+Pooja Gupta,Biology,Photosynthesis,1,Intermediate,27,10,81,75,6,High,Fast,Logic Error
+Arjun Sharma,Psychology,Perception,1,Advanced,28,8,58,67,-9,Medium,Fast,Calculation Error
+Rohan Nair,Economics,Inflation,6,Expert,67,90,54,67,-13,Low,Slow,Logic Error
+Akshay Rao,English,Punctuation,3,Intermediate,37,69,81,67,14,Medium,Average,Timeout Error
+Varun Singh,Physics,Optics,1,Advanced,21,8,68,61,7,Medium,Fast,Concept Misunderstanding
+Rahul Gupta,History,American History,2,Beginner,18,8,93,76,17,High,Fast,Runtime Error
+Zara Kumar,Programming,Functions,1,Beginner,26,8,96,89,7,High,Fast,Runtime Error
+Ishaan Singh,Physics,Waves,1,Intermediate,25,13,79,79,0,Medium,Fast,Data Formatting Error
+Sarah Patel,Biology,Reproduction,1,Intermediate,20,9,76,78,-2,Medium,Fast,Concept Misunderstanding
+Aarav Desai,Biology,DNA and Proteins,2,Advanced,30,97,67,80,-13,Medium,Average,Algorithm Error
+Amit Singh,Economics,International Trade,1,Advanced,27,22,68,82,-14,Medium,Fast,Algorithm Error
+Ishaan Rao,History,Industrial Revolution,2,Advanced,25,19,68,61,7,Medium,Fast,Timeout Error
+Vikram Reddy,Physics,Dynamics,1,Advanced,15,15,59,46,13,Medium,Fast,Algorithm Error
+Aditya Desai,Biology,Genetics,1,Intermediate,27,8,74,73,1,Medium,Fast,Syntax Error
+Isha Nair,Data Science,Pandas Tutorial,2,Beginner,21,16,89,78,11,High,Fast,Data Formatting Error
+Nikhil Das,History,Industrial Revolution,1,Advanced,44,101,58,59,-1,Medium,Average,Algorithm Error
+Neha Reddy,Economics,Government Policy,1,Intermediate,37,150,77,73,4,Medium,Average,Runtime Error
+Rohan Gupta,Programming,Loops,1,Advanced,32,32,65,55,10,Medium,Average,Missed Prerequisite
+Aarav Patel,Biology,Evolution,1,Advanced,23,8,65,76,-11,Medium,Fast,Logic Error
+Akshay Bhat,Economics,Macroeconomics,6,Expert,50,8,83,69,14,Low,Average,Timeout Error
+Ananya Joshi,Mathematics,Polynomials,1,Advanced,49,41,66,70,-4,Medium,Average,No Error
+Neha Rao,Data Science,Feature Engineering,1,Beginner,26,8,98,100,-2,High,Fast,Logic Error
+Sanjay Iyer,Mathematics,Functions,3,Expert,31,8,53,53,0,Medium,Average,Calculation Error
+Rohan Gupta,History,American History,5,Expert,32,76,60,61,-1,Medium,Average,Syntax Error
+Rajesh Iyer,Mathematics,Statistics,1,Intermediate,58,37,72,59,13,Medium,Average,Concept Misunderstanding
+Karan Chopra,History,Medieval Europe,1,Intermediate,21,16,74,92,-18,Medium,Fast,Logic Error
+Amit Das,English,Punctuation,1,Advanced,28,8,67,66,1,Medium,Fast,Missed Prerequisite
+Diya Joshi,Mathematics,Calculus I,1,Beginner,39,66,100,86,14,Medium,Average,Calculation Error
+Sanjay Nair,Psychology,Perception,1,Beginner,54,60,85,95,-10,Medium,Average,Algorithm Error
+Aditya Iyer,Physics,Dynamics,3,Intermediate,49,10,75,78,-3,Medium,Average,Logic Error
+Isha Bhat,English,Critical Thinking,3,Intermediate,45,66,79,76,3,Medium,Average,Calculation Error
+Pooja Rao,Psychology,Social Psychology,2,Beginner,33,41,95,93,2,High,Average,Runtime Error
+Rohan Das,English,Punctuation,3,Advanced,52,8,61,59,2,Medium,Average,Syntax Error
+Aarav Sharma,Chemistry,Thermochemistry,2,Intermediate,20,14,80,68,12,High,Fast,Logic Error
+Amit Reddy,Chemistry,Thermochemistry,1,Intermediate,38,62,77,69,8,Medium,Average,No Error
+Diya Das,Psychology,Cognitive Development,1,Intermediate,60,34,84,97,-13,High,Average,No Error
+Sarah Sharma,Physics,Thermodynamics,1,Intermediate,33,52,78,85,-7,Medium,Average,No Error
+Aryan Joshi,Programming,Data Structures,1,Intermediate,49,115,84,77,7,Medium,Average,Concept Misunderstanding
+Sarah Das,Economics,Microeconomics,4,Expert,40,8,46,53,-7,Medium,Average,Algorithm Error
+Aarav Chopra,English,Punctuation,2,Intermediate,27,12,76,60,16,Medium,Fast,Syntax Error
+Isha Nair,History,Industrial Revolution,1,Advanced,19,14,66,67,-1,Medium,Fast,Calculation Error
+Aarav Bhat,Chemistry,Equilibrium,1,Beginner,40,49,98,89,9,High,Average,Syntax Error
+Rahul Chopra,History,Medieval Europe,1,Expert,35,40,53,31,22,Medium,Average,Algorithm Error
+Sanjay Chopra,Chemistry,Thermochemistry,2,Advanced,25,8,59,64,-5,Medium,Fast,No Error
+Zara Nair,Physics,Magnetism,2,Advanced,30,8,55,62,-7,Medium,Fast,Calculation Error
+Arjun Desai,Physics,Energy and Work,1,Intermediate,32,105,84,75,9,Medium,Average,Algorithm Error
+Zara Nair,Data Science,Exploratory Data Analysis,1,Expert,25,19,52,48,4,Medium,Fast,Runtime Error
+Priya Singh,Chemistry,Thermochemistry,1,Intermediate,30,144,71,72,-1,Medium,Average,Timeout Error
+Pooja Nair,Psychology,Perception,1,Advanced,29,8,56,70,-14,Medium,Fast,Syntax Error
+Amit Rao,History,Industrial Revolution,1,Intermediate,42,69,80,76,4,Medium,Average,Concept Misunderstanding
+Isha Rao,Chemistry,Solutions,3,Intermediate,46,51,76,81,-5,Medium,Average,Calculation Error
+Pooja Verma,History,Medieval Europe,1,Intermediate,22,8,77,76,1,Medium,Fast,Syntax Error
+Aditya Gupta,English,Vocabulary,1,Advanced,46,55,64,82,-18,Medium,Average,Logic Error
+Rohan Das,Mathematics,Geometry Fundamentals,1,Intermediate,15,8,76,61,15,Medium,Fast,Data Formatting Error
+Ishaan Iyer,Psychology,Memory and Attention,2,Advanced,22,10,68,42,26,Medium,Fast,Algorithm Error
+Vikram Iyer,Chemistry,Thermochemistry,1,Advanced,15,8,68,35,33,Medium,Fast,Missed Prerequisite
+Priya Joshi,Data Science,Feature Engineering,1,Beginner,49,32,86,82,4,High,Average,Logic Error
+Rahul Mishra,History,Industrial Revolution,1,Advanced,54,52,60,56,4,Medium,Average,Missed Prerequisite
+Aarav Reddy,Psychology,Personality,7,Expert,58,9,54,45,9,Low,Average,Concept Misunderstanding
+Vivaan Sharma,History,Medieval Europe,2,Intermediate,33,33,71,68,3,Medium,Average,Runtime Error
+Arjun Kumar,English,Vocabulary,1,Intermediate,24,13,71,59,12,Medium,Fast,Timeout Error
+Isha Rao,Programming,Data Structures,1,Advanced,22,8,59,52,7,Medium,Fast,Missed Prerequisite
+Rohan Iyer,History,Industrial Revolution,2,Advanced,28,29,66,69,-3,Medium,Fast,Logic Error
+Varun Sharma,English,Creative Writing,1,Beginner,22,8,95,96,-1,High,Fast,Syntax Error
+Nikhil Singh,Programming,OOP Concepts,4,Advanced,49,8,56,45,11,Medium,Average,Timeout Error
+Rohan Sharma,Programming,Database Design,3,Intermediate,32,43,81,79,2,Medium,Average,Runtime Error
+Sarah Verma,Mathematics,Polynomials,3,Intermediate,31,14,88,81,7,Medium,Average,Missed Prerequisite
+Ananya Chopra,Mathematics,Linear Algebra,1,Beginner,19,21,100,93,7,High,Fast,Missed Prerequisite
+Isha Joshi,Psychology,Abnormal Psychology,1,Advanced,26,8,65,56,9,Medium,Fast,Concept Misunderstanding
+Diya Iyer,Mathematics,Linear Algebra,1,Intermediate,45,71,82,68,14,Medium,Average,Runtime Error
+Aryan Patel,Data Science,NumPy Essentials,1,Beginner,39,37,100,96,4,High,Average,Logic Error
+Ananya Singh,History,Medieval Europe,8,Expert,36,9,55,53,2,Low,Average,Concept Misunderstanding
+Rohan Patel,Psychology,Social Psychology,2,Intermediate,19,8,71,47,24,Medium,Fast,No Error
+Priya Desai,Chemistry,Solutions,2,Advanced,42,70,67,82,-15,Medium,Average,Missed Prerequisite
+Aditya Joshi,English,Writing Skills,1,Intermediate,21,14,78,80,-2,Medium,Fast,Concept Misunderstanding
+Arjun Verma,Programming,API Development,2,Beginner,16,20,91,82,9,High,Fast,Algorithm Error
+Priya Desai,Data Science,Feature Engineering,1,Intermediate,37,80,84,60,24,Medium,Average,Runtime Error
+Aarav Kumar,Chemistry,Solutions,1,Beginner,59,85,97,100,-3,Medium,Average,Calculation Error
+Aryan Nair,English,Punctuation,1,Intermediate,53,46,82,76,6,High,Average,Logic Error
+Zara Iyer,Physics,Optics,1,Intermediate,29,8,74,85,-11,Medium,Fast,Calculation Error
+Nikhil Patel,English,Reading Comprehension,3,Intermediate,53,9,78,41,37,Medium,Average,Data Formatting Error
+Rahul Iyer,Economics,Macroeconomics,1,Advanced,25,15,69,52,17,Medium,Fast,Timeout Error
+Varun Kumar,Chemistry,Atomic Structure,1,Advanced,34,122,55,65,-10,Medium,Average,No Error
+Amit Verma,Economics,Markets,1,Intermediate,38,51,74,76,-2,Medium,Average,No Error
+Sarah Desai,Chemistry,Equilibrium,1,Intermediate,25,9,76,55,21,Medium,Fast,Missed Prerequisite
+Akshay Das,Psychology,Abnormal Psychology,3,Expert,50,14,36,35,1,Low,Average,No Error
+Ananya Gupta,History,Cultural Movements,2,Advanced,55,33,69,61,8,Medium,Average,Concept Misunderstanding
+Karan Patel,Biology,Human Anatomy,2,Intermediate,16,8,70,91,-21,Medium,Fast,Algorithm Error
+Varun Kumar,English,Punctuation,2,Beginner,46,65,90,84,6,Medium,Average,Algorithm Error
+Priya Joshi,Physics,Thermodynamics,1,Intermediate,28,8,73,69,4,Medium,Fast,Missed Prerequisite
+Karan Das,Physics,Magnetism,4,Advanced,50,26,69,65,4,Medium,Average,Logic Error
+Rahul Bhat,History,Asian History,1,Beginner,24,13,88,83,5,High,Fast,Missed Prerequisite
+Vivaan Verma,Data Science,Feature Engineering,1,Beginner,15,21,100,90,10,High,Fast,Calculation Error
+Ishaan Nair,Data Science,Model Evaluation,1,Beginner,22,8,91,72,19,High,Fast,Algorithm Error
+Karan Chopra,Biology,Genetics,2,Advanced,25,8,65,84,-19,Medium,Fast,Runtime Error
+Ananya Sharma,History,Medieval Europe,1,Beginner,40,70,88,84,4,Medium,Average,Missed Prerequisite
+Arjun Rao,History,Ancient Rome,2,Beginner,37,101,100,91,9,Medium,Average,Missed Prerequisite
+Rajesh Kumar,English,Literature Analysis,1,Beginner,36,71,91,94,-3,Medium,Average,Logic Error
+Zara Nair,Chemistry,Organic Chemistry,1,Beginner,16,8,99,79,20,High,Fast,Syntax Error
+Aarav Patel,English,Writing Skills,1,Intermediate,22,8,74,74,0,Medium,Fast,Data Formatting Error
+Rajesh Joshi,Economics,Financial Markets,2,Beginner,55,71,99,95,4,Medium,Average,Calculation Error
+Aryan Reddy,History,Cultural Movements,1,Beginner,51,73,92,71,21,Medium,Average,No Error
+Diya Singh,Programming,Loops,2,Intermediate,52,57,70,83,-13,Medium,Average,Timeout Error
+Nikhil Gupta,Chemistry,Acids and Bases,1,Intermediate,53,59,72,69,3,Medium,Average,Runtime Error
+Sarah Singh,English,Writing Skills,1,Beginner,22,13,98,81,17,High,Fast,No Error
+Akshay Mishra,Programming,API Development,1,Advanced,27,17,65,46,19,Medium,Fast,Data Formatting Error
+Karan Patel,Chemistry,Bonding,1,Beginner,25,9,99,100,-1,High,Fast,Data Formatting Error
+Vivaan Bhat,Mathematics,Statistics,1,Beginner,35,33,89,77,12,High,Average,Logic Error
+Karan Reddy,English,Literature Analysis,1,Expert,29,25,54,39,15,Medium,Fast,Concept Misunderstanding
+Aryan Kumar,English,Critical Thinking,1,Beginner,50,30,95,92,3,High,Average,No Error
+Rohan Joshi,Data Science,Machine Learning,2,Beginner,30,58,86,80,6,High,Average,Missed Prerequisite
+Nikhil Mishra,Psychology,Personality,4,Expert,32,9,39,40,-1,Low,Average,Logic Error
+Sanjay Bhat,Physics,Optics,1,Advanced,30,23,60,43,17,Medium,Fast,No Error
+Neha Verma,Data Science,Pandas Tutorial,1,Beginner,32,56,88,64,24,High,Average,Concept Misunderstanding
+Aarav Desai,Chemistry,Periodicity,1,Advanced,60,44,60,54,6,Medium,Average,Runtime Error
+Diya Reddy,Mathematics,Equations,2,Intermediate,21,8,76,54,22,Medium,Fast,Runtime Error
+Priya Patel,Economics,Macroeconomics,1,Expert,31,43,51,61,-10,Medium,Average,Concept Misunderstanding
+Sarah Iyer,Biology,Microbiology,1,Intermediate,50,115,78,83,-5,Medium,Average,Timeout Error
+Sanjay Das,English,Essay Writing,1,Intermediate,19,8,76,73,3,Medium,Fast,Data Formatting Error
+Sanjay Joshi,Chemistry,Acids and Bases,3,Expert,60,59,52,49,3,Medium,Average,Missed Prerequisite
+Rahul Gupta,History,Medieval Europe,1,Advanced,36,33,56,44,12,Medium,Average,Concept Misunderstanding
+Sanjay Bhat,Psychology,Learning Theories,1,Intermediate,34,53,70,81,-11,Medium,Average,Algorithm Error
+Ananya Iyer,Chemistry,Bonding,1,Advanced,32,38,62,84,-22,Medium,Average,Syntax Error
+Priya Gupta,English,Essay Writing,1,Intermediate,35,30,84,80,4,High,Average,Data Formatting Error
+Aditya Reddy,Mathematics,Functions,1,Intermediate,21,8,75,65,10,Medium,Fast,Logic Error
+Neha Das,Chemistry,Acids and Bases,1,Advanced,37,32,66,46,20,Medium,Average,Syntax Error
+Priya Bhat,Biology,Ecology,1,Advanced,46,31,62,78,-16,Medium,Average,Data Formatting Error
+Neha Sharma,Psychology,Perception,2,Intermediate,17,19,83,91,-8,High,Fast,Logic Error
+Karan Desai,Data Science,Exploratory Data Analysis,1,Advanced,28,11,66,50,16,Medium,Fast,Data Formatting Error
+Varun Gupta,Mathematics,Statistics,1,Intermediate,29,8,75,59,16,Medium,Fast,Missed Prerequisite
+Aarav Bhat,Mathematics,Functions,2,Intermediate,24,8,78,54,24,Medium,Fast,Missed Prerequisite
+Vikram Nair,Data Science,Exploratory Data Analysis,1,Expert,35,74,45,54,-9,Medium,Average,Logic Error
+Ananya Singh,Biology,DNA and Proteins,1,Beginner,21,14,100,96,4,High,Fast,No Error
+Akshay Desai,Data Science,Model Evaluation,1,Intermediate,22,21,83,75,8,High,Fast,Algorithm Error
+Rahul Joshi,Biology,Human Anatomy,2,Intermediate,28,8,77,54,23,Medium,Fast,Concept Misunderstanding
+Sanjay Reddy,Chemistry,Stoichiometry,1,Advanced,20,8,63,74,-11,Medium,Fast,Calculation Error
+Vikram Das,History,Industrial Revolution,2,Advanced,49,38,58,51,7,Medium,Average,Concept Misunderstanding
+Ananya Chopra,Biology,Genetics,4,Advanced,75,150,79,72,7,Medium,Slow,Algorithm Error
+Karan Mishra,Programming,Data Structures,1,Intermediate,24,25,77,65,12,Medium,Fast,Logic Error
+Ishaan Kumar,Physics,Magnetism,3,Intermediate,39,8,77,78,-1,Medium,Average,Data Formatting Error
+Amit Singh,Economics,International Trade,1,Advanced,29,8,63,44,19,Medium,Fast,Syntax Error
+Vivaan Reddy,English,Grammar,4,Expert,60,8,18,29,-11,Low,Average,Logic Error
+Arjun Patel,Programming,API Development,1,Intermediate,21,17,80,96,-16,High,Fast,No Error
+Rahul Kumar,Chemistry,Thermochemistry,1,Intermediate,38,88,76,67,9,Medium,Average,Runtime Error
+Sarah Verma,Biology,Genetics,3,Advanced,57,16,69,69,0,Medium,Average,Runtime Error
+Ishaan Patel,History,Ancient Rome,1,Intermediate,55,54,72,59,13,Medium,Average,Missed Prerequisite
+Rajesh Desai,Economics,International Trade,2,Intermediate,30,8,75,66,9,Medium,Fast,Syntax Error
+Akshay Joshi,Physics,Dynamics,3,Advanced,32,35,64,70,-6,Medium,Average,Logic Error
+Amit Rao,History,Industrial Revolution,2,Intermediate,60,32,75,53,22,Medium,Average,Missed Prerequisite
+Vivaan Bhat,Programming,Data Structures,1,Advanced,26,17,65,59,6,Medium,Fast,Concept Misunderstanding
+Nikhil Singh,Mathematics,Statistics,1,Intermediate,27,8,75,72,3,Medium,Fast,Calculation Error
+Aarav Verma,Programming,Web Development,1,Intermediate,42,118,75,47,28,Medium,Average,Algorithm Error
+Karan Joshi,Economics,Macroeconomics,1,Advanced,20,20,56,60,-4,Medium,Fast,No Error
+Aditya Iyer,Biology,Human Anatomy,1,Intermediate,45,33,71,85,-14,Medium,Average,No Error
+Karan Patel,Data Science,Data Visualization,8,Expert,44,8,57,49,8,Low,Average,Algorithm Error
+Diya Chopra,History,Global Events,1,Advanced,43,144,65,58,7,Medium,Average,Concept Misunderstanding
+Diya Patel,Chemistry,Bonding,1,Intermediate,46,41,77,69,8,Medium,Average,Calculation Error
+Vikram Rao,Physics,Optics,1,Beginner,49,58,89,66,23,High,Average,Runtime Error
+Amit Patel,Physics,Electricity,1,Expert,28,26,54,56,-2,Medium,Fast,Timeout Error
+Varun Singh,Biology,Human Anatomy,1,Intermediate,19,16,83,82,1,High,Fast,Runtime Error
+Isha Singh,Biology,Cells,1,Advanced,56,51,66,31,35,Medium,Average,Logic Error
+Rahul Kumar,Physics,Dynamics,1,Advanced,30,8,66,67,-1,Medium,Fast,Algorithm Error
+Ishaan Nair,History,Medieval Europe,1,Intermediate,15,26,74,77,-3,Medium,Fast,Concept Misunderstanding
+Sanjay Desai,Psychology,Behavioral Studies,1,Beginner,27,8,92,82,10,High,Fast,Logic Error
+Rahul Verma,Biology,Ecology,1,Advanced,28,8,68,54,14,Medium,Fast,Missed Prerequisite
+Amit Nair,Psychology,Social Psychology,1,Expert,57,46,54,39,15,Medium,Average,Data Formatting Error
+Rajesh Gupta,Economics,Inflation,2,Advanced,17,21,64,73,-9,Medium,Fast,Syntax Error
+Sanjay Chopra,Physics,Electricity,1,Beginner,54,40,85,72,13,High,Average,Syntax Error
+Varun Kumar,Psychology,Behavioral Studies,4,Advanced,59,8,98,83,15,Medium,Average,Missed Prerequisite
+Karan Bhat,Data Science,Machine Learning,4,Advanced,59,37,81,88,-7,Medium,Average,Logic Error
+Akshay Iyer,Data Science,Exploratory Data Analysis,1,Intermediate,24,8,81,66,15,High,Fast,Syntax Error
+Aryan Chopra,Mathematics,Calculus I,2,Advanced,19,25,69,68,1,Medium,Fast,Runtime Error
+Ishaan Gupta,Physics,Modern Physics,1,Expert,20,8,54,47,7,Medium,Fast,No Error
+Arjun Desai,Data Science,NumPy Essentials,2,Advanced,23,15,59,62,-3,Medium,Fast,No Error
+Amit Mishra,English,Creative Writing,1,Beginner,27,8,92,91,1,High,Fast,Missed Prerequisite
+Akshay Gupta,Programming,API Development,1,Beginner,29,10,89,73,16,High,Fast,Algorithm Error
+Sanjay Iyer,Biology,Human Anatomy,1,Intermediate,39,34,70,63,7,Medium,Average,No Error
+Diya Mishra,History,Cultural Movements,2,Intermediate,44,33,81,94,-13,High,Average,Concept Misunderstanding
+Sanjay Mishra,Psychology,Behavioral Studies,6,Expert,39,8,42,58,-16,Low,Average,Algorithm Error
+Diya Chopra,Economics,Markets,1,Beginner,42,136,97,94,3,Medium,Average,Algorithm Error
+Karan Chopra,Mathematics,Algebra Basics,1,Advanced,47,58,69,55,14,Medium,Average,Calculation Error
+Varun Mishra,English,Sentence Structure,1,Advanced,49,92,59,32,27,Medium,Average,Missed Prerequisite
+Vikram Nair,History,American History,1,Intermediate,30,20,71,64,7,Medium,Fast,Concept Misunderstanding
+Rajesh Verma,Programming,OOP Concepts,1,Beginner,32,76,87,73,14,Medium,Average,Logic Error
+Zara Rao,Programming,Data Structures,3,Advanced,40,69,61,61,0,Medium,Average,Runtime Error
+Diya Iyer,Psychology,Human Motivation,1,Intermediate,34,49,82,81,1,High,Average,Runtime Error
+Neha Desai,English,Critical Thinking,1,Intermediate,52,52,77,56,21,Medium,Average,Syntax Error
+Aarav Patel,History,Cultural Movements,4,Advanced,90,146,62,51,11,Medium,Slow,Timeout Error
+Isha Sharma,Programming,Web Development,1,Beginner,36,59,93,85,8,High,Average,Logic Error
+Amit Reddy,Economics,Inflation,1,Intermediate,34,46,78,96,-18,Medium,Average,Syntax Error
+Isha Sharma,Physics,Magnetism,1,Beginner,21,12,86,81,5,High,Fast,Timeout Error
+Isha Nair,History,Asian History,2,Intermediate,30,35,72,54,18,Medium,Average,Syntax Error
+Rahul Mishra,Programming,OOP Concepts,1,Intermediate,15,8,71,57,14,Medium,Fast,Timeout Error
+Aarav Rao,Chemistry,Organic Chemistry,1,Beginner,57,56,100,95,5,High,Average,No Error
+Sanjay Reddy,History,Medieval Europe,1,Beginner,46,33,92,77,15,High,Average,Runtime Error
+Ishaan Patel,Programming,Web Development,1,Advanced,26,28,63,67,-4,Medium,Fast,Timeout Error
+Neha Bhat,Biology,Evolution,1,Advanced,45,111,61,52,9,Medium,Average,Missed Prerequisite
+Rohan Reddy,Psychology,Human Motivation,3,Intermediate,42,12,96,84,12,Medium,Average,Data Formatting Error
+Priya Bhat,Programming,Database Design,1,Expert,59,76,53,36,17,Medium,Average,Timeout Error
+Rajesh Nair,English,Grammar,1,Expert,43,41,52,72,-20,Medium,Average,Logic Error
+Nikhil Rao,Psychology,Perception,1,Advanced,60,55,66,93,-27,Medium,Average,Concept Misunderstanding
+Isha Singh,Psychology,Human Motivation,1,Beginner,42,35,98,100,-2,High,Average,No Error
+Rajesh Desai,History,Renaissance,1,Beginner,26,28,90,87,3,High,Fast,Runtime Error
+Rajesh Verma,Biology,Human Anatomy,3,Expert,42,11,50,54,-4,Medium,Average,No Error
+Varun Singh,Chemistry,Thermochemistry,1,Beginner,30,8,85,86,-1,High,Fast,Missed Prerequisite
+Varun Mishra,English,Creative Writing,1,Advanced,39,54,57,51,6,Medium,Average,Syntax Error
+Sarah Gupta,Psychology,Memory and Attention,1,Intermediate,17,13,73,68,5,Medium,Fast,Logic Error
+Sarah Kumar,Economics,Supply and Demand,2,Advanced,43,31,59,78,-19,Medium,Average,Runtime Error
+Vikram Das,Chemistry,Bonding,2,Intermediate,58,35,71,56,15,Medium,Average,Runtime Error
+Vivaan Desai,Chemistry,Organic Chemistry,1,Beginner,31,64,100,100,0,Medium,Average,No Error
+Aditya Patel,Data Science,Machine Learning,1,Intermediate,18,8,77,51,26,Medium,Fast,No Error
+Ananya Bhat,English,Writing Skills,5,Expert,42,12,45,30,15,Medium,Average,No Error
+Pooja Chopra,Mathematics,Geometry Fundamentals,3,Intermediate,59,72,74,64,10,Medium,Average,Syntax Error
+Ishaan Nair,Physics,Magnetism,1,Intermediate,20,21,74,92,-18,Medium,Fast,No Error
+Varun Sharma,Biology,Evolution,2,Advanced,21,20,65,67,-2,Medium,Fast,Algorithm Error
+Karan Desai,Biology,Microbiology,1,Beginner,54,32,86,90,-4,High,Average,Timeout Error
+Vivaan Das,Mathematics,Calculus I,1,Intermediate,43,109,73,67,6,Medium,Average,Timeout Error
+Amit Patel,Psychology,Behavioral Studies,1,Intermediate,23,10,71,72,-1,Medium,Fast,Concept Misunderstanding
+Ananya Reddy,Chemistry,Periodicity,2,Beginner,26,11,97,86,11,High,Fast,Algorithm Error
+Ananya Nair,History,Global Events,1,Expert,30,8,38,53,-15,Low,Fast,Missed Prerequisite
+Rohan Patel,Chemistry,Acids and Bases,4,Advanced,50,14,56,59,-3,Medium,Average,Syntax Error
+Akshay Desai,Programming,OOP Concepts,1,Expert,52,96,51,49,2,Medium,Average,Calculation Error
+Neha Singh,Chemistry,Thermochemistry,7,Expert,41,45,70,51,19,Low,Average,Syntax Error
+Nikhil Chopra,Chemistry,Bonding,1,Intermediate,16,8,81,72,9,High,Fast,Logic Error
+Isha Desai,Psychology,Behavioral Studies,1,Advanced,50,32,63,50,13,Medium,Average,Missed Prerequisite
+Rohan Reddy,Chemistry,Acids and Bases,1,Advanced,42,66,59,56,3,Medium,Average,Missed Prerequisite
+Ananya Singh,Chemistry,Equilibrium,2,Intermediate,59,68,77,65,12,Medium,Average,No Error
+Sarah Patel,Mathematics,Equations,1,Advanced,28,27,58,19,39,Medium,Fast,Algorithm Error
+Sanjay Desai,Data Science,Machine Learning,5,Expert,53,8,63,70,-7,Medium,Average,Algorithm Error
+Priya Singh,Physics,Quantum Mechanics,1,Intermediate,22,21,84,96,-12,High,Fast,Data Formatting Error
+Zara Chopra,Biology,Genetics,1,Intermediate,22,8,72,85,-13,Medium,Fast,Concept Misunderstanding
+Aryan Reddy,Mathematics,Fractions,2,Advanced,30,8,65,52,13,Medium,Fast,Syntax Error
+Rohan Joshi,Programming,OOP Concepts,1,Intermediate,16,8,76,84,-8,Medium,Fast,No Error
+Sanjay Verma,Psychology,Personality,3,Advanced,59,8,59,37,22,Medium,Average,Missed Prerequisite
+Sarah Desai,English,Essay Writing,2,Beginner,56,146,88,79,9,Medium,Average,No Error
+Karan Verma,Mathematics,Trigonometry,1,Intermediate,26,27,79,63,16,Medium,Fast,Data Formatting Error
+Sanjay Nair,Psychology,Abnormal Psychology,1,Intermediate,50,60,76,53,23,Medium,Average,Algorithm Error
+Nikhil Singh,Biology,Genetics,2,Beginner,15,11,100,100,0,High,Fast,Algorithm Error
+Priya Chopra,Programming,Loops,1,Intermediate,52,55,76,76,0,Medium,Average,No Error
+Ananya Singh,English,Creative Writing,2,Advanced,19,8,65,74,-9,Medium,Fast,Timeout Error
+Ishaan Chopra,Chemistry,Organic Chemistry,4,Expert,38,68,48,48,0,Medium,Average,Syntax Error
+Pooja Bhat,Data Science,Exploratory Data Analysis,4,Expert,49,8,35,45,-10,Low,Average,Data Formatting Error
+Diya Verma,Programming,Git Version Control,1,Intermediate,29,20,75,81,-6,Medium,Fast,Syntax Error
+Ananya Bhat,Biology,Respiration,1,Advanced,60,119,59,61,-2,Medium,Average,Missed Prerequisite
+Vikram Sharma,Data Science,Pandas Tutorial,1,Beginner,51,74,92,100,-8,Medium,Average,Algorithm Error
+Isha Gupta,Chemistry,Acids and Bases,3,Advanced,34,44,68,60,8,Medium,Average,Calculation Error
+Diya Iyer,Data Science,Exploratory Data Analysis,3,Advanced,38,8,68,80,-12,Medium,Average,Data Formatting Error
+Vikram Reddy,History,American History,1,Beginner,37,43,94,84,10,High,Average,Logic Error
+Neha Patel,Psychology,Abnormal Psychology,1,Beginner,20,21,94,85,9,High,Fast,Concept Misunderstanding
+Nikhil Verma,Psychology,Memory and Attention,1,Beginner,15,14,87,84,3,High,Fast,Missed Prerequisite
+Akshay Bhat,Biology,Evolution,1,Advanced,18,8,69,54,15,Medium,Fast,No Error
+Rohan Singh,History,American History,2,Beginner,17,20,93,100,-7,High,Fast,Logic Error
+Ishaan Patel,Chemistry,Thermochemistry,3,Intermediate,50,15,72,68,4,Medium,Average,No Error
+Nikhil Reddy,Economics,Microeconomics,1,Advanced,52,35,57,68,-11,Medium,Average,Algorithm Error
+Isha Sharma,History,Ancient Rome,1,Intermediate,59,40,79,68,11,Medium,Average,Calculation Error
+Ananya Kumar,Chemistry,Reactions,3,Intermediate,42,9,80,58,22,Medium,Average,No Error
+Isha Iyer,Programming,Debugging,1,Advanced,42,41,59,47,12,Medium,Average,Missed Prerequisite
+Sarah Sharma,English,Punctuation,1,Intermediate,17,8,82,75,7,High,Fast,Syntax Error
+Ananya Verma,Mathematics,Equations,2,Intermediate,46,71,84,87,-3,Medium,Average,Runtime Error
+Varun Verma,Psychology,Social Psychology,4,Advanced,59,10,68,87,-19,Medium,Average,Concept Misunderstanding
+Rahul Rao,History,Cultural Movements,1,Beginner,21,8,91,81,10,High,Fast,Timeout Error
+Sanjay Joshi,Mathematics,Equations,1,Advanced,28,27,66,61,5,Medium,Fast,No Error
+Vikram Reddy,Biology,Genetics,4,Advanced,35,47,69,60,9,Medium,Average,Calculation Error
+Aryan Sharma,Data Science,Data Cleaning,4,Advanced,56,12,69,73,-4,Medium,Average,No Error
+Zara Patel,History,American History,5,Expert,43,8,36,54,-18,Low,Average,Timeout Error
+Priya Gupta,Psychology,Mental Health,1,Intermediate,38,61,80,90,-10,Medium,Average,Data Formatting Error
+Vivaan Das,Chemistry,Atomic Structure,1,Intermediate,24,8,74,67,7,Medium,Fast,Timeout Error
+Rahul Rao,Biology,Microbiology,1,Advanced,27,12,59,43,16,Medium,Fast,Algorithm Error
+Vivaan Iyer,Biology,Genetics,1,Beginner,48,47,89,98,-9,High,Average,Calculation Error
+Karan Sharma,Economics,Financial Markets,1,Intermediate,39,77,73,67,6,Medium,Average,Algorithm Error
+Aditya Desai,Psychology,Mental Health,1,Intermediate,53,55,76,79,-3,Medium,Average,No Error
+Akshay Rao,Psychology,Mental Health,3,Expert,43,8,48,55,-7,Medium,Average,Runtime Error
+Akshay Bhat,Chemistry,Atomic Structure,4,Advanced,54,8,74,77,-3,Medium,Average,Concept Misunderstanding
+Ishaan Sharma,Programming,Functions,1,Expert,58,73,34,47,-13,Low,Average,Missed Prerequisite
+Isha Desai,Biology,Evolution,1,Intermediate,17,13,82,87,-5,High,Fast,Missed Prerequisite
+Nikhil Desai,Economics,Microeconomics,1,Beginner,33,78,99,100,-1,Medium,Average,Calculation Error
+Amit Kumar,English,Creative Writing,2,Intermediate,50,31,76,51,25,Medium,Average,No Error
+Ananya Joshi,Biology,Photosynthesis,1,Beginner,26,8,100,90,10,High,Fast,Runtime Error
+Vikram Singh,Physics,Electricity,1,Intermediate,56,105,75,83,-8,Medium,Average,Algorithm Error
+Arjun Verma,History,Renaissance,1,Advanced,34,35,63,44,19,Medium,Average,Timeout Error
+Amit Iyer,Data Science,Machine Learning,1,Advanced,23,22,68,56,12,Medium,Fast,Concept Misunderstanding
+Sanjay Sharma,Programming,Git Version Control,1,Expert,53,124,53,57,-4,Medium,Average,Logic Error
+Vivaan Nair,Economics,Supply and Demand,1,Intermediate,36,33,76,53,23,Medium,Average,No Error
+Amit Das,Psychology,Mental Health,1,Intermediate,27,8,70,57,13,Medium,Fast,Runtime Error
+Ananya Joshi,Data Science,Machine Learning,1,Expert,52,56,46,52,-6,Medium,Average,Runtime Error
+Zara Gupta,Psychology,Mental Health,1,Intermediate,39,93,78,62,16,Medium,Average,Timeout Error
+Aarav Bhat,Mathematics,Fractions,1,Beginner,15,8,91,83,8,High,Fast,Runtime Error
+Akshay Bhat,Physics,Optics,2,Advanced,20,23,64,42,22,Medium,Fast,Algorithm Error
+Diya Das,History,Renaissance,1,Intermediate,30,19,79,76,3,Medium,Fast,No Error
+Nikhil Rao,Chemistry,Periodicity,1,Advanced,30,32,67,65,2,Medium,Average,Logic Error
+Vivaan Rao,Physics,Electricity,1,Beginner,18,10,99,99,0,High,Fast,Missed Prerequisite
+Zara Sharma,Psychology,Abnormal Psychology,1,Expert,17,8,42,38,4,Medium,Fast,No Error
+Sanjay Rao,Chemistry,Atomic Structure,1,Intermediate,28,8,73,70,3,Medium,Fast,Concept Misunderstanding
+Nikhil Reddy,English,Literature Analysis,1,Intermediate,28,8,77,73,4,Medium,Fast,Timeout Error
+Ananya Desai,Psychology,Mental Health,1,Intermediate,50,39,73,70,3,Medium,Average,Timeout Error
+Akshay Reddy,Mathematics,Equations,4,Advanced,39,35,74,74,0,Medium,Average,Data Formatting Error
+Aditya Desai,Economics,Microeconomics,1,Advanced,53,45,57,55,2,Medium,Average,Syntax Error
+Amit Nair,Economics,Microeconomics,1,Intermediate,28,8,73,47,26,Medium,Fast,Syntax Error
+Pooja Nair,Data Science,NumPy Essentials,1,Intermediate,35,30,77,58,19,Medium,Average,Calculation Error
+Rajesh Reddy,Economics,Macroeconomics,2,Beginner,20,14,89,85,4,High,Fast,Concept Misunderstanding
+Pooja Das,Programming,Loops,1,Advanced,41,41,57,65,-8,Medium,Average,Calculation Error
+Vikram Mishra,Biology,Cells,2,Beginner,20,12,95,84,11,High,Fast,Runtime Error
+Neha Reddy,English,Creative Writing,3,Advanced,52,60,62,68,-6,Medium,Average,Runtime Error
+Rahul Reddy,English,Writing Skills,1,Beginner,19,13,94,69,25,High,Fast,Data Formatting Error
+Rajesh Verma,Mathematics,Trigonometry,2,Advanced,36,42,58,50,8,Medium,Average,Syntax Error
+Rohan Das,Biology,Evolution,1,Intermediate,30,19,70,76,-6,Medium,Fast,Logic Error
+Aryan Reddy,Chemistry,Periodicity,1,Beginner,20,8,94,99,-5,High,Fast,Calculation Error
+Pooja Reddy,Data Science,Feature Engineering,1,Expert,18,14,49,44,5,Medium,Fast,Missed Prerequisite
+Karan Gupta,Mathematics,Geometry Fundamentals,1,Advanced,44,39,56,45,11,Medium,Average,Logic Error
+Ananya Singh,Physics,Energy and Work,1,Advanced,48,150,62,64,-2,Medium,Average,Algorithm Error
+Sanjay Kumar,Psychology,Human Motivation,1,Intermediate,21,23,83,75,8,High,Fast,Timeout Error
+Arjun Mishra,Chemistry,Acids and Bases,1,Intermediate,20,16,73,65,8,Medium,Fast,Logic Error
+Rohan Sharma,Mathematics,Linear Algebra,1,Intermediate,21,8,71,87,-16,Medium,Fast,Data Formatting Error
+Ananya Chopra,Psychology,Abnormal Psychology,4,Advanced,31,11,68,60,8,Medium,Average,Timeout Error
+Pooja Das,History,Global Events,3,Advanced,53,32,63,65,-2,Medium,Average,No Error
+Neha Rao,Economics,Government Policy,1,Advanced,20,17,57,55,2,Medium,Fast,Concept Misunderstanding
+Rohan Verma,Data Science,NumPy Essentials,1,Intermediate,21,28,84,81,3,High,Fast,Calculation Error
+Ishaan Reddy,Psychology,Learning Theories,1,Advanced,23,20,63,52,11,Medium,Fast,Calculation Error
+Arjun Sharma,English,Literature Analysis,1,Expert,28,8,45,58,-13,Medium,Fast,Syntax Error
+Vikram Rao,Programming,Git Version Control,1,Beginner,44,30,100,82,18,High,Average,Data Formatting Error
+Vikram Nair,Programming,Git Version Control,1,Beginner,18,23,91,100,-9,High,Fast,Concept Misunderstanding
+Vikram Nair,Economics,Consumer Behavior,1,Advanced,57,33,68,63,5,Medium,Average,Runtime Error
+Nikhil Sharma,History,Ancient Rome,1,Intermediate,20,22,78,74,4,Medium,Fast,Data Formatting Error
+Diya Singh,Biology,Photosynthesis,3,Intermediate,32,26,70,62,8,Medium,Average,Algorithm Error
+Aryan Joshi,Biology,Genetics,2,Intermediate,24,8,84,72,12,High,Fast,Logic Error
+Rohan Joshi,Programming,Debugging,1,Intermediate,32,100,80,71,9,Medium,Average,Syntax Error
+Aryan Bhat,Biology,Evolution,3,Expert,42,23,33,53,-20,Low,Average,No Error
+Arjun Desai,Economics,International Trade,1,Advanced,18,11,66,79,-13,Medium,Fast,No Error
+Sarah Joshi,Data Science,Feature Engineering,1,Beginner,23,25,90,84,6,High,Fast,Logic Error
+Rohan Gupta,History,Modern World Wars,1,Intermediate,32,138,82,80,2,Medium,Average,Logic Error
+Rahul Nair,Programming,API Development,5,Expert,40,29,51,54,-3,Medium,Average,Algorithm Error
+Vivaan Chopra,Physics,Kinematics,1,Intermediate,30,67,83,45,38,Medium,Average,Algorithm Error
+Aarav Rao,Mathematics,Trigonometry,4,Expert,48,34,54,54,0,Medium,Average,Logic Error
+Pooja Nair,Economics,Financial Markets,2,Advanced,37,40,63,64,-1,Medium,Average,Data Formatting Error
+Varun Verma,Economics,GDP,1,Advanced,30,12,65,72,-7,Medium,Fast,Syntax Error
+Rahul Singh,Physics,Waves,5,Expert,45,8,74,77,-3,Medium,Average,Data Formatting Error
+Arjun Iyer,Mathematics,Trigonometry,1,Beginner,18,12,85,82,3,High,Fast,Logic Error
+Vikram Joshi,Biology,DNA and Proteins,1,Beginner,30,47,87,86,1,High,Average,Runtime Error
+Aryan Mishra,History,Asian History,2,Intermediate,31,37,80,82,-2,High,Average,Logic Error
+Neha Nair,Data Science,Feature Engineering,1,Intermediate,23,8,72,60,12,Medium,Fast,Timeout Error
+Pooja Desai,Biology,Human Anatomy,1,Advanced,15,18,63,56,7,Medium,Fast,Calculation Error
+Vivaan Desai,Programming,Database Design,5,Expert,51,57,17,24,-7,Low,Average,Runtime Error
+Varun Mishra,Psychology,Mental Health,1,Intermediate,16,8,84,85,-1,High,Fast,Concept Misunderstanding
+Zara Patel,Biology,Genetics,1,Expert,18,8,50,45,5,Medium,Fast,No Error
+Amit Kumar,Chemistry,Equilibrium,1,Beginner,21,9,87,77,10,High,Fast,Data Formatting Error
+Neha Iyer,English,Literature Analysis,1,Intermediate,15,13,84,63,21,High,Fast,No Error
+Vivaan Nair,Biology,Reproduction,1,Beginner,42,135,95,73,22,Medium,Average,Logic Error
+Amit Desai,Biology,Microbiology,3,Expert,49,8,10,17,-7,Low,Average,Runtime Error
+Varun Patel,Chemistry,Bonding,1,Intermediate,46,30,78,65,13,Medium,Average,Calculation Error
+Sanjay Desai,English,Vocabulary,2,Intermediate,23,9,82,79,3,High,Fast,Calculation Error
+Amit Patel,Data Science,Data Cleaning,1,Intermediate,30,28,80,66,14,High,Fast,Runtime Error
+Rahul Das,Psychology,Abnormal Psychology,1,Advanced,30,11,64,56,8,Medium,Fast,Logic Error
+Neha Desai,Programming,Loops,1,Advanced,54,34,62,72,-10,Medium,Average,Timeout Error
+Isha Das,Biology,Respiration,1,Intermediate,25,8,70,68,2,Medium,Fast,No Error
+Neha Gupta,Psychology,Behavioral Studies,1,Beginner,49,63,87,70,17,Medium,Average,Missed Prerequisite
+Pooja Das,History,Civil Rights,1,Expert,28,13,54,49,5,Medium,Fast,Syntax Error
+Vikram Patel,Programming,Debugging,1,Intermediate,40,64,78,71,7,Medium,Average,Timeout Error
+Aryan Reddy,Biology,DNA and Proteins,4,Advanced,41,19,62,57,5,Medium,Average,No Error
+Neha Iyer,Chemistry,Acids and Bases,2,Expert,25,8,38,41,-3,Low,Fast,Calculation Error
+Aditya Kumar,Mathematics,Calculus I,2,Beginner,40,35,89,93,-4,High,Average,Concept Misunderstanding
+Arjun Reddy,English,Creative Writing,2,Intermediate,56,118,76,69,7,Medium,Average,Data Formatting Error
+Zara Chopra,Chemistry,Periodicity,1,Intermediate,22,12,84,88,-4,High,Fast,Runtime Error
+Ananya Iyer,Psychology,Perception,1,Intermediate,26,8,75,73,2,Medium,Fast,Logic Error
+Aarav Gupta,History,Renaissance,1,Advanced,27,19,66,48,18,Medium,Fast,Concept Misunderstanding
+Neha Verma,Programming,API Development,1,Advanced,27,16,68,82,-14,Medium,Fast,Calculation Error
+Neha Singh,History,Medieval Europe,3,Intermediate,49,60,76,56,20,Medium,Average,Missed Prerequisite
+Priya Mishra,Biology,Respiration,3,Intermediate,31,22,77,58,19,Medium,Average,Calculation Error
+Aryan Gupta,Economics,Consumer Behavior,1,Intermediate,41,32,80,62,18,High,Average,Timeout Error
+Aryan Kumar,Chemistry,Stoichiometry,1,Advanced,57,46,57,73,-16,Medium,Average,Runtime Error
+Aditya Kumar,Data Science,Statistical Analysis,1,Intermediate,40,43,70,74,-4,Medium,Average,Data Formatting Error
+Aryan Iyer,Programming,Loops,1,Intermediate,18,16,75,56,19,Medium,Fast,Missed Prerequisite
+Karan Bhat,Physics,Optics,3,Advanced,30,10,60,45,15,Medium,Average,Timeout Error
+Aditya Desai,Economics,Government Policy,1,Beginner,29,23,100,99,1,High,Fast,Runtime Error
+Varun Gupta,Economics,Macroeconomics,1,Intermediate,27,8,75,72,3,Medium,Fast,Missed Prerequisite
+Zara Desai,Programming,Web Development,1,Beginner,53,39,85,84,1,High,Average,Missed Prerequisite
+Vivaan Gupta,History,Cultural Movements,6,Expert,56,25,68,72,-4,Low,Average,Missed Prerequisite
+Ananya Reddy,English,Critical Thinking,1,Intermediate,19,8,76,83,-7,Medium,Fast,No Error
+Arjun Reddy,Biology,Genetics,1,Intermediate,15,14,77,69,8,Medium,Fast,Data Formatting Error
+Arjun Patel,Economics,International Trade,1,Intermediate,49,65,77,71,6,Medium,Average,Calculation Error
+Pooja Das,Economics,Government Policy,1,Expert,33,53,50,45,5,Medium,Average,Syntax Error
+Isha Iyer,Data Science,Data Visualization,1,Intermediate,23,8,73,50,23,Medium,Fast,No Error
+Isha Gupta,Mathematics,Geometry Fundamentals,1,Intermediate,60,48,75,69,6,Medium,Average,Runtime Error
+Ishaan Reddy,Chemistry,Stoichiometry,1,Advanced,52,115,56,45,11,Medium,Average,Syntax Error
+Rahul Sharma,Physics,Electricity,1,Beginner,22,8,94,91,3,High,Fast,Data Formatting Error
+Vikram Rao,Economics,Markets,1,Intermediate,41,30,82,85,-3,High,Average,Logic Error
+Aarav Iyer,Chemistry,Acids and Bases,2,Advanced,29,17,62,43,19,Medium,Fast,Logic Error
+Sarah Joshi,Economics,Markets,1,Beginner,49,87,89,80,9,Medium,Average,Calculation Error
+Sanjay Sharma,Chemistry,Thermochemistry,1,Advanced,51,43,62,84,-22,Medium,Average,Calculation Error
+Vikram Joshi,Economics,Macroeconomics,5,Expert,51,8,22,29,-7,Low,Average,Missed Prerequisite
+Nikhil Verma,Psychology,Mental Health,2,Intermediate,30,24,72,64,8,Medium,Fast,Runtime Error
+Rajesh Joshi,Psychology,Memory and Attention,1,Expert,46,57,41,64,-23,Medium,Average,Missed Prerequisite
+Neha Chopra,Psychology,Behavioral Studies,1,Expert,28,8,53,54,-1,Medium,Fast,Syntax Error
+Neha Singh,Mathematics,Geometry Fundamentals,3,Advanced,51,8,57,61,-4,Medium,Average,Missed Prerequisite
+Vikram Sharma,Psychology,Perception,1,Expert,36,113,51,61,-10,Medium,Average,Syntax Error
+Nikhil Rao,Psychology,Personality,1,Intermediate,15,20,77,62,15,Medium,Fast,Runtime Error
+Vikram Verma,Mathematics,Equations,1,Intermediate,50,139,81,73,8,Medium,Average,Algorithm Error
+Vivaan Gupta,Economics,Markets,1,Beginner,60,49,100,90,10,High,Average,Syntax Error
+Rohan Patel,Chemistry,Periodicity,1,Advanced,25,9,60,62,-2,Medium,Fast,Data Formatting Error
+Karan Bhat,English,Essay Writing,2,Intermediate,15,29,70,66,4,Medium,Fast,Concept Misunderstanding
+Vivaan Reddy,Mathematics,Calculus I,1,Advanced,26,8,56,60,-4,Medium,Fast,Missed Prerequisite
+Vivaan Das,History,American History,3,Advanced,57,13,56,56,0,Medium,Average,Missed Prerequisite
+Ananya Singh,Psychology,Mental Health,1,Beginner,16,19,100,89,11,High,Fast,Data Formatting Error
+Vivaan Kumar,Biology,Respiration,1,Beginner,25,8,86,76,10,High,Fast,Concept Misunderstanding
+Pooja Gupta,Data Science,Statistical Analysis,1,Advanced,51,150,65,77,-12,Medium,Average,Calculation Error
+Arjun Das,Programming,OOP Concepts,2,Expert,29,17,47,64,-17,Medium,Fast,Calculation Error
+Vikram Gupta,Programming,Functions,1,Expert,37,54,45,60,-15,Medium,Average,Syntax Error
+Neha Bhat,Data Science,Exploratory Data Analysis,1,Intermediate,49,37,75,57,18,Medium,Average,Concept Misunderstanding
+Vivaan Singh,English,Critical Thinking,1,Advanced,30,8,68,73,-5,Medium,Fast,Data Formatting Error
+Isha Mishra,Data Science,Statistical Analysis,1,Beginner,42,105,100,76,24,Medium,Average,Algorithm Error
+Diya Desai,Biology,Ecology,2,Advanced,17,25,61,42,19,Medium,Fast,Runtime Error
+Aditya Chopra,History,Cultural Movements,5,Expert,41,78,51,67,-16,Medium,Average,Missed Prerequisite
+Sanjay Singh,Chemistry,Periodicity,1,Expert,43,53,53,57,-4,Medium,Average,No Error
+Isha Joshi,English,Creative Writing,1,Beginner,60,31,88,75,13,High,Average,Timeout Error
+Rohan Kumar,Physics,Thermodynamics,1,Expert,30,8,35,42,-7,Low,Fast,Data Formatting Error
+Aryan Rao,Mathematics,Algebra Basics,3,Intermediate,51,58,87,68,19,Medium,Average,Algorithm Error
+Ananya Chopra,Psychology,Abnormal Psychology,1,Expert,57,51,48,56,-8,Medium,Average,Algorithm Error
+Amit Verma,Mathematics,Geometry Fundamentals,1,Intermediate,18,19,80,67,13,High,Fast,No Error
+Aryan Verma,Chemistry,Organic Chemistry,1,Advanced,27,8,64,61,3,Medium,Fast,Calculation Error
+Vikram Patel,Biology,Cells,1,Advanced,39,126,58,41,17,Medium,Average,Missed Prerequisite
+Ishaan Singh,Psychology,Human Motivation,1,Beginner,21,9,85,65,20,High,Fast,Timeout Error
+Sarah Das,Economics,Markets,3,Expert,52,47,33,29,4,Low,Average,Concept Misunderstanding
+Pooja Mishra,Economics,GDP,2,Advanced,19,13,68,70,-2,Medium,Fast,Logic Error
+Priya Bhat,Chemistry,Thermochemistry,4,Expert,57,16,43,65,-22,Medium,Average,Syntax Error
+Rohan Joshi,Programming,Data Structures,1,Intermediate,46,31,76,59,17,Medium,Average,Data Formatting Error
+Amit Joshi,English,Vocabulary,1,Intermediate,58,43,81,87,-6,High,Average,Calculation Error
+Sarah Gupta,Biology,Human Anatomy,1,Intermediate,48,106,84,60,24,Medium,Average,Missed Prerequisite
+Vikram Nair,Data Science,Pandas Tutorial,2,Advanced,16,12,69,69,0,Medium,Fast,Runtime Error
+Aryan Das,English,Creative Writing,1,Intermediate,19,25,84,74,10,High,Fast,Data Formatting Error
+Rahul Sharma,Mathematics,Calculus I,2,Intermediate,45,61,70,88,-18,Medium,Average,Data Formatting Error
+Ishaan Sharma,History,Cultural Movements,2,Intermediate,55,88,84,80,4,Medium,Average,Concept Misunderstanding
+Neha Kumar,Psychology,Human Motivation,2,Advanced,17,11,66,49,17,Medium,Fast,Timeout Error
+Varun Verma,Psychology,Learning Theories,6,Expert,39,14,63,69,-6,Low,Average,Logic Error
+Vikram Chopra,Psychology,Perception,1,Intermediate,56,45,74,79,-5,Medium,Average,Data Formatting Error
+Pooja Patel,Economics,Consumer Behavior,1,Beginner,29,16,85,85,0,High,Fast,Data Formatting Error
+Ananya Bhat,Psychology,Perception,1,Expert,20,16,52,52,0,Medium,Fast,Concept Misunderstanding
+Sanjay Verma,Mathematics,Trigonometry,3,Intermediate,58,42,74,71,3,Medium,Average,Data Formatting Error
+Aarav Verma,Programming,Database Design,1,Beginner,29,8,85,81,4,High,Fast,Calculation Error
+Aryan Das,Mathematics,Functions,2,Expert,18,8,42,60,-18,Medium,Fast,Runtime Error
+Priya Singh,Psychology,Memory and Attention,3,Advanced,45,8,56,42,14,Medium,Average,Syntax Error
+Isha Das,Mathematics,Functions,3,Intermediate,51,11,84,82,2,Medium,Average,Syntax Error
+Amit Mishra,Economics,Government Policy,1,Beginner,22,10,93,87,6,High,Fast,Data Formatting Error
+Aarav Kumar,English,Literature Analysis,1,Advanced,37,82,69,67,2,Medium,Average,Algorithm Error
+Akshay Mishra,Physics,Kinematics,1,Advanced,21,27,59,39,20,Medium,Fast,Concept Misunderstanding
+Ananya Desai,Programming,Loops,1,Advanced,35,33,65,80,-15,Medium,Average,Timeout Error
+Varun Sharma,Biology,DNA and Proteins,2,Advanced,17,8,66,42,24,Medium,Fast,Concept Misunderstanding
+Arjun Verma,Physics,Magnetism,1,Intermediate,33,40,72,62,10,Medium,Average,Missed Prerequisite
+Ananya Mishra,Psychology,Abnormal Psychology,1,Beginner,43,101,91,97,-6,Medium,Average,Data Formatting Error
+Akshay Joshi,Mathematics,Calculus I,1,Advanced,15,8,68,68,0,Medium,Fast,Logic Error
+Sarah Patel,Economics,International Trade,1,Intermediate,20,11,80,71,9,High,Fast,Syntax Error
+Karan Reddy,History,Cultural Movements,1,Intermediate,25,8,71,56,15,Medium,Fast,Calculation Error
+Sarah Reddy,Data Science,Feature Engineering,2,Expert,58,46,47,40,7,Medium,Average,Concept Misunderstanding
+Karan Iyer,Biology,Human Anatomy,1,Intermediate,27,17,73,52,21,Medium,Fast,Data Formatting Error
+Sanjay Mishra,Chemistry,Thermochemistry,1,Intermediate,23,10,78,70,8,Medium,Fast,Calculation Error
+Neha Chopra,Physics,Waves,1,Advanced,37,32,66,59,7,Medium,Average,Logic Error
+Varun Patel,Physics,Waves,1,Advanced,53,31,55,61,-6,Medium,Average,Syntax Error
+Amit Das,Physics,Optics,6,Expert,38,8,71,54,17,Low,Average,Logic Error
+Rajesh Mishra,Biology,Human Anatomy,1,Advanced,51,42,58,43,15,Medium,Average,No Error
+Sanjay Sharma,Chemistry,Equilibrium,3,Intermediate,45,31,74,75,-1,Medium,Average,Concept Misunderstanding
+Rahul Mishra,Economics,Financial Markets,1,Beginner,18,8,90,93,-3,High,Fast,Algorithm Error
+Diya Singh,English,Vocabulary,1,Expert,19,18,52,63,-11,Medium,Fast,Syntax Error
+Rohan Rao,Data Science,NumPy Essentials,5,Expert,59,20,77,65,12,Medium,Average,No Error
+Aarav Mishra,Programming,OOP Concepts,2,Intermediate,30,8,74,68,6,Medium,Fast,Calculation Error
+Zara Gupta,Chemistry,Periodicity,2,Intermediate,17,8,73,79,-6,Medium,Fast,Timeout Error
+Rajesh Desai,Economics,Markets,1,Beginner,25,10,100,100,0,High,Fast,Algorithm Error
+Arjun Kumar,Chemistry,Stoichiometry,1,Advanced,57,35,67,67,0,Medium,Average,Algorithm Error
+Isha Mishra,Psychology,Social Psychology,3,Expert,37,8,50,46,4,Medium,Average,Data Formatting Error
+Aryan Patel,Economics,Inflation,1,Intermediate,17,11,73,61,12,Medium,Fast,Algorithm Error
+Priya Chopra,Mathematics,Geometry Fundamentals,1,Advanced,50,46,66,65,1,Medium,Average,Timeout Error
+Aditya Joshi,History,Medieval Europe,3,Intermediate,81,105,73,75,-2,Medium,Slow,Calculation Error
+Nikhil Bhat,Data Science,Data Cleaning,1,Intermediate,42,94,82,61,21,Medium,Average,Concept Misunderstanding
+Neha Das,Data Science,Data Visualization,2,Advanced,59,47,63,60,3,Medium,Average,Concept Misunderstanding
+Rahul Das,History,American History,4,Advanced,52,16,76,91,-15,Medium,Average,Algorithm Error
+Arjun Kumar,Chemistry,Organic Chemistry,1,Intermediate,27,10,79,78,1,Medium,Fast,Runtime Error
+Diya Patel,Mathematics,Geometry Fundamentals,1,Expert,50,54,54,67,-13,Medium,Average,Missed Prerequisite
+Rahul Singh,Physics,Quantum Mechanics,1,Beginner,50,42,100,84,16,High,Average,Data Formatting Error
+Neha Sharma,Mathematics,Calculus I,1,Advanced,55,96,66,73,-7,Medium,Average,Timeout Error
+Sarah Reddy,Data Science,Data Cleaning,1,Intermediate,28,20,75,47,28,Medium,Fast,Logic Error
+Rahul Mishra,English,Punctuation,1,Advanced,22,8,67,81,-14,Medium,Fast,Calculation Error
+Sarah Das,Chemistry,Bonding,1,Intermediate,37,37,70,63,7,Medium,Average,Data Formatting Error
+Ananya Reddy,Psychology,Memory and Attention,1,Beginner,23,8,86,81,5,High,Fast,Algorithm Error
+Ishaan Reddy,Biology,Photosynthesis,2,Intermediate,33,58,70,59,11,Medium,Average,Timeout Error
+Rahul Patel,Economics,Consumer Behavior,1,Beginner,24,12,100,100,0,High,Fast,Calculation Error
+Neha Desai,Data Science,Model Evaluation,1,Intermediate,17,15,82,79,3,High,Fast,No Error
+Aryan Kumar,Physics,Dynamics,4,Expert,33,12,52,60,-8,Medium,Average,Logic Error
+Aarav Das,History,Industrial Revolution,1,Intermediate,17,15,71,57,14,Medium,Fast,Runtime Error
+Vivaan Singh,Mathematics,Trigonometry,1,Intermediate,25,28,80,68,12,High,Fast,Missed Prerequisite
+Ananya Iyer,Psychology,Social Psychology,3,Intermediate,53,39,72,76,-4,Medium,Average,Missed Prerequisite
+Vivaan Kumar,English,Sentence Structure,1,Intermediate,21,20,82,64,18,High,Fast,Logic Error
+Amit Das,Programming,Database Design,2,Advanced,18,8,68,61,7,Medium,Fast,Logic Error
+Aarav Das,Data Science,Machine Learning,1,Beginner,26,8,89,90,-1,High,Fast,Syntax Error
+Karan Verma,Physics,Kinematics,1,Advanced,19,25,64,45,19,Medium,Fast,Missed Prerequisite
+Ananya Verma,Physics,Optics,1,Beginner,25,8,100,96,4,High,Fast,Runtime Error
+Rahul Das,Biology,Photosynthesis,1,Expert,27,9,54,52,2,Medium,Fast,No Error
+Priya Mishra,Psychology,Behavioral Studies,5,Expert,48,8,75,87,-12,Medium,Average,Timeout Error
+Neha Kumar,Biology,Ecology,1,Beginner,15,18,100,95,5,High,Fast,No Error
+Priya Reddy,Programming,API Development,1,Expert,39,42,35,40,-5,Low,Average,Logic Error
+Arjun Rao,English,Creative Writing,1,Advanced,31,71,59,57,2,Medium,Average,Calculation Error
+Ishaan Sharma,Chemistry,Reactions,1,Advanced,48,32,61,53,8,Medium,Average,Data Formatting Error
+Vikram Kumar,Chemistry,Organic Chemistry,1,Beginner,47,41,87,76,11,High,Average,Missed Prerequisite
+Rahul Bhat,Physics,Energy and Work,1,Intermediate,21,8,70,66,4,Medium,Fast,Algorithm Error
+Sanjay Mishra,History,Global Events,1,Beginner,57,55,100,80,20,High,Average,Data Formatting Error
+Priya Reddy,Economics,GDP,2,Intermediate,42,34,79,88,-9,Medium,Average,Data Formatting Error
+Aryan Das,Physics,Thermodynamics,3,Advanced,43,63,64,75,-11,Medium,Average,Missed Prerequisite
+Rajesh Nair,Psychology,Cognitive Development,2,Advanced,25,14,55,49,6,Medium,Fast,Concept Misunderstanding
+Arjun Singh,Economics,International Trade,3,Expert,54,67,50,54,-4,Medium,Average,Algorithm Error
+Isha Mishra,Psychology,Cognitive Development,2,Intermediate,26,17,74,71,3,Medium,Fast,No Error
+Sanjay Iyer,Economics,Consumer Behavior,3,Intermediate,55,8,80,49,31,Medium,Average,Missed Prerequisite
+Vivaan Reddy,Economics,Macroeconomics,1,Advanced,51,120,65,64,1,Medium,Average,No Error
+Aarav Joshi,Economics,GDP,2,Expert,19,16,46,58,-12,Medium,Fast,No Error
+Akshay Patel,Physics,Modern Physics,1,Advanced,22,8,65,59,6,Medium,Fast,Missed Prerequisite
+Ishaan Desai,Economics,GDP,1,Beginner,18,16,88,92,-4,High,Fast,Runtime Error
+Vivaan Singh,History,Modern World Wars,1,Intermediate,42,43,84,64,20,High,Average,Runtime Error
+Pooja Desai,History,Global Events,1,Intermediate,15,23,83,81,2,High,Fast,Data Formatting Error
+Arjun Iyer,History,Industrial Revolution,1,Intermediate,29,27,81,87,-6,High,Fast,Runtime Error
+Vikram Bhat,English,Essay Writing,2,Intermediate,40,53,76,82,-6,Medium,Average,No Error
+Isha Mishra,Physics,Modern Physics,2,Beginner,19,8,96,94,2,High,Fast,No Error
+Rahul Singh,English,Vocabulary,1,Intermediate,24,8,79,75,4,Medium,Fast,Runtime Error
+Neha Reddy,Economics,Supply and Demand,2,Beginner,56,83,100,100,0,Medium,Average,Data Formatting Error
+Aditya Iyer,Programming,API Development,1,Advanced,37,76,59,60,-1,Medium,Average,Data Formatting Error
+Ishaan Iyer,English,Literature Analysis,2,Advanced,30,22,62,51,11,Medium,Fast,Logic Error
+Isha Iyer,English,Vocabulary,1,Advanced,29,13,69,49,20,Medium,Fast,Timeout Error
+Sarah Nair,English,Punctuation,1,Advanced,34,83,61,76,-15,Medium,Average,No Error
+Nikhil Reddy,English,Sentence Structure,1,Advanced,49,60,65,72,-7,Medium,Average,No Error
+Vikram Rao,Economics,Macroeconomics,1,Intermediate,39,41,77,74,3,Medium,Average,Syntax Error
+Diya Desai,Biology,Genetics,1,Intermediate,19,13,83,65,18,High,Fast,Runtime Error
+Arjun Mishra,Economics,Financial Markets,1,Beginner,16,8,87,66,21,High,Fast,Data Formatting Error
+Ananya Iyer,Physics,Kinematics,2,Advanced,49,59,64,67,-3,Medium,Average,Calculation Error
+Sarah Sharma,Chemistry,Periodicity,2,Advanced,25,8,59,32,27,Medium,Fast,Logic Error
+Aditya Joshi,Economics,Financial Markets,1,Intermediate,24,8,80,56,24,High,Fast,Algorithm Error
+Ishaan Bhat,Physics,Thermodynamics,1,Beginner,18,8,85,73,12,High,Fast,Missed Prerequisite
+Sarah Iyer,Data Science,NumPy Essentials,1,Intermediate,38,76,80,75,5,Medium,Average,Logic Error
+Arjun Das,Programming,Python Basics,1,Beginner,30,10,86,84,2,High,Fast,Logic Error
+Diya Reddy,English,Critical Thinking,8,Expert,50,68,34,36,-2,Low,Average,Calculation Error
+Amit Kumar,Mathematics,Linear Algebra,1,Intermediate,21,8,80,86,-6,High,Fast,Algorithm Error
+Zara Kumar,Programming,Debugging,1,Intermediate,30,13,84,89,-5,High,Fast,Concept Misunderstanding
+Ananya Singh,Psychology,Behavioral Studies,1,Intermediate,39,50,80,82,-2,High,Average,Syntax Error
+Isha Iyer,Mathematics,Fractions,1,Intermediate,27,29,78,80,-2,Medium,Fast,Data Formatting Error
+Zara Chopra,Economics,Inflation,8,Expert,31,30,47,70,-23,Low,Average,Runtime Error
+Nikhil Nair,Mathematics,Calculus I,1,Intermediate,55,43,82,60,22,High,Average,Logic Error
+Sanjay Gupta,Chemistry,Acids and Bases,4,Advanced,81,92,62,33,29,Medium,Slow,Calculation Error
+Sarah Desai,Psychology,Learning Theories,8,Expert,34,8,67,74,-7,Low,Average,Concept Misunderstanding
+Aditya Mishra,Biology,Ecology,1,Beginner,56,31,100,86,14,High,Average,Calculation Error
+Rahul Chopra,Data Science,Model Evaluation,1,Beginner,52,39,100,92,8,High,Average,Concept Misunderstanding
+Pooja Mishra,Chemistry,Equilibrium,1,Advanced,36,41,63,54,9,Medium,Average,Concept Misunderstanding
+Sanjay Nair,Psychology,Mental Health,1,Intermediate,57,35,83,66,17,High,Average,No Error
+Arjun Singh,English,Creative Writing,1,Advanced,22,21,69,70,-1,Medium,Fast,Syntax Error
+Varun Joshi,Biology,DNA and Proteins,2,Beginner,16,8,98,98,0,High,Fast,Runtime Error
+Ishaan Iyer,Biology,DNA and Proteins,2,Intermediate,59,63,75,72,3,Medium,Average,Runtime Error
+Ananya Kumar,Chemistry,Atomic Structure,1,Intermediate,20,23,78,58,20,Medium,Fast,Algorithm Error
+Neha Gupta,Economics,GDP,4,Advanced,57,11,90,97,-7,Medium,Average,Missed Prerequisite
+Isha Desai,Physics,Waves,1,Intermediate,30,15,73,64,9,Medium,Fast,Syntax Error
+Aditya Kumar,Data Science,Feature Engineering,1,Advanced,27,8,58,62,-4,Medium,Fast,Concept Misunderstanding
+Akshay Desai,Economics,Financial Markets,3,Intermediate,39,69,76,59,17,Medium,Average,Concept Misunderstanding
+Ananya Joshi,Economics,Consumer Behavior,2,Intermediate,20,11,78,78,0,Medium,Fast,Timeout Error
+Karan Patel,Physics,Waves,1,Advanced,30,126,67,61,6,Medium,Average,Runtime Error
+Aditya Verma,Programming,API Development,3,Advanced,95,129,61,49,12,Medium,Slow,No Error
+Rohan Sharma,Programming,Git Version Control,1,Intermediate,27,8,72,50,22,Medium,Fast,Syntax Error
+Rohan Reddy,Physics,Kinematics,1,Intermediate,25,10,71,65,6,Medium,Fast,Logic Error
+Neha Das,Psychology,Memory and Attention,2,Intermediate,43,126,74,76,-2,Medium,Average,Data Formatting Error
+Zara Iyer,Programming,Loops,2,Advanced,30,11,56,40,16,Medium,Fast,Calculation Error
+Rahul Verma,Psychology,Human Motivation,1,Advanced,26,9,63,44,19,Medium,Fast,Logic Error
+Akshay Mishra,Physics,Electricity,1,Intermediate,54,39,83,69,14,High,Average,Syntax Error
+Isha Das,Mathematics,Linear Algebra,1,Intermediate,27,8,74,60,14,Medium,Fast,Missed Prerequisite
+Pooja Bhat,Programming,API Development,1,Advanced,27,12,69,69,0,Medium,Fast,No Error
+Aditya Sharma,Psychology,Social Psychology,1,Intermediate,32,30,80,61,19,High,Average,Algorithm Error
+Vikram Desai,Physics,Quantum Mechanics,1,Intermediate,24,11,73,60,13,Medium,Fast,Concept Misunderstanding
+Rohan Das,Chemistry,Atomic Structure,3,Advanced,39,12,62,51,11,Medium,Average,Algorithm Error
+Vivaan Bhat,Biology,Photosynthesis,2,Beginner,21,21,100,100,0,High,Fast,No Error
+Sanjay Patel,Economics,GDP,3,Intermediate,52,52,72,45,27,Medium,Average,Calculation Error
+Aarav Bhat,History,Civil Rights,8,Expert,57,64,49,64,-15,Low,Average,Missed Prerequisite
+Ishaan Das,Biology,Respiration,1,Intermediate,27,8,74,91,-17,Medium,Fast,No Error
+Aarav Nair,Psychology,Social Psychology,3,Intermediate,33,23,82,70,12,Medium,Average,Algorithm Error
+Pooja Desai,Mathematics,Statistics,1,Beginner,19,18,98,87,11,High,Fast,Runtime Error
+Karan Mishra,Psychology,Memory and Attention,1,Beginner,25,8,100,100,0,High,Fast,Runtime Error
+Aryan Desai,Chemistry,Stoichiometry,1,Intermediate,16,23,79,55,24,Medium,Fast,Data Formatting Error
+Zara Desai,Physics,Magnetism,1,Intermediate,24,16,78,59,19,Medium,Fast,No Error
+Pooja Verma,Physics,Optics,1,Advanced,29,8,65,55,10,Medium,Fast,No Error
+Akshay Gupta,Biology,Photosynthesis,1,Advanced,50,61,58,57,1,Medium,Average,No Error
+Sarah Reddy,History,American History,2,Advanced,20,16,64,58,6,Medium,Fast,Runtime Error
+Rahul Desai,Biology,Evolution,3,Advanced,48,28,55,57,-2,Medium,Average,Calculation Error
+Diya Chopra,Economics,GDP,1,Intermediate,34,39,81,69,12,High,Average,Logic Error
+Rohan Das,Economics,Supply and Demand,1,Intermediate,29,10,83,87,-4,High,Fast,Algorithm Error
+Akshay Reddy,Programming,Python Basics,1,Expert,52,48,43,40,3,Medium,Average,Algorithm Error
+Rohan Sharma,English,Literature Analysis,1,Advanced,30,8,60,48,12,Medium,Fast,Missed Prerequisite
+Aditya Sharma,Physics,Dynamics,4,Expert,39,9,10,5,5,Low,Average,Missed Prerequisite
+Rohan Joshi,Mathematics,Linear Algebra,1,Expert,58,50,33,32,1,Low,Average,Timeout Error
+Akshay Chopra,Biology,Cells,8,Expert,34,31,44,65,-21,Low,Average,Missed Prerequisite
+Rohan Singh,Psychology,Abnormal Psychology,1,Intermediate,36,61,77,47,30,Medium,Average,Calculation Error
+Rohan Chopra,Mathematics,Algebra Basics,4,Advanced,36,33,65,100,-35,Medium,Average,Data Formatting Error
+Neha Chopra,English,Grammar,1,Expert,21,8,43,68,-25,Medium,Fast,Syntax Error
+Vikram Gupta,Chemistry,Solutions,1,Intermediate,53,63,74,65,9,Medium,Average,No Error
+Neha Chopra,Mathematics,Polynomials,1,Advanced,15,9,66,66,0,Medium,Fast,Concept Misunderstanding
+Sanjay Iyer,English,Literature Analysis,1,Advanced,41,32,68,51,17,Medium,Average,Logic Error
+Zara Bhat,Programming,Git Version Control,1,Advanced,53,56,66,67,-1,Medium,Average,Runtime Error
+Nikhil Gupta,Physics,Modern Physics,1,Beginner,57,51,85,95,-10,High,Average,Syntax Error
+Pooja Sharma,Biology,Photosynthesis,1,Intermediate,48,92,76,80,-4,Medium,Average,Algorithm Error
+Rajesh Joshi,Programming,OOP Concepts,1,Intermediate,33,52,72,68,4,Medium,Average,Concept Misunderstanding
+Varun Nair,History,Global Events,1,Intermediate,51,113,73,72,1,Medium,Average,Data Formatting Error
+Aryan Rao,Physics,Waves,2,Beginner,55,33,88,75,13,High,Average,Logic Error
+Pooja Bhat,Programming,Python Basics,3,Expert,114,102,48,64,-16,Medium,Slow,Data Formatting Error
+Vivaan Patel,English,Sentence Structure,5,Expert,34,11,72,86,-14,Medium,Average,Logic Error
+Rajesh Joshi,Mathematics,Algebra Basics,1,Advanced,42,150,65,59,6,Medium,Average,Timeout Error
+Aryan Bhat,Programming,API Development,1,Beginner,28,20,89,76,13,High,Fast,Algorithm Error
+Ishaan Joshi,Biology,Microbiology,1,Intermediate,51,95,84,74,10,Medium,Average,Data Formatting Error
+Aryan Singh,Programming,Git Version Control,1,Intermediate,20,8,79,59,20,Medium,Fast,Algorithm Error
+Rohan Rao,Physics,Thermodynamics,6,Expert,59,8,56,17,39,Low,Average,Syntax Error
+Neha Singh,Psychology,Abnormal Psychology,1,Beginner,16,9,93,92,1,High,Fast,Algorithm Error
+Amit Singh,Programming,Functions,1,Advanced,33,49,60,77,-17,Medium,Average,Data Formatting Error
+Nikhil Joshi,Psychology,Behavioral Studies,3,Intermediate,41,18,85,65,20,Medium,Average,Timeout Error
+Karan Singh,Biology,Cells,1,Advanced,30,11,67,51,16,Medium,Fast,No Error
+Akshay Das,Psychology,Mental Health,3,Intermediate,35,19,71,61,10,Medium,Average,Data Formatting Error
+Vikram Patel,English,Writing Skills,1,Expert,16,26,46,50,-4,Medium,Fast,Syntax Error
+Ananya Sharma,Psychology,Social Psychology,1,Beginner,33,31,88,81,7,High,Average,Logic Error
+Sarah Iyer,English,Creative Writing,2,Intermediate,25,14,83,76,7,High,Fast,Data Formatting Error
+Amit Joshi,Data Science,Exploratory Data Analysis,1,Beginner,48,60,85,79,6,Medium,Average,Runtime Error
+Rajesh Mishra,Biology,Cells,1,Intermediate,28,17,73,71,2,Medium,Fast,Syntax Error
+Pooja Bhat,Physics,Dynamics,1,Beginner,34,30,97,95,2,High,Average,Concept Misunderstanding
+Isha Das,Psychology,Memory and Attention,1,Advanced,27,8,60,57,3,Medium,Fast,Timeout Error
+Arjun Patel,Biology,Cells,1,Intermediate,22,8,80,70,10,High,Fast,Timeout Error
+Aryan Das,History,American History,7,Expert,31,59,16,10,6,Low,Average,Algorithm Error
+Varun Rao,Economics,Financial Markets,1,Advanced,18,8,68,87,-19,Medium,Fast,No Error
+Vivaan Joshi,Psychology,Personality,1,Intermediate,22,8,82,58,24,High,Fast,Logic Error
+Rajesh Gupta,Psychology,Perception,3,Advanced,42,15,63,75,-12,Medium,Average,Data Formatting Error
+Rajesh Patel,Programming,Web Development,1,Advanced,30,15,66,75,-9,Medium,Fast,Algorithm Error
+Akshay Das,English,Literature Analysis,1,Expert,24,8,52,23,29,Medium,Fast,Calculation Error
+Varun Sharma,Biology,Respiration,1,Beginner,52,64,93,80,13,Medium,Average,Missed Prerequisite
+Isha Joshi,Mathematics,Statistics,1,Expert,49,60,46,46,0,Medium,Average,Algorithm Error
+Aditya Reddy,Chemistry,Reactions,1,Intermediate,60,94,77,73,4,Medium,Average,Syntax Error
+Amit Singh,Data Science,Data Visualization,1,Expert,20,26,37,34,3,Low,Fast,No Error
+Priya Rao,Economics,Consumer Behavior,1,Intermediate,27,8,75,71,4,Medium,Fast,Syntax Error
+Rohan Rao,Mathematics,Geometry Fundamentals,1,Advanced,54,43,60,54,6,Medium,Average,Calculation Error
+Priya Rao,Programming,Debugging,5,Expert,52,33,43,50,-7,Medium,Average,Missed Prerequisite
+Aarav Kumar,Biology,DNA and Proteins,1,Beginner,17,15,92,80,12,High,Fast,Runtime Error
+Vikram Gupta,English,Sentence Structure,1,Expert,54,58,54,50,4,Medium,Average,Missed Prerequisite
+Rajesh Reddy,Economics,Inflation,1,Beginner,29,8,100,83,17,High,Fast,Syntax Error
+Akshay Iyer,Data Science,Data Visualization,1,Advanced,57,37,56,48,8,Medium,Average,Data Formatting Error
+Diya Gupta,Chemistry,Equilibrium,3,Advanced,56,8,63,53,10,Medium,Average,Calculation Error
+Priya Nair,Data Science,Exploratory Data Analysis,3,Expert,50,8,37,45,-8,Low,Average,Missed Prerequisite
+Sarah Gupta,Chemistry,Atomic Structure,2,Intermediate,27,24,78,76,2,Medium,Fast,Concept Misunderstanding
+Amit Patel,Programming,OOP Concepts,1,Intermediate,38,34,78,86,-8,Medium,Average,Logic Error
+Ananya Singh,Physics,Optics,1,Beginner,50,39,86,83,3,High,Average,Logic Error
+Rohan Reddy,Physics,Optics,3,Intermediate,50,8,86,79,7,Medium,Average,Logic Error
+Sarah Chopra,Chemistry,Bonding,1,Intermediate,29,19,72,72,0,Medium,Fast,Data Formatting Error
+Zara Nair,Biology,Microbiology,1,Expert,41,65,45,51,-6,Medium,Average,Runtime Error
+Akshay Iyer,Biology,Reproduction,1,Intermediate,15,29,73,75,-2,Medium,Fast,Concept Misunderstanding
+Varun Gupta,Psychology,Mental Health,1,Beginner,33,45,90,87,3,High,Average,Runtime Error
+Rahul Bhat,Psychology,Social Psychology,1,Advanced,33,102,64,71,-7,Medium,Average,Runtime Error
+Vivaan Rao,Data Science,Data Visualization,1,Beginner,32,150,99,100,-1,Medium,Average,Concept Misunderstanding
+Ishaan Patel,Chemistry,Periodicity,1,Advanced,33,40,55,58,-3,Medium,Average,Logic Error
+Arjun Iyer,Physics,Electricity,1,Advanced,30,12,57,50,7,Medium,Fast,Runtime Error
+Zara Joshi,English,Vocabulary,1,Intermediate,22,8,80,74,6,High,Fast,Concept Misunderstanding
+Isha Joshi,Psychology,Social Psychology,1,Beginner,15,8,90,98,-8,High,Fast,Missed Prerequisite
+Varun Nair,Economics,Macroeconomics,1,Intermediate,30,8,82,70,12,High,Fast,Runtime Error
+Zara Desai,Economics,Supply and Demand,1,Expert,38,91,46,66,-20,Medium,Average,Syntax Error
+Sarah Rao,History,Renaissance,1,Intermediate,18,8,73,69,4,Medium,Fast,Algorithm Error
+Rohan Chopra,Chemistry,Reactions,1,Intermediate,55,31,75,71,4,Medium,Average,Calculation Error
+Aarav Das,English,Punctuation,2,Intermediate,20,11,82,71,11,High,Fast,Runtime Error
+Neha Desai,Chemistry,Acids and Bases,1,Intermediate,27,16,73,62,11,Medium,Fast,Syntax Error
+Akshay Mishra,Data Science,Data Visualization,2,Advanced,45,62,64,52,12,Medium,Average,Syntax Error
+Amit Patel,Programming,API Development,4,Expert,50,59,52,46,6,Medium,Average,Concept Misunderstanding
+Ishaan Bhat,History,Global Events,3,Expert,52,14,12,12,0,Low,Average,Missed Prerequisite
+Pooja Rao,Economics,Financial Markets,1,Advanced,28,14,56,54,2,Medium,Fast,Logic Error
+Ananya Rao,Biology,Human Anatomy,2,Advanced,24,29,65,67,-2,Medium,Fast,Calculation Error
+Priya Kumar,Programming,Web Development,1,Advanced,19,8,57,32,25,Medium,Fast,Runtime Error
+Priya Desai,Biology,Evolution,1,Intermediate,33,39,73,65,8,Medium,Average,Missed Prerequisite
+Neha Nair,Mathematics,Functions,1,Advanced,40,41,55,61,-6,Medium,Average,Calculation Error
+Varun Verma,English,Vocabulary,4,Expert,32,76,34,29,5,Low,Average,Concept Misunderstanding
+Amit Mishra,English,Writing Skills,1,Beginner,20,18,89,86,3,High,Fast,Missed Prerequisite
+Akshay Gupta,Chemistry,Acids and Bases,3,Expert,42,39,45,46,-1,Medium,Average,Logic Error
+Ananya Sharma,Economics,Consumer Behavior,1,Advanced,56,46,57,64,-7,Medium,Average,Syntax Error
+Akshay Sharma,Psychology,Social Psychology,8,Expert,52,8,72,90,-18,Low,Average,Timeout Error
+Aditya Sharma,English,Punctuation,1,Beginner,30,70,100,85,15,Medium,Average,Timeout Error
+Pooja Kumar,Psychology,Human Motivation,1,Beginner,27,18,85,58,27,High,Fast,Algorithm Error
+Amit Kumar,Mathematics,Equations,1,Intermediate,47,66,77,73,4,Medium,Average,Algorithm Error
+Akshay Iyer,English,Writing Skills,1,Advanced,56,60,60,48,12,Medium,Average,Timeout Error
+Diya Nair,Data Science,Statistical Analysis,1,Beginner,47,50,88,84,4,High,Average,No Error
+Varun Das,History,Renaissance,2,Beginner,30,13,100,100,0,High,Fast,Data Formatting Error
+Priya Verma,Biology,Reproduction,1,Expert,32,40,50,48,2,Medium,Average,Data Formatting Error
+Vivaan Sharma,History,Civil Rights,1,Advanced,46,51,59,65,-6,Medium,Average,Missed Prerequisite
+Vikram Singh,Mathematics,Geometry Fundamentals,2,Intermediate,56,34,79,61,18,Medium,Average,Logic Error
+Vivaan Verma,Biology,Genetics,1,Advanced,48,66,62,73,-11,Medium,Average,Concept Misunderstanding
+Vikram Kumar,Data Science,Pandas Tutorial,4,Expert,47,22,46,26,20,Medium,Average,Syntax Error
+Aryan Kumar,Economics,Macroeconomics,1,Advanced,18,8,58,77,-19,Medium,Fast,Calculation Error
+Aditya Reddy,English,Punctuation,1,Beginner,21,27,90,69,21,High,Fast,No Error
+Zara Gupta,English,Literature Analysis,1,Intermediate,60,117,77,78,-1,Medium,Average,Data Formatting Error
+Ishaan Gupta,English,Sentence Structure,1,Expert,18,29,49,66,-17,Medium,Fast,Missed Prerequisite
+Priya Das,Psychology,Social Psychology,1,Intermediate,35,87,81,65,16,Medium,Average,Logic Error
+Neha Singh,English,Sentence Structure,1,Intermediate,20,12,84,78,6,High,Fast,No Error
+Karan Iyer,Physics,Thermodynamics,2,Intermediate,30,54,80,73,7,High,Average,Syntax Error
+Priya Chopra,Programming,Debugging,1,Advanced,29,12,61,49,12,Medium,Fast,Missed Prerequisite
+Aryan Mishra,Economics,Macroeconomics,1,Intermediate,55,37,71,68,3,Medium,Average,Timeout Error
+Priya Gupta,Physics,Optics,1,Intermediate,40,45,84,95,-11,High,Average,Syntax Error
+Aditya Rao,History,Cultural Movements,1,Intermediate,18,14,78,76,2,Medium,Fast,Concept Misunderstanding
+Vivaan Desai,Biology,Microbiology,1,Beginner,16,8,88,87,1,High,Fast,Data Formatting Error
+Zara Mishra,English,Critical Thinking,1,Advanced,19,8,61,74,-13,Medium,Fast,Algorithm Error
+Vivaan Rao,Biology,Reproduction,1,Beginner,21,10,92,85,7,High,Fast,Logic Error
+Priya Gupta,Chemistry,Thermochemistry,1,Advanced,50,110,62,59,3,Medium,Average,Timeout Error
+Neha Singh,Data Science,Statistical Analysis,1,Expert,20,27,51,74,-23,Medium,Fast,Data Formatting Error
+Sarah Verma,Chemistry,Reactions,1,Advanced,17,9,65,58,7,Medium,Fast,Runtime Error
+Vikram Desai,Data Science,Model Evaluation,7,Expert,47,8,83,50,33,Low,Average,Concept Misunderstanding
+Arjun Joshi,Psychology,Mental Health,8,Expert,38,72,80,75,5,Low,Average,Algorithm Error
+Ishaan Reddy,English,Literature Analysis,1,Beginner,16,13,100,82,18,High,Fast,Missed Prerequisite
+Sanjay Chopra,Economics,Macroeconomics,1,Intermediate,32,40,80,62,18,High,Average,No Error
+Rahul Kumar,History,Industrial Revolution,1,Beginner,18,8,91,93,-2,High,Fast,Logic Error
+Neha Rao,Biology,Reproduction,3,Intermediate,46,49,96,87,9,Medium,Average,Data Formatting Error
+Ishaan Patel,Biology,Cells,1,Beginner,39,33,100,81,19,High,Average,Timeout Error
+Aditya Singh,Physics,Magnetism,1,Intermediate,41,66,74,59,15,Medium,Average,Runtime Error
+Rajesh Rao,Economics,GDP,1,Intermediate,60,30,77,59,18,Medium,Average,Calculation Error
+Neha Sharma,History,Asian History,1,Beginner,20,27,91,87,4,High,Fast,Data Formatting Error
+Sarah Reddy,History,American History,1,Advanced,28,8,58,65,-7,Medium,Fast,Runtime Error
+Karan Sharma,Psychology,Behavioral Studies,1,Beginner,15,12,98,95,3,High,Fast,Timeout Error
+Vivaan Desai,Physics,Waves,1,Expert,22,15,54,57,-3,Medium,Fast,Data Formatting Error
+Priya Reddy,Physics,Quantum Mechanics,1,Beginner,39,42,85,74,11,High,Average,Missed Prerequisite
+Aryan Mishra,History,Global Events,1,Advanced,16,8,59,70,-11,Medium,Fast,Data Formatting Error
+Zara Sharma,History,Cultural Movements,1,Intermediate,60,39,70,86,-16,Medium,Average,No Error
+Amit Joshi,Psychology,Cognitive Development,4,Expert,60,18,44,44,0,Medium,Average,Syntax Error
+Sarah Chopra,Economics,International Trade,6,Expert,46,30,43,46,-3,Low,Average,Syntax Error
+Zara Singh,Mathematics,Equations,1,Intermediate,24,14,81,63,18,High,Fast,No Error
+Sanjay Nair,English,Writing Skills,1,Advanced,51,150,57,33,24,Medium,Average,Algorithm Error
+Aarav Desai,Physics,Waves,3,Expert,47,8,32,20,12,Low,Average,Concept Misunderstanding
+Aryan Joshi,Mathematics,Equations,1,Advanced,44,37,67,66,1,Medium,Average,Runtime Error
+Ishaan Bhat,Programming,API Development,5,Expert,34,58,63,61,2,Medium,Average,Syntax Error
+Ananya Das,Programming,Loops,1,Beginner,30,8,96,100,-4,High,Fast,Syntax Error
+Zara Patel,Psychology,Learning Theories,1,Intermediate,25,17,70,55,15,Medium,Fast,No Error
+Karan Singh,Psychology,Personality,2,Beginner,26,8,100,100,0,High,Fast,Concept Misunderstanding
+Diya Mishra,Data Science,Pandas Tutorial,1,Beginner,49,71,91,77,14,Medium,Average,Algorithm Error
+Aditya Iyer,Mathematics,Functions,1,Beginner,21,27,87,80,7,High,Fast,Concept Misunderstanding
+Isha Verma,Chemistry,Thermochemistry,1,Intermediate,18,17,73,69,4,Medium,Fast,Missed Prerequisite
+Arjun Patel,Biology,Photosynthesis,1,Intermediate,16,19,82,88,-6,High,Fast,Calculation Error
+Zara Verma,Chemistry,Solutions,1,Beginner,37,61,100,87,13,Medium,Average,Timeout Error
+Isha Desai,Programming,Data Structures,2,Intermediate,31,61,77,68,9,Medium,Average,Algorithm Error
+Ishaan Bhat,English,Grammar,3,Intermediate,36,8,72,38,34,Medium,Average,Data Formatting Error
+Sarah Singh,Data Science,Machine Learning,4,Expert,34,30,50,79,-29,Medium,Average,Concept Misunderstanding
+Karan Iyer,Biology,Ecology,5,Expert,39,58,41,41,0,Medium,Average,Syntax Error
+Varun Verma,English,Punctuation,1,Advanced,21,20,66,61,5,Medium,Fast,Runtime Error
+Rohan Patel,Chemistry,Atomic Structure,4,Expert,60,32,29,27,2,Low,Average,Data Formatting Error
+Rahul Sharma,Programming,Web Development,1,Intermediate,19,20,81,77,4,High,Fast,Algorithm Error
+Varun Nair,Chemistry,Organic Chemistry,1,Intermediate,49,31,78,83,-5,Medium,Average,Logic Error
+Sarah Desai,History,Civil Rights,1,Intermediate,47,61,81,86,-5,Medium,Average,Concept Misunderstanding
+Aditya Das,Programming,API Development,5,Expert,36,18,100,100,0,Medium,Average,Logic Error
+Sarah Iyer,Biology,Genetics,1,Advanced,26,8,55,55,0,Medium,Fast,Missed Prerequisite
+Aarav Patel,English,Reading Comprehension,1,Intermediate,23,8,77,84,-7,Medium,Fast,Logic Error
+Ananya Patel,Physics,Optics,1,Intermediate,19,9,73,60,13,Medium,Fast,Runtime Error
+Ananya Patel,Chemistry,Organic Chemistry,1,Advanced,28,8,67,48,19,Medium,Fast,Data Formatting Error
+Zara Kumar,Data Science,Deep Learning,1,Expert,17,8,31,60,-29,Low,Fast,Concept Misunderstanding
+Rahul Iyer,Biology,Cells,3,Advanced,47,16,65,47,18,Medium,Average,Missed Prerequisite
+Akshay Reddy,History,Ancient Rome,1,Beginner,23,8,100,100,0,High,Fast,Timeout Error
+Varun Nair,Data Science,Feature Engineering,1,Intermediate,38,73,77,55,22,Medium,Average,Algorithm Error
+Aditya Patel,English,Reading Comprehension,1,Advanced,42,36,68,62,6,Medium,Average,Data Formatting Error
+Varun Reddy,Data Science,NumPy Essentials,1,Intermediate,20,8,75,56,19,Medium,Fast,Calculation Error
+Sarah Sharma,Chemistry,Reactions,1,Beginner,27,9,89,59,30,High,Fast,Calculation Error
+Sarah Patel,Chemistry,Reactions,1,Beginner,29,8,92,97,-5,High,Fast,Concept Misunderstanding
+Nikhil Reddy,Data Science,Data Cleaning,1,Advanced,17,18,69,65,4,Medium,Fast,No Error
+Aarav Gupta,Chemistry,Acids and Bases,1,Beginner,23,14,97,95,2,High,Fast,Concept Misunderstanding
+Karan Patel,Programming,Web Development,1,Intermediate,28,13,70,64,6,Medium,Fast,Timeout Error
+Isha Kumar,History,Medieval Europe,2,Intermediate,19,8,82,93,-11,High,Fast,Calculation Error
+Neha Gupta,Physics,Quantum Mechanics,4,Expert,47,22,51,51,0,Medium,Average,Calculation Error
+Rajesh Singh,Mathematics,Algebra Basics,2,Intermediate,21,15,75,67,8,Medium,Fast,Timeout Error
+Ishaan Kumar,Programming,Database Design,1,Intermediate,17,8,79,70,9,Medium,Fast,No Error
+Sarah Nair,History,Medieval Europe,2,Beginner,23,8,93,76,17,High,Fast,Algorithm Error
+Aditya Verma,Programming,Web Development,1,Intermediate,21,19,81,77,4,High,Fast,Calculation Error
+Pooja Mishra,Biology,Photosynthesis,1,Advanced,52,70,63,65,-2,Medium,Average,Syntax Error
+Varun Desai,Data Science,Machine Learning,1,Intermediate,26,18,82,49,33,High,Fast,Runtime Error
+Ananya Kumar,Psychology,Behavioral Studies,1,Advanced,48,150,60,76,-16,Medium,Average,Syntax Error
+Akshay Reddy,Data Science,Feature Engineering,1,Advanced,20,8,66,48,18,Medium,Fast,Algorithm Error
+Ananya Verma,Physics,Energy and Work,1,Expert,43,38,47,39,8,Medium,Average,No Error
+Vivaan Gupta,Psychology,Abnormal Psychology,1,Intermediate,56,31,73,55,18,Medium,Average,Syntax Error
+Ananya Singh,Programming,Web Development,1,Beginner,19,28,85,68,17,High,Fast,Syntax Error
+Ishaan Rao,Programming,Debugging,1,Intermediate,25,8,79,85,-6,Medium,Fast,Runtime Error
+Rohan Chopra,Biology,DNA and Proteins,2,Beginner,28,10,95,90,5,High,Fast,Missed Prerequisite
+Arjun Bhat,Data Science,Pandas Tutorial,1,Advanced,42,46,58,54,4,Medium,Average,Data Formatting Error
+Sanjay Gupta,Programming,Loops,1,Intermediate,15,10,80,97,-17,High,Fast,No Error
